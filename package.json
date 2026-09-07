@@ -1,0 +1,15 @@
+{
+  "name": "moex-screener-pipeline",
+  "version": "1.0.0",
+  "description": "Фоновые задания (ежедневное/еженедельное), считающие данные для скринера акций MOEX на Tilda",
+  "type": "commonjs",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "fetch-fundamentals": "node scripts/fetch-fundamentals.js",
+    "build-daily": "node scripts/build-daily.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "undici": "^6.19.0"
+  }
+}
