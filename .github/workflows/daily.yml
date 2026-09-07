@@ -1,0 +1,28 @@
+name: Daily table build (MOEX ISS)
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # каждый день в 05:00 UTC, после закрытия торгов MOEX
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install
+      - run: npm run build-daily
+      - name: Закоммитить обновлённую таблицу
+        run: |
+          git config user.name "moex-pipeline-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/table.json
+          git diff --cached --quiet || git commit -m "chore: ежедневное обновление table.json"
+          git pull --rebase origin ${{ github.ref_name }}
+          git push origin HEAD:${{ github.ref_name }}
