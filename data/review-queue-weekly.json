@@ -1,0 +1,1467 @@
+[
+  {
+    "secid": "AKAI",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "AKBC",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AKBC/f/y/RSBU/"
+  },
+  {
+    "secid": "AKCN",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AKCN/f/y/RSBU/"
+  },
+  {
+    "secid": "AKFB",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "AKFN",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AKFN/f/y/RSBU/"
+  },
+  {
+    "secid": "AKGD",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AKGD/f/y/RSBU/"
+  },
+  {
+    "secid": "AKGP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AKGP/f/y/RSBU/"
+  },
+  {
+    "secid": "AKHT",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "AKIE",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "AKMB",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "AKMC",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AKMC/f/y/RSBU/"
+  },
+  {
+    "secid": "AKME",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "AKMM",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AKMM/f/y/RSBU/"
+  },
+  {
+    "secid": "AKMP",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "AKPP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AKPP/f/y/RSBU/"
+  },
+  {
+    "secid": "AKQU",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AKQU/f/y/RSBU/"
+  },
+  {
+    "secid": "AKUP",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "AMFL",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AMFL/f/y/RSBU/"
+  },
+  {
+    "secid": "AMGB",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AMGB/f/y/RSBU/"
+  },
+  {
+    "secid": "AMGL",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AMGL/f/y/RSBU/"
+  },
+  {
+    "secid": "AMIX",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AMIX/f/y/RSBU/"
+  },
+  {
+    "secid": "AMNR",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "AMNY",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "AMRE",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AMRE/f/y/RSBU/"
+  },
+  {
+    "secid": "AMRH",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "AMVD",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AMVD/f/y/RSBU/"
+  },
+  {
+    "secid": "AMVY",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AMVY/f/y/RSBU/"
+  },
+  {
+    "secid": "BANEP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/BANEP/f/y/RSBU/"
+  },
+  {
+    "secid": "BCSB",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/BCSB/f/y/RSBU/"
+  },
+  {
+    "secid": "BCSD",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "BCSE",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/BCSE/f/y/RSBU/"
+  },
+  {
+    "secid": "BCSG",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "BCSR",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "BCSW",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/BCSW/f/y/RSBU/"
+  },
+  {
+    "secid": "BISVP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/BISVP/f/y/RSBU/"
+  },
+  {
+    "secid": "BNDA",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/BNDA/f/y/RSBU/"
+  },
+  {
+    "secid": "BNDB",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/BNDB/f/y/RSBU/"
+  },
+  {
+    "secid": "BNDC",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "BOND",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "BSPBP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/BSPBP/f/y/RSBU/"
+  },
+  {
+    "secid": "CASH",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "CHGZ",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "CNTLP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/CNTLP/f/y/RSBU/"
+  },
+  {
+    "secid": "CNYM",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "CORP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/CORP/f/y/RSBU/"
+  },
+  {
+    "secid": "DIVD",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "DZRDP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/DZRDP/f/y/RSBU/"
+  },
+  {
+    "secid": "EQMX",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "ESGE",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "ESGR",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "FINC",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "FLOW",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "FMBR",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/FMBR/f/y/RSBU/"
+  },
+  {
+    "secid": "FMMM",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "FMSA",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/FMSA/f/y/RSBU/"
+  },
+  {
+    "secid": "GAZAP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/GAZAP/f/y/RSBU/"
+  },
+  {
+    "secid": "GOLD",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "GOOD",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "GROD",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/GROD/f/y/RSBU/"
+  },
+  {
+    "secid": "HIMCP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/HIMCP/f/y/RSBU/"
+  },
+  {
+    "secid": "IGSTP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/IGSTP/f/y/RSBU/"
+  },
+  {
+    "secid": "INFL",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "INGO",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "JNOSP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/JNOSP/f/y/RSBU/"
+  },
+  {
+    "secid": "KAZTP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/KAZTP/f/y/RSBU/"
+  },
+  {
+    "secid": "KCHEP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/KCHEP/f/y/RSBU/"
+  },
+  {
+    "secid": "KFBA",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/KFBA/f/y/RSBU/"
+  },
+  {
+    "secid": "KGKCP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/KGKCP/f/y/RSBU/"
+  },
+  {
+    "secid": "KRKNP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/KRKNP/f/y/RSBU/"
+  },
+  {
+    "secid": "KRKOP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/KRKOP/f/y/RSBU/"
+  },
+  {
+    "secid": "KROTP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/KROTP/f/y/RSBU/"
+  },
+  {
+    "secid": "KRSBP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/KRSBP/f/y/RSBU/"
+  },
+  {
+    "secid": "KZOSP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/KZOSP/f/y/RSBU/"
+  },
+  {
+    "secid": "LNZLP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/LNZLP/f/y/RSBU/"
+  },
+  {
+    "secid": "LQDT",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "LSNGP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/LSNGP/f/y/RSBU/"
+  },
+  {
+    "secid": "MAGEP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/MAGEP/f/y/RSBU/"
+  },
+  {
+    "secid": "MFGSP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/MFGSP/f/y/RSBU/"
+  },
+  {
+    "secid": "MGTSP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/MGTSP/f/y/RSBU/"
+  },
+  {
+    "secid": "MISBP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/MISBP/f/y/RSBU/"
+  },
+  {
+    "secid": "MKBD",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "MONY",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/MONY/f/y/RSBU/"
+  },
+  {
+    "secid": "MTLRP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/MTLRP/f/y/RSBU/"
+  },
+  {
+    "secid": "NFKL",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/NFKL/f/y/RSBU/"
+  },
+  {
+    "secid": "NKNCP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/NKNCP/f/y/RSBU/"
+  },
+  {
+    "secid": "NNSBP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/NNSBP/f/y/RSBU/"
+  },
+  {
+    "secid": "OBLG",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "OFZS",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/OFZS/f/y/RSBU/"
+  },
+  {
+    "secid": "OLIQ",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/OLIQ/f/y/RSBU/"
+  },
+  {
+    "secid": "OMZZP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/OMZZP/f/y/RSBU/"
+  },
+  {
+    "secid": "PMSBP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/PMSBP/f/y/RSBU/"
+  },
+  {
+    "secid": "PRIE",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "PSGM",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/PSGM/f/y/RSBU/"
+  },
+  {
+    "secid": "PSMM",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "PSRB",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "PSRE",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/PSRE/f/y/RSBU/"
+  },
+  {
+    "secid": "RSHU",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "RTKMP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RTKMP/f/y/RSBU/"
+  },
+  {
+    "secid": "RTSBP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RTSBP/f/y/RSBU/"
+  },
+  {
+    "secid": "RU0005418747",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU0005418747/f/y/RSBU/"
+  },
+  {
+    "secid": "RU0006922010",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU0006922010/f/y/RSBU/"
+  },
+  {
+    "secid": "RU0006922044",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU0006922044/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0HGNG6",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0HGNG6/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0HGNH4",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0HGNH4/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JP773",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JP773/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JP799",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JP799/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JPMD2",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JPMD2/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JPZL7",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JPZL7/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JPZP8",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JPZP8/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JR282",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JR282/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JR290",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JR290/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JR2A5",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JR2A5/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JR2C1",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JR2C1/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JRHC0",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JRHC0/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JRUQ3",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JRUQ3/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JUR61",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JUR61/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JUYB1",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JUYB1/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JVJ29",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JVJ29/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JWCE7",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JWCE7/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JXP78",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JXP78/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0JXWF0",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JXWF0/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0ZYC64",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0ZYC64/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0ZZ422",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0ZZ422/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0ZZ5R2",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0ZZ5R2/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0ZZCD8",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0ZZCD8/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0ZZMD7",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0ZZMD7/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0ZZME5",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0ZZME5/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0ZZML0",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0ZZML0/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0ZZMN6",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0ZZMN6/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A0ZZVH9",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0ZZVH9/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A1000W4",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A1000W4/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A1000Y0",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A1000Y0/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A100EQ2",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A100EQ2/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A100WZ5",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A100WZ5/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A101NK4",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A101NK4/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A101UK9",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A101UK9/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A101UY0",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A101UY0/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A1022Z1",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A1022Z1/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A1027E5",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A1027E5/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A102AH5",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A102AH5/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A102N77",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A102N77/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A102PE0",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A102PE0/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A102PF7",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A102PF7/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A102PN1",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A102PN1/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A102PQ4",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A102PQ4/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A1034U7",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A1034U7/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A103B62",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A103B62/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A103HD7",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A103HD7/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A104172",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A104172/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A104KU3",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 504 для https://smart-lab.ru/q/RU000A104KU3/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A104M43",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A104M43/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A104YX8",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A104YX8/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A105153",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A105153/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A105328",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A105328/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A105GY0",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A105GY0/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A105R70",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A105R70/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A105RJ8",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A105RJ8/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A105TU1",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A105TU1/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A1068X9",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A1068X9/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A106CX9",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A106CX9/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A106G80",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A106G80/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A106LB6",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A106LB6/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A106LC4",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A106LC4/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A106MG3",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A106MG3/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A106N57",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A106N57/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A106SA3",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A106SA3/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A106XE5",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A106XE5/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A1075T2",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A1075T2/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A107860",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A107860/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A1079J5",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A1079J5/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A107J37",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A107J37/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A107RE5",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A107RE5/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A107U08",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A107U08/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A108751",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A108751/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A108KP4",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A108KP4/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A108TT7",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A108TT7/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A108UH0",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A108UH0/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A108VR7",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A108VR7/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A108ZB2",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A108ZB2/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A1092L4",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A1092L4/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A1095D4",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A1095D4/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A1099U0",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A1099U0/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A109G79",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A109G79/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A109GQ8",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A109GQ8/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A109NL5",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A109NL5/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A109QR5",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A109QR5/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A109R27",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A109R27/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10A489",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10A489/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10AN72",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10AN72/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10AQT4",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10AQT4/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10ATA8",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10ATA8/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10BBS6",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10BBS6/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10BM31",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10BM31/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10BQP0",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10BQP0/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10BQQ8",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10BQQ8/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10BT26",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10BT26/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10BT42",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10BT42/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10CFM8",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10CFM8/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10CKQ9",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10CKQ9/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10CLY1",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10CLY1/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10D7W9",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10D7W9/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10D814",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10D814/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10E3R7",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10E3R7/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10ECF5",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10ECF5/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10ECJ7",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10ECJ7/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10EVE8",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10EVE8/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10F439",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10F439/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10FDU9",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10FDU9/f/y/RSBU/"
+  },
+  {
+    "secid": "RU000A10FQ17",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A10FQ17/f/y/RSBU/"
+  },
+  {
+    "secid": "RUFO",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RUFO/f/y/RSBU/"
+  },
+  {
+    "secid": "SAFE",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SAFE/f/y/RSBU/"
+  },
+  {
+    "secid": "SAGOP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SAGOP/f/y/RSBU/"
+  },
+  {
+    "secid": "SAREP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SAREP/f/y/RSBU/"
+  },
+  {
+    "secid": "SBBC",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SBBY",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SBCB",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SBCN",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SBCN/f/y/RSBU/"
+  },
+  {
+    "secid": "SBDS",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SBDS/f/y/RSBU/"
+  },
+  {
+    "secid": "SBERP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SBERP/f/y/RSBU/"
+  },
+  {
+    "secid": "SBFR",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SBGB",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SBGD",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SBGD/f/y/RSBU/"
+  },
+  {
+    "secid": "SBHI",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SBLB",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SBMM",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SBMX",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SBPS",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SBPS/f/y/RSBU/"
+  },
+  {
+    "secid": "SBRB",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SBRI",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SBRI/f/y/RSBU/"
+  },
+  {
+    "secid": "SBRS",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SBRS/f/y/RSBU/"
+  },
+  {
+    "secid": "SBSC",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SBSC/f/y/RSBU/"
+  },
+  {
+    "secid": "SCFT",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SCLI",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SILA",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SILA/f/y/RSBU/"
+  },
+  {
+    "secid": "SIPO",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SMCF",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SMCF/f/y/RSBU/"
+  },
+  {
+    "secid": "SNGSP",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SPRN",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SPRN/f/y/RSBU/"
+  },
+  {
+    "secid": "STME",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/STME/f/y/RSBU/"
+  },
+  {
+    "secid": "STSBP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/STSBP/f/y/RSBU/"
+  },
+  {
+    "secid": "SUGB",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "SVETP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SVETP/f/y/RSBU/"
+  },
+  {
+    "secid": "TASBP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TASBP/f/y/RSBU/"
+  },
+  {
+    "secid": "TATNP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TATNP/f/y/RSBU/"
+  },
+  {
+    "secid": "TBEU",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "TBRU",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TBRU/f/y/RSBU/"
+  },
+  {
+    "secid": "TDIV",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "TEUR",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TEUR/f/y/RSBU/"
+  },
+  {
+    "secid": "TGKBP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TGKBP/f/y/RSBU/"
+  },
+  {
+    "secid": "TGLD",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TGLD/f/y/RSBU/"
+  },
+  {
+    "secid": "TITR",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "TLCB",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "TMON",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "TMOS",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "TOFZ",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "TOPS",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TOPS/f/y/RSBU/"
+  },
+  {
+    "secid": "TORSP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TORSP/f/y/RSBU/"
+  },
+  {
+    "secid": "TPAY",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "TRND",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "TRUR",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "TSAV",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TSAV/f/y/RSBU/"
+  },
+  {
+    "secid": "TUSD",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TUSD/f/y/RSBU/"
+  },
+  {
+    "secid": "VDOR",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/VDOR/f/y/RSBU/"
+  },
+  {
+    "secid": "VEON-RX",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/VEON-RX/f/y/RSBU/"
+  },
+  {
+    "secid": "VGSBP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/VGSBP/f/y/RSBU/"
+  },
+  {
+    "secid": "VJGZP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/VJGZP/f/y/RSBU/"
+  },
+  {
+    "secid": "VRSBP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/VRSBP/f/y/RSBU/"
+  },
+  {
+    "secid": "VSYD",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "WILD",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "WTCM",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/WTCM/f/y/RSBU/"
+  },
+  {
+    "secid": "XACCSK",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XACCSK/f/y/RSBU/"
+  },
+  {
+    "secid": "XAVIUM",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XAVIUM/f/y/RSBU/"
+  },
+  {
+    "secid": "XCREDI",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XCREDI/f/y/RSBU/"
+  },
+  {
+    "secid": "XEQTRU",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XEQTRU/f/y/RSBU/"
+  },
+  {
+    "secid": "XFMAGR",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XFMAGR/f/y/RSBU/"
+  },
+  {
+    "secid": "XFMAGY",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XFMAGY/f/y/RSBU/"
+  },
+  {
+    "secid": "XFMAIN",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XFMAIN/f/y/RSBU/"
+  },
+  {
+    "secid": "XFMOMB",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XFMOMB/f/y/RSBU/"
+  },
+  {
+    "secid": "XHEDGE",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XHEDGE/f/y/RSBU/"
+  },
+  {
+    "secid": "XHOUSE",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "XIPKSV",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XIPKSV/f/y/RSBU/"
+  },
+  {
+    "secid": "XKLUCH",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XKLUCH/f/y/RSBU/"
+  },
+  {
+    "secid": "XNIRUM",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XNIRUM/f/y/RSBU/"
+  },
+  {
+    "secid": "XQUANT",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XQUANT/f/y/RSBU/"
+  },
+  {
+    "secid": "XSBORA",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XSBORA/f/y/RSBU/"
+  },
+  {
+    "secid": "XSECUR",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XSECUR/f/y/RSBU/"
+  },
+  {
+    "secid": "XSKLAD",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XSKLAD/f/y/RSBU/"
+  },
+  {
+    "secid": "XTRIUMF",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XTRIUMF/f/y/RSBU/"
+  },
+  {
+    "secid": "XXRONE",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XXRONE/f/y/RSBU/"
+  },
+  {
+    "secid": "XXXXXX",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XXXXXX/f/y/RSBU/"
+  },
+  {
+    "secid": "YKENP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/YKENP/f/y/RSBU/"
+  },
+  {
+    "secid": "YRSBP",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/YRSBP/f/y/RSBU/"
+  },
+  {
+    "secid": "YUAN",
+    "issue": "smartlab_no_data",
+    "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  }
+]
