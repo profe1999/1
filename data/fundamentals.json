@@ -15,7 +15,7 @@
     "roe": 0.2,
     "roa": 0,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:21.187Z"
+    "_updatedAt": "2026-09-14T03:17:03.235Z"
   },
   "ABRD": {
     "isFinancial": false,
@@ -33,7 +33,7 @@
     "roe": 9.6,
     "roa": 4.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:21.510Z"
+    "_updatedAt": "2026-09-14T03:17:03.548Z"
   },
   "AFKS": {
     "isFinancial": false,
@@ -51,7 +51,7 @@
     "roe": 79.4,
     "roa": -5.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:21.762Z"
+    "_updatedAt": "2026-09-14T03:17:03.845Z"
   },
   "AFLT": {
     "isFinancial": false,
@@ -69,7 +69,7 @@
     "roe": 41.8,
     "roa": 1.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:22.065Z"
+    "_updatedAt": "2026-09-14T03:17:04.137Z"
   },
   "AKAI": null,
   "AKBC": null,
@@ -103,7 +103,7 @@
     "roe": 14.8,
     "roa": 7.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:29.899Z"
+    "_updatedAt": "2026-09-14T03:17:13.293Z"
   },
   "AKUP": null,
   "ALRS": {
@@ -122,25 +122,25 @@
     "roe": -3.5,
     "roa": -2.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:30.601Z"
+    "_updatedAt": "2026-09-14T03:17:14.152Z"
   },
   "AMEZ": {
     "isFinancial": false,
     "shortname": "АшинскийМЗ",
-    "revenue": 27200000000,
-    "operatingIncome": -1220000000,
-    "netIncome": -1390000000,
+    "revenue": 24700000000,
+    "operatingIncome": -1690000000,
+    "netIncome": -1440000000,
     "ocf": 209000000,
-    "capex": 7510000000,
-    "fcf": -2340000000,
+    "capex": 6460000000,
+    "fcf": -3090000000,
     "dividendPayout": null,
-    "amortization": 900000000,
-    "assets": 37700000000,
-    "netAssets": 12200000000,
-    "roe": -11.4,
-    "roa": -3.7,
+    "amortization": 1000000000,
+    "assets": 37000000000,
+    "netAssets": 11800000000,
+    "roe": -12.2,
+    "roa": -3.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:30.878Z"
+    "_updatedAt": "2026-09-14T03:17:14.477Z"
   },
   "AMFL": null,
   "AMGB": null,
@@ -168,25 +168,25 @@
     "roe": 14.9,
     "roa": 1.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:35.688Z"
+    "_updatedAt": "2026-09-14T03:17:20.172Z"
   },
   "APTK": {
     "isFinancial": false,
     "shortname": "Аптеки36и6",
-    "revenue": 105600000000,
-    "operatingIncome": 9960000000,
-    "netIncome": 263000000,
-    "ocf": 5070000000,
-    "capex": 1870000000,
+    "revenue": 110500000000,
+    "operatingIncome": 10200000000,
+    "netIncome": 490000000,
+    "ocf": 6720000000,
+    "capex": 1420000000,
     "fcf": -397000000,
     "dividendPayout": null,
-    "amortization": 6400000000,
-    "assets": 64099999999.99999,
-    "netAssets": -7300000000,
-    "roe": -3.6,
-    "roa": 0.4,
+    "amortization": 6500000000,
+    "assets": 67400000000.00001,
+    "netAssets": -7030000000,
+    "roe": -7,
+    "roa": 0.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:35.989Z"
+    "_updatedAt": "2026-09-14T03:17:20.524Z"
   },
   "AQUA": {
     "isFinancial": false,
@@ -204,7 +204,7 @@
     "roe": 7.6,
     "roa": 4.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:36.323Z"
+    "_updatedAt": "2026-09-14T03:17:20.820Z"
   },
   "ARSA": {
     "isFinancial": false,
@@ -222,7 +222,7 @@
     "roe": -0.5,
     "roa": -0.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:36.624Z"
+    "_updatedAt": "2026-09-14T03:17:21.093Z"
   },
   "ASSB": {
     "isFinancial": false,
@@ -240,7 +240,7 @@
     "roe": 60.3,
     "roa": 18.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:36.892Z"
+    "_updatedAt": "2026-09-14T03:17:21.405Z"
   },
   "ASTR": {
     "isFinancial": false,
@@ -258,7 +258,7 @@
     "roe": 61,
     "roa": 30.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:37.166Z"
+    "_updatedAt": "2026-09-14T03:17:21.696Z"
   },
   "AVAN": {
     "isFinancial": false,
@@ -276,7 +276,7 @@
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:37.437Z"
+    "_updatedAt": "2026-09-14T03:17:21.988Z"
   },
   "BANE": {
     "isFinancial": false,
@@ -294,7 +294,7 @@
     "roe": 11.7,
     "roa": 9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:37.669Z"
+    "_updatedAt": "2026-09-14T03:17:22.272Z"
   },
   "BANEP": null,
   "BAZA": {
@@ -313,7 +313,7 @@
     "roe": 37.1,
     "roa": 29.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:38.421Z"
+    "_updatedAt": "2026-09-14T03:17:23.074Z"
   },
   "BCSB": null,
   "BCSD": null,
@@ -337,7 +337,7 @@
     "roe": 18.3,
     "roa": 3.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:41.472Z"
+    "_updatedAt": "2026-09-14T03:17:26.551Z"
   },
   "BISVP": null,
   "BLNG": {
@@ -356,7 +356,7 @@
     "roe": -212,
     "roa": -211.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:42.200Z"
+    "_updatedAt": "2026-09-14T03:17:27.336Z"
   },
   "BNDA": null,
   "BNDB": null,
@@ -367,18 +367,18 @@
     "shortname": "БурЗолото",
     "revenue": 3230000000,
     "operatingIncome": -1640000000,
-    "netIncome": 1200000000,
-    "ocf": 200000000,
+    "netIncome": 1500000000,
+    "ocf": -104000000,
     "capex": 0,
-    "fcf": -369000000,
+    "fcf": -833000000,
     "dividendPayout": null,
     "amortization": null,
-    "assets": 20600000000,
-    "netAssets": 20500000000,
-    "roe": 5.9,
-    "roa": 5.8,
+    "assets": 21300000000,
+    "netAssets": 21200000000,
+    "roe": 7.1,
+    "roa": 7.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:44.383Z"
+    "_updatedAt": "2026-09-14T03:17:29.801Z"
   },
   "BSPB": {
     "isFinancial": true,
@@ -396,7 +396,7 @@
     "roe": 10.1,
     "roa": 1.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:44.642Z"
+    "_updatedAt": "2026-09-14T03:17:30.110Z"
   },
   "BSPBP": null,
   "BTBR": {
@@ -415,7 +415,7 @@
     "roe": 105.6,
     "roa": 29.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:45.362Z"
+    "_updatedAt": "2026-09-14T03:17:30.896Z"
   },
   "CARM": {
     "isFinancial": false,
@@ -433,26 +433,26 @@
     "roe": -0.3,
     "roa": -0.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:45.616Z"
+    "_updatedAt": "2026-09-14T03:17:31.163Z"
   },
   "CASH": null,
   "CBOM": {
     "isFinancial": true,
     "shortname": "МКБ ао",
-    "revenue": 306500000000,
-    "operatingIncome": 274200000000,
-    "netIncome": 34600000000,
+    "revenue": 306400000000,
+    "operatingIncome": 276900000000,
+    "netIncome": 31300000000,
     "ocf": null,
     "capex": null,
     "fcf": null,
     "dividendPayout": null,
     "amortization": null,
-    "assets": 4739000000000,
+    "assets": 4653000000000,
     "netAssets": 388600000000,
     "roe": 7,
     "roa": 0.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:46.341Z"
+    "_updatedAt": "2026-09-14T03:17:31.937Z"
   },
   "CHGZ": null,
   "CHKZ": {
@@ -471,7 +471,7 @@
     "roe": 2.9,
     "roa": 0.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:47.024Z"
+    "_updatedAt": "2026-09-14T03:17:32.737Z"
   },
   "CHMF": {
     "isFinancial": false,
@@ -489,7 +489,7 @@
     "roe": -0.1,
     "roa": -0.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:47.278Z"
+    "_updatedAt": "2026-09-14T03:17:33.013Z"
   },
   "CHMK": {
     "isFinancial": false,
@@ -507,7 +507,7 @@
     "roe": -125.9,
     "roa": -11.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:47.534Z"
+    "_updatedAt": "2026-09-14T03:17:33.318Z"
   },
   "CNRU": {
     "isFinancial": false,
@@ -525,7 +525,7 @@
     "roe": 99.9,
     "roa": 45.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:47.794Z"
+    "_updatedAt": "2026-09-14T03:17:33.616Z"
   },
   "CNTL": {
     "isFinancial": false,
@@ -543,7 +543,7 @@
     "roe": -60.6,
     "roa": -41.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:48.050Z"
+    "_updatedAt": "2026-09-14T03:17:33.906Z"
   },
   "CNTLP": null,
   "CNYM": null,
@@ -564,7 +564,7 @@
     "roe": 84.7,
     "roa": 52.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:49.737Z"
+    "_updatedAt": "2026-09-14T03:17:35.890Z"
   },
   "DELI": {
     "isFinancial": false,
@@ -582,7 +582,7 @@
     "roe": -442.6,
     "roa": -8.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:49.989Z"
+    "_updatedAt": "2026-09-14T03:17:36.189Z"
   },
   "DIAS": {
     "isFinancial": false,
@@ -600,7 +600,7 @@
     "roe": 24.8,
     "roa": 15.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:50.270Z"
+    "_updatedAt": "2026-09-14T03:17:36.481Z"
   },
   "DIOD": {
     "isFinancial": false,
@@ -618,44 +618,44 @@
     "roe": -11.1,
     "roa": -7.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:50.515Z"
+    "_updatedAt": "2026-09-14T03:17:36.774Z"
   },
   "DIVD": null,
   "DOMRF": {
-    "isFinancial": false,
+    "isFinancial": true,
     "shortname": "ДОМ.РФ",
-    "revenue": null,
-    "operatingIncome": 190800000000,
+    "revenue": 223100000000,
+    "operatingIncome": 169500000000,
     "netIncome": 106800000000,
     "ocf": -223200000000,
     "capex": null,
     "fcf": null,
     "dividendPayout": null,
     "amortization": 4900000000,
-    "assets": null,
-    "netAssets": null,
+    "assets": 6829000000000,
+    "netAssets": 480800000000,
     "roe": 23.8,
     "roa": 1.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:51.226Z"
+    "_updatedAt": "2026-09-14T03:17:37.572Z"
   },
   "DVEC": {
     "isFinancial": false,
     "shortname": "ДЭК ао",
-    "revenue": 179200000000,
-    "operatingIncome": 8800000000,
-    "netIncome": 5290000000,
-    "ocf": 15900000000,
-    "capex": 14300000000,
-    "fcf": 1720000000,
+    "revenue": 199800000000,
+    "operatingIncome": 11300000000,
+    "netIncome": 7040000000,
+    "ocf": 13100000000,
+    "capex": 14500000000,
+    "fcf": -993000000,
     "dividendPayout": null,
-    "amortization": 4700000000,
-    "assets": 111800000000,
-    "netAssets": 32000000000,
-    "roe": 16.6,
-    "roa": 4.7,
+    "amortization": 5000000000,
+    "assets": 116000000000,
+    "netAssets": 31700000000,
+    "roe": 22.2,
+    "roa": 6.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:51.492Z"
+    "_updatedAt": "2026-09-14T03:17:37.851Z"
   },
   "DZRD": {
     "isFinancial": false,
@@ -673,26 +673,26 @@
     "roe": -89.7,
     "roa": -51.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:51.767Z"
+    "_updatedAt": "2026-09-14T03:17:38.159Z"
   },
   "DZRDP": null,
   "EELT": {
     "isFinancial": false,
     "shortname": "ЕвроЭлтех",
-    "revenue": 9900000000,
-    "operatingIncome": 1310000000,
-    "netIncome": 812000000,
-    "ocf": 1060000000,
-    "capex": 262000000,
-    "fcf": 639000000,
+    "revenue": 11500000000,
+    "operatingIncome": 1320000000,
+    "netIncome": 792000000,
+    "ocf": -332000000,
+    "capex": 249000000,
+    "fcf": -874000000,
     "dividendPayout": null,
     "amortization": 100000000,
-    "assets": 9040000000,
-    "netAssets": 3230000000,
-    "roe": 25.2,
+    "assets": 8810000000,
+    "netAssets": 3030000000,
+    "roe": 26.2,
     "roa": 9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:52.453Z"
+    "_updatedAt": "2026-09-14T03:17:38.947Z"
   },
   "ELFV": {
     "isFinancial": false,
@@ -710,7 +710,7 @@
     "roe": 12,
     "roa": 6.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:52.717Z"
+    "_updatedAt": "2026-09-14T03:17:39.233Z"
   },
   "ELMT": {
     "isFinancial": false,
@@ -728,7 +728,7 @@
     "roe": -22.5,
     "roa": -6.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:52.970Z"
+    "_updatedAt": "2026-09-14T03:17:39.510Z"
   },
   "ENPG": {
     "isFinancial": false,
@@ -746,7 +746,7 @@
     "roe": 7.7,
     "roa": 2.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:53.222Z"
+    "_updatedAt": "2026-09-14T03:17:39.790Z"
   },
   "EQMX": null,
   "ESGE": null,
@@ -767,7 +767,7 @@
     "roe": -78.3,
     "roa": -6.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:54.754Z"
+    "_updatedAt": "2026-09-14T03:17:41.601Z"
   },
   "EUTR": {
     "isFinancial": false,
@@ -785,7 +785,7 @@
     "roe": -14.3,
     "roa": -2.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:55.004Z"
+    "_updatedAt": "2026-09-14T03:17:41.890Z"
   },
   "EVRZ": {
     "isFinancial": false,
@@ -803,7 +803,7 @@
     "roe": 50.2,
     "roa": 20.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:55.272Z"
+    "_updatedAt": "2026-09-14T03:17:42.190Z"
   },
   "FEES": {
     "isFinancial": false,
@@ -821,7 +821,7 @@
     "roe": 10.2,
     "roa": 4.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:55.496Z"
+    "_updatedAt": "2026-09-14T03:17:42.496Z"
   },
   "FESH": {
     "isFinancial": false,
@@ -839,7 +839,7 @@
     "roe": -2,
     "roa": -1.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:55.748Z"
+    "_updatedAt": "2026-09-14T03:17:42.769Z"
   },
   "FINC": null,
   "FIXR": {
@@ -858,7 +858,7 @@
     "roe": 18.9,
     "roa": 7.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:56.434Z"
+    "_updatedAt": "2026-09-14T03:17:43.539Z"
   },
   "FLOT": {
     "isFinancial": false,
@@ -876,7 +876,7 @@
     "roe": 1.4,
     "roa": 0.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:56.684Z"
+    "_updatedAt": "2026-09-14T03:17:43.805Z"
   },
   "FLOW": null,
   "FMBR": null,
@@ -898,7 +898,7 @@
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:35:59.577Z"
+    "_updatedAt": "2026-09-14T03:17:46.644Z"
   },
   "GAZAP": null,
   "GAZC": {
@@ -917,7 +917,7 @@
     "roe": 3.9,
     "roa": 3.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:03.202Z"
+    "_updatedAt": "2026-09-14T03:17:47.436Z"
   },
   "GAZP": {
     "isFinancial": false,
@@ -935,7 +935,7 @@
     "roe": 7.7,
     "roa": 4.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:03.465Z"
+    "_updatedAt": "2026-09-14T03:17:47.762Z"
   },
   "GAZS": {
     "isFinancial": false,
@@ -953,7 +953,7 @@
     "roe": 4,
     "roa": 3.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:03.955Z"
+    "_updatedAt": "2026-09-14T03:17:48.026Z"
   },
   "GAZT": {
     "isFinancial": false,
@@ -971,7 +971,7 @@
     "roe": 4,
     "roa": 3.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:04.216Z"
+    "_updatedAt": "2026-09-14T03:17:48.321Z"
   },
   "GCHE": {
     "isFinancial": false,
@@ -989,7 +989,7 @@
     "roe": 18.2,
     "roa": 7.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:04.473Z"
+    "_updatedAt": "2026-09-14T03:17:48.590Z"
   },
   "GECO": {
     "isFinancial": false,
@@ -1007,7 +1007,7 @@
     "roe": -16.5,
     "roa": -9.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:04.720Z"
+    "_updatedAt": "2026-09-14T03:17:48.860Z"
   },
   "GEMA": {
     "isFinancial": false,
@@ -1025,7 +1025,7 @@
     "roe": 81.3,
     "roa": 13,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:04.972Z"
+    "_updatedAt": "2026-09-14T03:17:49.125Z"
   },
   "GEMC": {
     "isFinancial": false,
@@ -1043,25 +1043,25 @@
     "roe": 25.2,
     "roa": 15.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:05.232Z"
+    "_updatedAt": "2026-09-14T03:17:49.405Z"
   },
   "GLRX": {
     "isFinancial": false,
     "shortname": "ГЛОРАКС",
-    "revenue": 41300000000,
-    "operatingIncome": 11400000000,
-    "netIncome": 3070000000,
-    "ocf": -19000000000,
-    "capex": 458000000,
-    "fcf": -21000000000,
+    "revenue": 49600000000,
+    "operatingIncome": 11200000000,
+    "netIncome": 2330000000,
+    "ocf": -21900000000,
+    "capex": 363000000,
+    "fcf": -20400000000,
     "dividendPayout": null,
-    "amortization": 200000000,
-    "assets": 110000000000,
-    "netAssets": 7160000000,
-    "roe": 42.9,
-    "roa": 2.8,
+    "amortization": 300000000,
+    "assets": 116700000000,
+    "netAssets": 8350000000,
+    "roe": 27.9,
+    "roa": 2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:05.490Z"
+    "_updatedAt": "2026-09-14T03:17:49.678Z"
   },
   "GMKN": {
     "isFinancial": false,
@@ -1079,7 +1079,7 @@
     "roe": 22.3,
     "roa": 8.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:05.758Z"
+    "_updatedAt": "2026-09-14T03:17:49.955Z"
   },
   "GOLD": null,
   "GOOD": null,
@@ -1087,20 +1087,20 @@
   "GTRK": {
     "isFinancial": false,
     "shortname": "ГТМ ао",
-    "revenue": 4250000000,
-    "operatingIncome": -13000000000,
-    "netIncome": -13800000000,
-    "ocf": -2000000000,
-    "capex": 48000000,
-    "fcf": -2230000000,
+    "revenue": 3190000000,
+    "operatingIncome": -12100000000,
+    "netIncome": -13300000000,
+    "ocf": -203000000,
+    "capex": 40000000,
+    "fcf": -1020000000,
     "dividendPayout": null,
-    "amortization": 700000000,
-    "assets": 3590000000,
-    "netAssets": -8020000000,
-    "roe": 172.7,
-    "roa": -385.5,
+    "amortization": 600000000,
+    "assets": 2560000000,
+    "netAssets": -8660000000,
+    "roe": 153.5,
+    "roa": -518.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:07.841Z"
+    "_updatedAt": "2026-09-14T03:17:52.461Z"
   },
   "HEAD": {
     "isFinancial": false,
@@ -1118,7 +1118,7 @@
     "roe": -3239.7,
     "roa": 70.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:08.110Z"
+    "_updatedAt": "2026-09-14T03:17:52.755Z"
   },
   "HIMCP": null,
   "HNFG": {
@@ -1137,7 +1137,7 @@
     "roe": 18.3,
     "roa": 6.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:08.832Z"
+    "_updatedAt": "2026-09-14T03:17:53.558Z"
   },
   "HYDR": {
     "isFinancial": false,
@@ -1155,7 +1155,7 @@
     "roe": 19,
     "roa": 7.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:09.104Z"
+    "_updatedAt": "2026-09-14T03:17:53.826Z"
   },
   "IGST": {
     "isFinancial": false,
@@ -1173,26 +1173,26 @@
     "roe": -7.6,
     "roa": -2.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:09.366Z"
+    "_updatedAt": "2026-09-14T03:17:54.121Z"
   },
   "IGSTP": null,
   "INCB": {
     "isFinancial": false,
     "shortname": "Инкаб",
-    "revenue": 5000000000,
-    "operatingIncome": 906000000,
+    "revenue": 4600000000,
+    "operatingIncome": 1180000000,
     "netIncome": 90000000,
     "ocf": -57000000,
     "capex": 400000000,
-    "fcf": -487000000,
+    "fcf": -193000000,
     "dividendPayout": null,
     "amortization": 200000000,
     "assets": 5520000000,
     "netAssets": 506000000,
-    "roe": 17.8,
+    "roe": 23.5,
     "roa": 1.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:10.066Z"
+    "_updatedAt": "2026-09-14T03:17:54.899Z"
   },
   "INFL": null,
   "INGO": null,
@@ -1212,7 +1212,7 @@
     "roe": 9.9,
     "roa": 7.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:11.164Z"
+    "_updatedAt": "2026-09-14T03:17:56.257Z"
   },
   "IRKT": {
     "isFinancial": false,
@@ -1225,12 +1225,12 @@
     "fcf": 8770000000,
     "dividendPayout": null,
     "amortization": null,
-    "assets": 647900000000,
-    "netAssets": 108800000000,
+    "assets": 631600000000,
+    "netAssets": 119700000000,
     "roe": 2.3,
-    "roa": 0.4,
+    "roa": -0.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:11.404Z"
+    "_updatedAt": "2026-09-14T03:17:56.533Z"
   },
   "IVAT": {
     "isFinancial": false,
@@ -1248,7 +1248,7 @@
     "roe": 18,
     "roa": 13.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:11.660Z"
+    "_updatedAt": "2026-09-14T03:17:56.805Z"
   },
   "JNOS": {
     "isFinancial": false,
@@ -1266,7 +1266,7 @@
     "roe": 6.3,
     "roa": 3.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:11.908Z"
+    "_updatedAt": "2026-09-14T03:17:57.086Z"
   },
   "JNOSP": null,
   "KAZT": {
@@ -1285,7 +1285,7 @@
     "roe": 7.3,
     "roa": 4.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:12.581Z"
+    "_updatedAt": "2026-09-14T03:17:57.870Z"
   },
   "KAZTP": null,
   "KBSB": {
@@ -1304,7 +1304,7 @@
     "roe": 39.8,
     "roa": 20.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:13.262Z"
+    "_updatedAt": "2026-09-14T03:17:58.658Z"
   },
   "KCHE": {
     "isFinancial": false,
@@ -1322,27 +1322,44 @@
     "roe": -0.2,
     "roa": -0.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:36:13.515Z"
+    "_updatedAt": "2026-09-14T03:17:58.950Z"
   },
   "KCHEP": null,
-  "KFBA": null,
+  "KFBA": {
+    "isFinancial": false,
+    "shortname": "ИНГРАД ао",
+    "revenue": 48500000000,
+    "operatingIncome": 12200000000,
+    "netIncome": 610000000,
+    "ocf": -8189999999.999999,
+    "capex": 26000000,
+    "fcf": -8600000000,
+    "dividendPayout": null,
+    "amortization": 500000000,
+    "assets": 151200000000,
+    "netAssets": 11300000000,
+    "roe": 5.4,
+    "roa": 0.4,
+    "_reportType": "MSFO",
+    "_updatedAt": "2026-09-14T03:17:59.767Z"
+  },
   "KGKC": {
     "isFinancial": false,
     "shortname": "КурганГКао",
-    "revenue": 11100000000,
+    "revenue": 11200000000,
     "operatingIncome": -239000000,
-    "netIncome": -277000000,
-    "ocf": 1900000000,
-    "capex": 1190000000,
-    "fcf": 442000000,
+    "netIncome": -905000000,
+    "ocf": 1030000000,
+    "capex": 1010000000,
+    "fcf": -251000000,
     "dividendPayout": null,
     "amortization": 1000000000,
-    "assets": 14700000000,
-    "netAssets": 7880000000,
+    "assets": 13000000000,
+    "netAssets": 7670000000,
     "roe": -3.5,
     "roa": -1.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:05.299Z"
+    "_updatedAt": "2026-09-14T03:18:00.041Z"
   },
   "KGKCP": null,
   "KLSB": {
@@ -1361,7 +1378,7 @@
     "roe": 5.8,
     "roa": 1.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:06.158Z"
+    "_updatedAt": "2026-09-14T03:18:02.137Z"
   },
   "KLVZ": {
     "isFinancial": false,
@@ -1379,25 +1396,25 @@
     "roe": 4.7,
     "roa": 1.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:06.424Z"
+    "_updatedAt": "2026-09-14T03:18:02.397Z"
   },
   "KMAZ": {
     "isFinancial": false,
     "shortname": "КАМАЗ",
-    "revenue": 382100000000,
-    "operatingIncome": -17100000000.000002,
-    "netIncome": -42700000000,
+    "revenue": 393000000000,
+    "operatingIncome": -7040000000,
+    "netIncome": -33299999999.999996,
     "ocf": 9310000000,
-    "capex": 25700000000,
-    "fcf": -49200000000,
+    "capex": 19600000000,
+    "fcf": -71400000000,
     "dividendPayout": null,
-    "amortization": 13100000000,
-    "assets": 523799999999.99994,
-    "netAssets": 74900000000,
-    "roe": -57,
-    "roa": -8.2,
+    "amortization": 13900000000,
+    "assets": 612700000000,
+    "netAssets": 55200000000,
+    "roe": -60.3,
+    "roa": -5.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:06.670Z"
+    "_updatedAt": "2026-09-14T03:18:02.686Z"
   },
   "KMEZ": {
     "isFinancial": false,
@@ -1415,7 +1432,7 @@
     "roe": 15.1,
     "roa": 10.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:06.936Z"
+    "_updatedAt": "2026-09-14T03:18:02.960Z"
   },
   "KOGK": {
     "isFinancial": false,
@@ -1433,7 +1450,7 @@
     "roe": -11.4,
     "roa": -9.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:07.203Z"
+    "_updatedAt": "2026-09-14T03:18:03.273Z"
   },
   "KRKN": {
     "isFinancial": false,
@@ -1451,7 +1468,7 @@
     "roe": 0.1,
     "roa": 0.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:07.469Z"
+    "_updatedAt": "2026-09-14T03:18:03.566Z"
   },
   "KRKNP": null,
   "KRKOP": null,
@@ -1471,7 +1488,7 @@
     "roe": 18.3,
     "roa": 9.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:08.806Z"
+    "_updatedAt": "2026-09-14T03:18:05.119Z"
   },
   "KROTP": null,
   "KRSB": {
@@ -1490,7 +1507,7 @@
     "roe": 27.5,
     "roa": 12.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:09.514Z"
+    "_updatedAt": "2026-09-14T03:18:06.093Z"
   },
   "KRSBP": null,
   "KUZB": {
@@ -1509,7 +1526,7 @@
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:10.200Z"
+    "_updatedAt": "2026-09-14T03:18:06.881Z"
   },
   "KZOS": {
     "isFinancial": false,
@@ -1527,7 +1544,7 @@
     "roe": 1.8,
     "roa": 1.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:10.439Z"
+    "_updatedAt": "2026-09-14T03:18:07.208Z"
   },
   "KZOSP": null,
   "LEAS": {
@@ -1546,7 +1563,7 @@
     "roe": 16,
     "roa": 4.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:11.117Z"
+    "_updatedAt": "2026-09-14T03:18:08.010Z"
   },
   "LENT": {
     "isFinancial": false,
@@ -1564,7 +1581,7 @@
     "roe": 18.6,
     "roa": 5.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:11.358Z"
+    "_updatedAt": "2026-09-14T03:18:08.285Z"
   },
   "LIFE": {
     "isFinancial": false,
@@ -1582,7 +1599,7 @@
     "roe": -47.5,
     "roa": -17.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:11.577Z"
+    "_updatedAt": "2026-09-14T03:18:08.576Z"
   },
   "LKOH": {
     "isFinancial": false,
@@ -1600,7 +1617,7 @@
     "roe": 12,
     "roa": 7.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:11.813Z"
+    "_updatedAt": "2026-09-14T03:18:08.861Z"
   },
   "LMBZ": {
     "isFinancial": false,
@@ -1618,7 +1635,7 @@
     "roe": 7.8,
     "roa": 5.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:12.096Z"
+    "_updatedAt": "2026-09-14T03:18:09.139Z"
   },
   "LNZL": {
     "isFinancial": false,
@@ -1636,7 +1653,7 @@
     "roe": 15.1,
     "roa": 9.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:12.351Z"
+    "_updatedAt": "2026-09-14T03:18:09.440Z"
   },
   "LNZLP": null,
   "LPSB": {
@@ -1655,7 +1672,7 @@
     "roe": 57.2,
     "roa": 42,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:13.047Z"
+    "_updatedAt": "2026-09-14T03:18:10.259Z"
   },
   "LQDT": null,
   "LSNG": {
@@ -1674,7 +1691,7 @@
     "roe": 15.9,
     "roa": 11.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:13.684Z"
+    "_updatedAt": "2026-09-14T03:18:11.031Z"
   },
   "LSNGP": null,
   "LSRG": {
@@ -1693,7 +1710,7 @@
     "roe": -60.7,
     "roa": -7.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:14.362Z"
+    "_updatedAt": "2026-09-14T03:18:11.839Z"
   },
   "LVHK": {
     "isFinancial": false,
@@ -1711,7 +1728,7 @@
     "roe": 3.9,
     "roa": 2.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:14.592Z"
+    "_updatedAt": "2026-09-14T03:18:12.121Z"
   },
   "MAGE": {
     "isFinancial": false,
@@ -1729,7 +1746,7 @@
     "roe": -28.6,
     "roa": 3.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:14.856Z"
+    "_updatedAt": "2026-09-14T03:18:12.398Z"
   },
   "MAGEP": null,
   "MAGN": {
@@ -1748,25 +1765,25 @@
     "roe": -6,
     "roa": -4.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:15.536Z"
+    "_updatedAt": "2026-09-14T03:18:13.208Z"
   },
   "MBNK": {
-    "isFinancial": false,
+    "isFinancial": true,
     "shortname": "МТС Банк",
-    "revenue": null,
-    "operatingIncome": null,
+    "revenue": 80200000000,
+    "operatingIncome": 52200000000,
     "netIncome": 18200000000,
     "ocf": 0,
     "capex": null,
     "fcf": null,
     "dividendPayout": null,
     "amortization": 3000000000,
-    "assets": null,
-    "netAssets": null,
+    "assets": 692800000000,
+    "netAssets": 126200000000,
     "roe": 17.6,
     "roa": 2.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:15.779Z"
+    "_updatedAt": "2026-09-14T03:18:13.546Z"
   },
   "MDMG": {
     "isFinancial": false,
@@ -1784,7 +1801,7 @@
     "roe": 28.8,
     "roa": 17.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:16.001Z"
+    "_updatedAt": "2026-09-14T03:18:13.866Z"
   },
   "MFGS": {
     "isFinancial": false,
@@ -1802,7 +1819,7 @@
     "roe": -3.5,
     "roa": -2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:16.734Z"
+    "_updatedAt": "2026-09-14T03:18:14.197Z"
   },
   "MFGSP": null,
   "MGKL": {
@@ -1821,7 +1838,7 @@
     "roe": 37.6,
     "roa": 6.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:17.582Z"
+    "_updatedAt": "2026-09-14T03:18:14.991Z"
   },
   "MGNT": {
     "isFinancial": false,
@@ -1839,7 +1856,7 @@
     "roe": -30.7,
     "roa": -1.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:17.810Z"
+    "_updatedAt": "2026-09-14T03:18:15.284Z"
   },
   "MGNZ": {
     "isFinancial": false,
@@ -1857,7 +1874,7 @@
     "roe": -192.7,
     "roa": -38.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:18.064Z"
+    "_updatedAt": "2026-09-14T03:18:15.569Z"
   },
   "MGTS": {
     "isFinancial": false,
@@ -1875,7 +1892,7 @@
     "roe": 14.1,
     "roa": 11.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:18.289Z"
+    "_updatedAt": "2026-09-14T03:18:15.835Z"
   },
   "MGTSP": null,
   "MISB": {
@@ -1894,7 +1911,7 @@
     "roe": 19.1,
     "roa": 14.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:18.981Z"
+    "_updatedAt": "2026-09-14T03:18:16.594Z"
   },
   "MISBP": null,
   "MKBD": null,
@@ -1914,7 +1931,7 @@
     "roe": 24.8,
     "roa": 0.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:20.225Z"
+    "_updatedAt": "2026-09-14T03:18:17.910Z"
   },
   "MONY": null,
   "MRKC": {
@@ -1933,7 +1950,7 @@
     "roe": 18.3,
     "roa": 8.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:21.090Z"
+    "_updatedAt": "2026-09-14T03:18:18.688Z"
   },
   "MRKK": {
     "isFinancial": false,
@@ -1951,7 +1968,7 @@
     "roe": 716,
     "roa": -30.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:21.350Z"
+    "_updatedAt": "2026-09-14T03:18:18.982Z"
   },
   "MRKP": {
     "isFinancial": false,
@@ -1969,7 +1986,7 @@
     "roe": 21.2,
     "roa": 12.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:21.588Z"
+    "_updatedAt": "2026-09-14T03:18:19.253Z"
   },
   "MRKS": {
     "isFinancial": false,
@@ -1987,7 +2004,7 @@
     "roe": 33.6,
     "roa": 6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:21.808Z"
+    "_updatedAt": "2026-09-14T03:18:19.533Z"
   },
   "MRKU": {
     "isFinancial": false,
@@ -2005,7 +2022,7 @@
     "roe": 21.9,
     "roa": 11.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:22.046Z"
+    "_updatedAt": "2026-09-14T03:18:19.823Z"
   },
   "MRKV": {
     "isFinancial": false,
@@ -2023,7 +2040,7 @@
     "roe": 24.3,
     "roa": 14,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:22.297Z"
+    "_updatedAt": "2026-09-14T03:18:20.135Z"
   },
   "MRKY": {
     "isFinancial": false,
@@ -2041,7 +2058,7 @@
     "roe": 13.3,
     "roa": 5.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:22.565Z"
+    "_updatedAt": "2026-09-14T03:18:20.410Z"
   },
   "MRKZ": {
     "isFinancial": false,
@@ -2059,7 +2076,7 @@
     "roe": 25.9,
     "roa": 8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:22.791Z"
+    "_updatedAt": "2026-09-14T03:18:20.689Z"
   },
   "MRSB": {
     "isFinancial": false,
@@ -2077,7 +2094,7 @@
     "roe": 45.7,
     "roa": 16.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:23.040Z"
+    "_updatedAt": "2026-09-14T03:18:20.959Z"
   },
   "MSNG": {
     "isFinancial": false,
@@ -2095,7 +2112,7 @@
     "roe": 1.2,
     "roa": 1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:23.301Z"
+    "_updatedAt": "2026-09-14T03:18:21.234Z"
   },
   "MSRS": {
     "isFinancial": false,
@@ -2113,25 +2130,25 @@
     "roe": 18.1,
     "roa": 8.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:23.536Z"
+    "_updatedAt": "2026-09-14T03:18:21.530Z"
   },
   "MSTT": {
     "isFinancial": false,
     "shortname": "Мостотрест",
-    "revenue": 7830000000,
-    "operatingIncome": 758000000,
-    "netIncome": 533000000,
-    "ocf": -409000000,
-    "capex": 125000000,
-    "fcf": -578000000,
+    "revenue": 6900000000,
+    "operatingIncome": -484000000,
+    "netIncome": -52000000,
+    "ocf": 146000000,
+    "capex": 142000000,
+    "fcf": -100000000,
     "dividendPayout": null,
     "amortization": 200000000,
-    "assets": 25300000000,
-    "netAssets": 4900000000,
-    "roe": 10.9,
-    "roa": 2.1,
+    "assets": 24500000000,
+    "netAssets": 4880000000,
+    "roe": -1.1,
+    "roa": -0.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:23.789Z"
+    "_updatedAt": "2026-09-14T03:18:21.799Z"
   },
   "MTLR": {
     "isFinancial": false,
@@ -2149,7 +2166,7 @@
     "roe": 33.6,
     "roa": -42.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:24.024Z"
+    "_updatedAt": "2026-09-14T03:18:22.081Z"
   },
   "MTLRP": null,
   "MTSS": {
@@ -2168,25 +2185,25 @@
     "roe": 1313.1,
     "roa": 3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:24.713Z"
+    "_updatedAt": "2026-09-14T03:18:22.862Z"
   },
   "MVID": {
     "isFinancial": false,
     "shortname": "М.видео",
-    "revenue": 324800000000,
-    "operatingIncome": -30100000000,
-    "netIncome": -63600000000,
-    "ocf": -58200000000,
-    "capex": 4720000000,
-    "fcf": -73000000000,
+    "revenue": 261800000000,
+    "operatingIncome": -48200000000,
+    "netIncome": -74600000000,
+    "ocf": -25500000000,
+    "capex": 4960000000,
+    "fcf": -41000000000,
     "dividendPayout": null,
-    "amortization": 23100000000,
-    "assets": 288700000000,
+    "amortization": 22500000000,
+    "assets": 256500000000,
     "netAssets": -45600000000,
-    "roe": 139.6,
-    "roa": -22,
+    "roe": 91.3,
+    "roa": -29.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:24.944Z"
+    "_updatedAt": "2026-09-14T03:18:23.198Z"
   },
   "NAUK": {
     "isFinancial": false,
@@ -2204,7 +2221,7 @@
     "roe": 32.8,
     "roa": 12.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:25.204Z"
+    "_updatedAt": "2026-09-14T03:18:23.460Z"
   },
   "NFAZ": {
     "isFinancial": false,
@@ -2222,7 +2239,7 @@
     "roe": -161.3,
     "roa": -3.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:25.457Z"
+    "_updatedAt": "2026-09-14T03:18:23.836Z"
   },
   "NFKL": null,
   "NKHP": {
@@ -2241,7 +2258,7 @@
     "roe": 16.9,
     "roa": 15.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:26.119Z"
+    "_updatedAt": "2026-09-14T03:18:24.678Z"
   },
   "NKNC": {
     "isFinancial": false,
@@ -2259,7 +2276,7 @@
     "roe": 0.6,
     "roa": 0.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:26.360Z"
+    "_updatedAt": "2026-09-14T03:18:24.961Z"
   },
   "NKNCP": null,
   "NKSH": {
@@ -2278,7 +2295,7 @@
     "roe": -1.1,
     "roa": -0.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:27.074Z"
+    "_updatedAt": "2026-09-14T03:18:25.746Z"
   },
   "NLMK": {
     "isFinancial": false,
@@ -2296,7 +2313,7 @@
     "roe": 4.3,
     "roa": 3.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:27.311Z"
+    "_updatedAt": "2026-09-14T03:18:26.013Z"
   },
   "NMTP": {
     "isFinancial": false,
@@ -2314,7 +2331,7 @@
     "roe": 21.5,
     "roa": 14.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:27.594Z"
+    "_updatedAt": "2026-09-14T03:18:26.345Z"
   },
   "NNSB": {
     "isFinancial": false,
@@ -2332,7 +2349,7 @@
     "roe": 183.9,
     "roa": 21.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:27.844Z"
+    "_updatedAt": "2026-09-14T03:18:26.651Z"
   },
   "NNSBP": null,
   "NSVZ": {
@@ -2351,7 +2368,7 @@
     "roe": 3,
     "roa": 1.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:28.592Z"
+    "_updatedAt": "2026-09-14T03:18:27.427Z"
   },
   "NVTK": {
     "isFinancial": false,
@@ -2369,7 +2386,7 @@
     "roe": 6.1,
     "roa": 4.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:28.828Z"
+    "_updatedAt": "2026-09-14T03:18:27.704Z"
   },
   "OBLG": null,
   "OFZS": null,
@@ -2389,7 +2406,7 @@
     "roe": -1.5,
     "roa": -0.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:29.990Z"
+    "_updatedAt": "2026-09-14T03:18:29.056Z"
   },
   "OKEY": {
     "isFinancial": false,
@@ -2407,7 +2424,7 @@
     "roe": 53.4,
     "roa": 34.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:30.259Z"
+    "_updatedAt": "2026-09-14T03:18:29.385Z"
   },
   "OLIQ": null,
   "OMZZP": null,
@@ -2427,7 +2444,7 @@
     "roe": -13.8,
     "roa": 1.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:31.545Z"
+    "_updatedAt": "2026-09-14T03:18:30.799Z"
   },
   "OZPH": {
     "isFinancial": false,
@@ -2445,7 +2462,7 @@
     "roe": 21.4,
     "roa": 14.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:31.813Z"
+    "_updatedAt": "2026-09-14T03:18:31.081Z"
   },
   "PAZA": {
     "isFinancial": false,
@@ -2463,7 +2480,7 @@
     "roe": 7.8,
     "roa": 3.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:32.061Z"
+    "_updatedAt": "2026-09-14T03:18:31.354Z"
   },
   "PHOR": {
     "isFinancial": false,
@@ -2481,7 +2498,7 @@
     "roe": 42.9,
     "roa": 15.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:32.325Z"
+    "_updatedAt": "2026-09-14T03:18:31.684Z"
   },
   "PIKK": {
     "isFinancial": false,
@@ -2499,7 +2516,7 @@
     "roe": 16,
     "roa": 3.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:32.578Z"
+    "_updatedAt": "2026-09-14T03:18:31.966Z"
   },
   "PLZL": {
     "isFinancial": false,
@@ -2517,7 +2534,7 @@
     "roe": 80.3,
     "roa": 14.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:32.826Z"
+    "_updatedAt": "2026-09-14T03:18:32.260Z"
   },
   "PMSB": {
     "isFinancial": false,
@@ -2535,7 +2552,7 @@
     "roe": 70.4,
     "roa": 27.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:37:33.097Z"
+    "_updatedAt": "2026-09-14T03:18:32.562Z"
   },
   "PMSBP": null,
   "POSI": {
@@ -2554,25 +2571,25 @@
     "roe": 52.1,
     "roa": 21.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:30.203Z"
+    "_updatedAt": "2026-09-14T03:18:33.349Z"
   },
   "PRFN": {
     "isFinancial": false,
     "shortname": "ТЕПЛАНТ ао",
-    "revenue": 15100000000,
-    "operatingIncome": 408000000,
-    "netIncome": 478000000,
+    "revenue": 12500000000,
+    "operatingIncome": 369000000,
+    "netIncome": 370000000,
     "ocf": -199000000,
-    "capex": 202000000,
-    "fcf": -242000000,
+    "capex": 91000000,
+    "fcf": 4000000,
     "dividendPayout": null,
     "amortization": 200000000,
-    "assets": 8590000000,
-    "netAssets": 2860000000,
-    "roe": 16.7,
-    "roa": 5.6,
+    "assets": 8100000000,
+    "netAssets": 2980000000,
+    "roe": 12.4,
+    "roa": 4.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:30.458Z"
+    "_updatedAt": "2026-09-14T03:18:33.635Z"
   },
   "PRIE": null,
   "PRMB": {
@@ -2591,25 +2608,25 @@
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:31.127Z"
+    "_updatedAt": "2026-09-14T03:18:34.365Z"
   },
   "PRMD": {
     "isFinancial": false,
     "shortname": "iПРОМОМЕД",
-    "revenue": 37600000000,
-    "operatingIncome": 13700000000,
-    "netIncome": 7040000000,
+    "revenue": 47500000000,
+    "operatingIncome": 17200000000,
+    "netIncome": 8140000000.000001,
     "ocf": 267000000.00000003,
-    "capex": 4560000000,
-    "fcf": -4640000000,
+    "capex": 5870000000,
+    "fcf": -8350000000,
     "dividendPayout": null,
-    "amortization": 1400000000,
-    "assets": 71000000000,
-    "netAssets": 26300000000,
-    "roe": 26.8,
-    "roa": 9.9,
+    "amortization": 1600000000,
+    "assets": 84900000000,
+    "netAssets": 28900000000,
+    "roe": 28.2,
+    "roa": 9.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:31.385Z"
+    "_updatedAt": "2026-09-14T03:18:34.640Z"
   },
   "PSGM": null,
   "PSMM": null,
@@ -2631,7 +2648,7 @@
     "roe": 4.8,
     "roa": 2.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:33.485Z"
+    "_updatedAt": "2026-09-14T03:18:37.041Z"
   },
   "RASP": {
     "isFinancial": false,
@@ -2649,7 +2666,7 @@
     "roe": -34.9,
     "roa": -23,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:33.736Z"
+    "_updatedAt": "2026-09-14T03:18:37.349Z"
   },
   "RBCM": {
     "isFinancial": false,
@@ -2667,25 +2684,25 @@
     "roe": 1.5,
     "roa": 0.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:33.988Z"
+    "_updatedAt": "2026-09-14T03:18:37.654Z"
   },
   "RDRB": {
-    "isFinancial": false,
+    "isFinancial": true,
     "shortname": "РДБанк ао",
-    "revenue": null,
-    "operatingIncome": 713000000,
+    "revenue": 3000000000,
+    "operatingIncome": 910000000.0000002,
     "netIncome": 560000000,
     "ocf": null,
     "capex": null,
     "fcf": null,
     "dividendPayout": null,
     "amortization": null,
-    "assets": null,
-    "netAssets": null,
+    "assets": 50800000000,
+    "netAssets": 4870000000,
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:34.243Z"
+    "_updatedAt": "2026-09-14T03:18:37.939Z"
   },
   "RENI": {
     "isFinancial": true,
@@ -2703,7 +2720,7 @@
     "roe": 9.3,
     "roa": 1.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:34.464Z"
+    "_updatedAt": "2026-09-14T03:18:38.249Z"
   },
   "RGSS": {
     "isFinancial": false,
@@ -2721,7 +2738,7 @@
     "roe": 8.6,
     "roa": 4.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:34.712Z"
+    "_updatedAt": "2026-09-14T03:18:38.527Z"
   },
   "RKKE": {
     "isFinancial": false,
@@ -2739,7 +2756,7 @@
     "roe": -114.5,
     "roa": 1.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:34.959Z"
+    "_updatedAt": "2026-09-14T03:18:38.808Z"
   },
   "RNFT": {
     "isFinancial": false,
@@ -2757,7 +2774,7 @@
     "roe": 18,
     "roa": 7.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:35.182Z"
+    "_updatedAt": "2026-09-14T03:18:39.115Z"
   },
   "ROLO": {
     "isFinancial": false,
@@ -2775,7 +2792,7 @@
     "roe": -109.3,
     "roa": -2.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:35.432Z"
+    "_updatedAt": "2026-09-14T03:18:39.419Z"
   },
   "ROSN": {
     "isFinancial": false,
@@ -2793,25 +2810,25 @@
     "roe": 2.7,
     "roa": 1.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:35.664Z"
+    "_updatedAt": "2026-09-14T03:18:39.717Z"
   },
   "ROST": {
     "isFinancial": false,
     "shortname": "РОСИНТЕРао",
-    "revenue": 7770000000,
-    "operatingIncome": 1140000000,
-    "netIncome": -173000000,
-    "ocf": 743000000,
-    "capex": 793000000,
-    "fcf": -1000000000,
+    "revenue": 7790000000,
+    "operatingIncome": 574000000,
+    "netIncome": -579000000,
+    "ocf": 656000000,
+    "capex": 688000000,
+    "fcf": -1070000000.0000001,
     "dividendPayout": null,
-    "amortization": 1400000000,
-    "assets": 9790000000,
-    "netAssets": -2720000000,
-    "roe": 6.4,
+    "amortization": 1500000000,
+    "assets": 8920000000,
+    "netAssets": -3790000000,
+    "roe": 15.3,
     "roa": -1.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:35.934Z"
+    "_updatedAt": "2026-09-14T03:18:39.996Z"
   },
   "RSHU": null,
   "RTGZ": {
@@ -2830,7 +2847,7 @@
     "roe": 1.4,
     "roa": 0.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:36.602Z"
+    "_updatedAt": "2026-09-14T03:18:40.775Z"
   },
   "RTKM": {
     "isFinancial": false,
@@ -2848,7 +2865,7 @@
     "roe": 4.6,
     "roa": 0.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:36.834Z"
+    "_updatedAt": "2026-09-14T03:18:41.039Z"
   },
   "RTKMP": null,
   "RTSB": {
@@ -2867,7 +2884,7 @@
     "roe": 41.9,
     "roa": 21.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:38:37.536Z"
+    "_updatedAt": "2026-09-14T03:18:42.580Z"
   },
   "RTSBP": null,
   "RU0005418747": null,
@@ -2893,7 +2910,6 @@
   "RU000A0JXP78": null,
   "RU000A0JXWF0": null,
   "RU000A0ZYC64": null,
-  "RU000A0ZZ422": null,
   "RU000A0ZZ5R2": null,
   "RU000A0ZZCD8": null,
   "RU000A0ZZMD7": null,
@@ -2996,7 +3012,7 @@
     "roe": -3.6,
     "roa": -1.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:30.991Z"
+    "_updatedAt": "2026-09-14T03:19:37.541Z"
   },
   "RUFO": null,
   "RUSI": {
@@ -3015,7 +3031,7 @@
     "roe": -5.1,
     "roa": -4.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:31.717Z"
+    "_updatedAt": "2026-09-14T03:19:38.321Z"
   },
   "RZSB": {
     "isFinancial": false,
@@ -3033,7 +3049,7 @@
     "roe": 77.3,
     "roa": 30.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:31.995Z"
+    "_updatedAt": "2026-09-14T03:19:38.610Z"
   },
   "SAFE": null,
   "SAGO": {
@@ -3052,7 +3068,7 @@
     "roe": 19.8,
     "roa": 13.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:32.720Z"
+    "_updatedAt": "2026-09-14T03:19:39.405Z"
   },
   "SAGOP": null,
   "SARE": {
@@ -3071,7 +3087,7 @@
     "roe": 22.8,
     "roa": 11.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:33.434Z"
+    "_updatedAt": "2026-09-14T03:19:40.199Z"
   },
   "SAREP": null,
   "SBBC": null,
@@ -3095,7 +3111,7 @@
     "roe": 24,
     "roa": 3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:36.456Z"
+    "_updatedAt": "2026-09-14T03:19:43.612Z"
   },
   "SBERP": null,
   "SBFR": null,
@@ -3128,7 +3144,7 @@
     "roe": -25.3,
     "roa": -1.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:43.439Z"
+    "_updatedAt": "2026-09-14T03:19:51.451Z"
   },
   "SFIN": {
     "isFinancial": false,
@@ -3146,7 +3162,7 @@
     "roe": -6.5,
     "roa": -6.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:43.684Z"
+    "_updatedAt": "2026-09-14T03:19:51.710Z"
   },
   "SGZH": {
     "isFinancial": false,
@@ -3164,7 +3180,7 @@
     "roe": 543.7,
     "roa": -57.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:43.918Z"
+    "_updatedAt": "2026-09-14T03:19:52.000Z"
   },
   "SIBN": {
     "isFinancial": false,
@@ -3182,27 +3198,27 @@
     "roe": 12,
     "roa": 5.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:44.193Z"
+    "_updatedAt": "2026-09-14T03:19:52.284Z"
   },
   "SILA": null,
   "SIPO": null,
   "SLEN": {
     "isFinancial": false,
     "shortname": "Сахэнер ао",
-    "revenue": 18000000000,
-    "operatingIncome": 5270000000,
-    "netIncome": 5400000000,
-    "ocf": 8390000000.000001,
-    "capex": 6050000000,
-    "fcf": -1960000000,
+    "revenue": 19300000000,
+    "operatingIncome": 6200000000,
+    "netIncome": 6540000000,
+    "ocf": 9680000000,
+    "capex": 7620000000,
+    "fcf": -2009999999.9999998,
     "dividendPayout": null,
-    "amortization": 2600000000,
-    "assets": 40600000000,
-    "netAssets": 13500000000,
-    "roe": 39.9,
-    "roa": 13.3,
+    "amortization": 2800000000,
+    "assets": 44500000000,
+    "netAssets": 17200000000,
+    "roe": 37.9,
+    "roa": 14.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:45.344Z"
+    "_updatedAt": "2026-09-14T03:19:53.589Z"
   },
   "SMCF": null,
   "SMLT": {
@@ -3221,7 +3237,7 @@
     "roe": -267.8,
     "roa": -2.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:46.178Z"
+    "_updatedAt": "2026-09-14T03:19:54.808Z"
   },
   "SNGS": {
     "isFinancial": false,
@@ -3239,7 +3255,7 @@
     "roe": 18.7,
     "roa": 16.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:46.412Z"
+    "_updatedAt": "2026-09-14T03:19:55.079Z"
   },
   "SNGSP": null,
   "SOFL": {
@@ -3258,7 +3274,7 @@
     "roe": 14.2,
     "roa": 3.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:47.076Z"
+    "_updatedAt": "2026-09-14T03:19:55.849Z"
   },
   "SPBE": {
     "isFinancial": false,
@@ -3276,7 +3292,7 @@
     "roe": 2.4,
     "roa": 0.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:47.312Z"
+    "_updatedAt": "2026-09-14T03:19:56.149Z"
   },
   "SPRN": null,
   "STME": null,
@@ -3296,7 +3312,7 @@
     "roe": 28.6,
     "roa": 17.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:48.577Z"
+    "_updatedAt": "2026-09-14T03:19:57.637Z"
   },
   "STSBP": null,
   "SUGB": null,
@@ -3316,7 +3332,7 @@
     "roe": 6.7,
     "roa": 0.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:49.837Z"
+    "_updatedAt": "2026-09-14T03:19:59.070Z"
   },
   "SVCB": {
     "isFinancial": true,
@@ -3334,7 +3350,7 @@
     "roe": 15,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:50.066Z"
+    "_updatedAt": "2026-09-14T03:19:59.349Z"
   },
   "SVET": {
     "isFinancial": false,
@@ -3352,26 +3368,26 @@
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:50.287Z"
+    "_updatedAt": "2026-09-14T03:19:59.637Z"
   },
   "SVETP": null,
   "T": {
-    "isFinancial": false,
+    "isFinancial": true,
     "shortname": "Т-Техно ао",
-    "revenue": null,
-    "operatingIncome": null,
+    "revenue": 847400000000,
+    "operatingIncome": 550900000000,
     "netIncome": 184400000000,
     "ocf": -106900000000,
     "capex": null,
     "fcf": null,
     "dividendPayout": null,
     "amortization": 36100000000,
-    "assets": null,
-    "netAssets": null,
+    "assets": 6272000000000,
+    "netAssets": 756800000000,
     "roe": 28.1,
     "roa": 2.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:50.975Z"
+    "_updatedAt": "2026-09-14T03:20:01.782Z"
   },
   "TASB": {
     "isFinancial": false,
@@ -3389,7 +3405,7 @@
     "roe": 16.2,
     "roa": 11.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:51.233Z"
+    "_updatedAt": "2026-09-14T03:20:02.109Z"
   },
   "TASBP": null,
   "TATN": {
@@ -3408,7 +3424,7 @@
     "roe": 19,
     "roa": 12.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:41:51.912Z"
+    "_updatedAt": "2026-09-14T03:20:03.065Z"
   },
   "TATNP": null,
   "TBEU": null,
@@ -3431,7 +3447,7 @@
     "roe": 4.4,
     "roa": 3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:42:54.731Z"
+    "_updatedAt": "2026-09-14T03:20:06.033Z"
   },
   "TGKB": {
     "isFinancial": false,
@@ -3449,26 +3465,26 @@
     "roe": 16.7,
     "roa": 6.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:42:54.983Z"
+    "_updatedAt": "2026-09-14T03:20:06.345Z"
   },
   "TGKBP": null,
   "TGKN": {
     "isFinancial": false,
     "shortname": "ТГК-14",
-    "revenue": 21600000000,
-    "operatingIncome": 1730000000,
-    "netIncome": 238000000,
-    "ocf": 1590000000,
-    "capex": 5080000000,
-    "fcf": -1950000000,
+    "revenue": 23700000000,
+    "operatingIncome": 2620000000,
+    "netIncome": 678000000,
+    "ocf": 2690000000,
+    "capex": 4330000000,
+    "fcf": -883000000,
     "dividendPayout": null,
-    "amortization": 1400000000,
-    "assets": 34000000000,
-    "netAssets": 6420000000,
+    "amortization": 1500000000,
+    "assets": 29800000000,
+    "netAssets": 7260000000,
     "roe": 3.7,
     "roa": 0.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:42:55.690Z"
+    "_updatedAt": "2026-09-14T03:20:07.109Z"
   },
   "TGLD": null,
   "TITR": null,
@@ -3491,7 +3507,7 @@
     "roe": 40.6,
     "roa": 19.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:42:58.087Z"
+    "_updatedAt": "2026-09-14T03:20:09.897Z"
   },
   "TOFZ": null,
   "TOPS": null,
@@ -3511,7 +3527,7 @@
     "roe": 10.6,
     "roa": 7.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:42:59.343Z"
+    "_updatedAt": "2026-09-14T03:20:11.320Z"
   },
   "TORSP": null,
   "TPAY": null,
@@ -3531,7 +3547,7 @@
     "roe": -631.9,
     "roa": -9.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:04.097Z"
+    "_updatedAt": "2026-09-14T03:20:12.760Z"
   },
   "TRND": null,
   "TRNFP": {
@@ -3550,7 +3566,7 @@
     "roe": 7.6,
     "roa": 5.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:04.773Z"
+    "_updatedAt": "2026-09-14T03:20:13.537Z"
   },
   "TRUR": null,
   "TSAV": null,
@@ -3570,7 +3586,7 @@
     "roe": 16,
     "roa": 12.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:06.339Z"
+    "_updatedAt": "2026-09-14T03:20:14.800Z"
   },
   "TUSD": null,
   "TUZA": {
@@ -3589,7 +3605,7 @@
     "roe": -51.1,
     "roa": -22.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:07.222Z"
+    "_updatedAt": "2026-09-14T03:20:15.578Z"
   },
   "UGLD": {
     "isFinancial": false,
@@ -3607,7 +3623,7 @@
     "roe": 30.9,
     "roa": 13.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:07.473Z"
+    "_updatedAt": "2026-09-14T03:20:15.847Z"
   },
   "UKUZ": {
     "isFinancial": false,
@@ -3625,25 +3641,25 @@
     "roe": 13.5,
     "roa": -21.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:07.725Z"
+    "_updatedAt": "2026-09-14T03:20:16.146Z"
   },
   "UNAC": {
     "isFinancial": false,
     "shortname": "iАвиастКао",
-    "revenue": 759000000000,
-    "operatingIncome": 68599999999.99999,
-    "netIncome": 9360000000,
+    "revenue": 781000000000,
+    "operatingIncome": 63500000000,
+    "netIncome": 4200000000,
     "ocf": -34299999999.999996,
-    "capex": 127200000000,
-    "fcf": -163200000000,
+    "capex": 94500000000,
+    "fcf": 82500000000,
     "dividendPayout": null,
-    "amortization": 36600000000,
-    "assets": 2348000000000,
-    "netAssets": 135000000000,
-    "roe": 6.9,
-    "roa": 0.4,
+    "amortization": 40600000000,
+    "assets": 2537000000000,
+    "netAssets": 99600000000,
+    "roe": 4.2,
+    "roa": 0.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:07.985Z"
+    "_updatedAt": "2026-09-14T03:20:16.462Z"
   },
   "UNKL": {
     "isFinancial": false,
@@ -3661,7 +3677,7 @@
     "roe": 9.4,
     "roa": 6.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:08.230Z"
+    "_updatedAt": "2026-09-14T03:20:16.739Z"
   },
   "UPRO": {
     "isFinancial": false,
@@ -3679,7 +3695,7 @@
     "roe": 17.6,
     "roa": 16.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:08.493Z"
+    "_updatedAt": "2026-09-14T03:20:17.025Z"
   },
   "URKZ": {
     "isFinancial": false,
@@ -3697,43 +3713,43 @@
     "roe": 5.1,
     "roa": 4.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:08.748Z"
+    "_updatedAt": "2026-09-14T03:20:17.317Z"
   },
   "USBN": {
-    "isFinancial": false,
+    "isFinancial": true,
     "shortname": "УралСиб ао",
-    "revenue": null,
-    "operatingIncome": null,
+    "revenue": 60200000000,
+    "operatingIncome": 20200000000,
     "netIncome": 6980000000,
     "ocf": null,
     "capex": null,
     "fcf": null,
     "dividendPayout": null,
     "amortization": null,
-    "assets": null,
-    "netAssets": null,
+    "assets": 789900000000,
+    "netAssets": 114700000000,
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:09.002Z"
+    "_updatedAt": "2026-09-14T03:20:17.639Z"
   },
   "UTAR": {
     "isFinancial": false,
     "shortname": "ЮТэйр ао",
-    "revenue": 121300000000,
+    "revenue": 122500000000,
     "operatingIncome": 368000000,
-    "netIncome": 2400000000,
-    "ocf": 15600000000,
-    "capex": 11800000000,
-    "fcf": 2180000000,
+    "netIncome": -2460000000,
+    "ocf": 21100000000,
+    "capex": 16700000000,
+    "fcf": 2370000000,
     "dividendPayout": null,
-    "amortization": 22000000000,
-    "assets": 161800000000,
-    "netAssets": 43200000000,
+    "amortization": 21100000000,
+    "assets": 163900000000,
+    "netAssets": 39200000000,
     "roe": 5.5,
     "roa": 1.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:09.280Z"
+    "_updatedAt": "2026-09-14T03:20:17.932Z"
   },
   "UWGN": {
     "isFinancial": false,
@@ -3751,7 +3767,7 @@
     "roe": 1.3,
     "roa": 1.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:09.502Z"
+    "_updatedAt": "2026-09-14T03:20:18.226Z"
   },
   "VDOR": null,
   "VEON-RX": null,
@@ -3771,7 +3787,7 @@
     "roe": 124.1,
     "roa": 27.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:10.852Z"
+    "_updatedAt": "2026-09-14T03:20:19.670Z"
   },
   "VGSBP": null,
   "VJGZ": {
@@ -3790,7 +3806,7 @@
     "roe": 0.5,
     "roa": 0.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:11.688Z"
+    "_updatedAt": "2026-09-14T03:20:20.446Z"
   },
   "VJGZP": null,
   "VKCO": {
@@ -3809,25 +3825,25 @@
     "roe": -9.8,
     "roa": -3.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:12.554Z"
+    "_updatedAt": "2026-09-14T03:20:21.442Z"
   },
   "VLHZ": {
     "isFinancial": false,
     "shortname": "ВХЗ-ао",
-    "revenue": 1140000000,
-    "operatingIncome": 45000000,
-    "netIncome": 11000000,
+    "revenue": 714000000,
+    "operatingIncome": 62000000,
+    "netIncome": 24000000,
     "ocf": 173000000,
-    "capex": 49000000,
+    "capex": 12000000,
     "fcf": 71000000,
     "dividendPayout": null,
     "amortization": 0,
-    "assets": 1080000000,
-    "netAssets": 818000000,
+    "assets": 1040000000,
+    "netAssets": 737000000,
     "roe": 1.3,
-    "roa": 1,
+    "roa": 2.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:12.819Z"
+    "_updatedAt": "2026-09-14T03:20:21.736Z"
   },
   "VRSB": {
     "isFinancial": false,
@@ -3845,7 +3861,7 @@
     "roe": 24.4,
     "roa": 16.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:13.112Z"
+    "_updatedAt": "2026-09-14T03:20:22.052Z"
   },
   "VRSBP": null,
   "VSEH": {
@@ -3864,25 +3880,25 @@
     "roe": 114.5,
     "roa": 8.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:13.846Z"
+    "_updatedAt": "2026-09-14T03:20:23.031Z"
   },
   "VSMO": {
     "isFinancial": false,
     "shortname": "ВСМПО-АВСМ",
-    "revenue": 96800000000,
+    "revenue": 84800000000,
     "operatingIncome": -469000000,
     "netIncome": 263000000,
-    "ocf": 15500000000,
-    "capex": 10700000000,
-    "fcf": 4210000000,
+    "ocf": 21600000000,
+    "capex": 8109999999.999999,
+    "fcf": 8560000000.000001,
     "dividendPayout": null,
-    "amortization": 19300000000,
-    "assets": 433600000000,
-    "netAssets": 299800000000,
+    "amortization": 19800000000,
+    "assets": 439800000000,
+    "netAssets": 304600000000,
     "roe": 0.1,
-    "roa": 0.1,
+    "roa": 1.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:14.101Z"
+    "_updatedAt": "2026-09-14T03:20:23.340Z"
   },
   "VSYD": null,
   "VSYDP": {
@@ -3901,7 +3917,7 @@
     "roe": 13.3,
     "roa": 1.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:14.801Z"
+    "_updatedAt": "2026-09-14T03:20:24.138Z"
   },
   "VTBR": {
     "isFinancial": true,
@@ -3919,7 +3935,7 @@
     "roe": 13,
     "roa": 1.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:15.057Z"
+    "_updatedAt": "2026-09-14T03:20:24.413Z"
   },
   "WILD": null,
   "WTCM": null,
@@ -3939,7 +3955,7 @@
     "roe": 8.3,
     "roa": 6.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:16.227Z"
+    "_updatedAt": "2026-09-14T03:20:25.667Z"
   },
   "WUSH": {
     "isFinancial": false,
@@ -3957,7 +3973,7 @@
     "roe": -121,
     "roa": -13.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:16.489Z"
+    "_updatedAt": "2026-09-14T03:20:25.968Z"
   },
   "X5": {
     "isFinancial": false,
@@ -3975,7 +3991,7 @@
     "roe": 126.3,
     "roa": 4.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:16.746Z"
+    "_updatedAt": "2026-09-14T03:20:26.232Z"
   },
   "XACCSK": null,
   "XAVIUM": null,
@@ -3995,25 +4011,26 @@
   "XSECUR": null,
   "XSKLAD": null,
   "XTRIUMF": null,
+  "XWIMRD": null,
   "XXRONE": null,
   "XXXXXX": null,
   "YAKG": {
     "isFinancial": false,
     "shortname": "ЯТЭК ао",
-    "revenue": 10400000000,
-    "operatingIncome": 3890000000,
-    "netIncome": 2190000000,
-    "ocf": 2800000000,
-    "capex": 1800000000,
-    "fcf": -558000000,
+    "revenue": 10600000000,
+    "operatingIncome": 4440000000,
+    "netIncome": 2560000000,
+    "ocf": 2250000000,
+    "capex": 2150000000,
+    "fcf": -1300000000,
     "dividendPayout": null,
-    "amortization": 600000000,
-    "assets": 33200000000.000004,
-    "netAssets": 19300000000,
-    "roe": 11.3,
-    "roa": 6.6,
+    "amortization": 800000000,
+    "assets": 34900000000,
+    "netAssets": 20800000000,
+    "roe": 12.3,
+    "roa": 7.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:26.850Z"
+    "_updatedAt": "2026-09-14T03:20:37.106Z"
   },
   "YDEX": {
     "isFinancial": false,
@@ -4031,7 +4048,7 @@
     "roe": 44.4,
     "roa": 12.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:27.226Z"
+    "_updatedAt": "2026-09-14T03:20:37.398Z"
   },
   "YKEN": {
     "isFinancial": false,
@@ -4049,7 +4066,7 @@
     "roe": 45.9,
     "roa": -17.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:27.511Z"
+    "_updatedAt": "2026-09-14T03:20:37.684Z"
   },
   "YKENP": null,
   "YRSB": {
@@ -4068,7 +4085,7 @@
     "roe": 56.3,
     "roa": 23.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:28.240Z"
+    "_updatedAt": "2026-09-14T03:20:38.491Z"
   },
   "YRSBP": null,
   "YUAN": null,
@@ -4088,7 +4105,7 @@
     "roe": 24.7,
     "roa": 17.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:29.381Z"
+    "_updatedAt": "2026-09-14T03:20:39.811Z"
   },
   "ZILL": {
     "isFinancial": false,
@@ -4106,24 +4123,24 @@
     "roe": 8.5,
     "roa": 3.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:29.651Z"
+    "_updatedAt": "2026-09-14T03:20:40.109Z"
   },
   "ZVEZ": {
     "isFinancial": false,
     "shortname": "ЗВЕЗДА ао",
-    "revenue": 3590000000,
-    "operatingIncome": 201000000,
-    "netIncome": -258000000,
-    "ocf": -483000000,
-    "capex": 116000000,
-    "fcf": -491000000,
+    "revenue": 2680000000,
+    "operatingIncome": 344000000,
+    "netIncome": -96000000,
+    "ocf": -83000000,
+    "capex": 114000000,
+    "fcf": -197000000,
     "dividendPayout": null,
     "amortization": 200000000,
-    "assets": 10900000000,
-    "netAssets": -4150000000.0000005,
-    "roe": 6.2,
-    "roa": -2.4,
+    "assets": 11000000000,
+    "netAssets": -4570000000,
+    "roe": 2.1,
+    "roa": -0.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-07T12:43:29.911Z"
+    "_updatedAt": "2026-09-14T03:20:40.429Z"
   }
 }

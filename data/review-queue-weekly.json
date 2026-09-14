@@ -85,6 +85,13 @@
     "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
   },
   {
+    "secid": "AMEZ",
+    "field": "ocf",
+    "status": "flagged_anomaly",
+    "reason": "изменение 389% превышает порог 200%",
+    "candidateValue": -604000000
+  },
+  {
     "secid": "AMFL",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AMFL/f/y/RSBU/"
@@ -133,6 +140,13 @@
     "secid": "AMVY",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AMVY/f/y/RSBU/"
+  },
+  {
+    "secid": "APTK",
+    "field": "fcf",
+    "status": "flagged_anomaly",
+    "reason": "изменение 458% превышает порог 300%",
+    "candidateValue": 1420000000
   },
   {
     "secid": "BANEP",
@@ -305,6 +319,48 @@
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/IGSTP/f/y/RSBU/"
   },
   {
+    "secid": "INCB",
+    "field": "netIncome",
+    "status": "flagged_anomaly",
+    "reason": "изменение 583% превышает порог 300%",
+    "candidateValue": 615000000
+  },
+  {
+    "secid": "INCB",
+    "field": "ocf",
+    "status": "flagged_anomaly",
+    "reason": "изменение 1500% превышает порог 200%",
+    "candidateValue": 798000000
+  },
+  {
+    "secid": "INCB",
+    "field": "capex",
+    "status": "flagged_anomaly",
+    "reason": "изменение 145% превышает порог 100%",
+    "candidateValue": 981000000
+  },
+  {
+    "secid": "INCB",
+    "field": "assets",
+    "status": "flagged_anomaly",
+    "reason": "изменение 55% превышает порог 50%",
+    "candidateValue": 8580000000
+  },
+  {
+    "secid": "INCB",
+    "field": "netAssets",
+    "status": "flagged_anomaly",
+    "reason": "изменение 416% превышает порог 50%",
+    "candidateValue": 2610000000
+  },
+  {
+    "secid": "INCB",
+    "field": "roa",
+    "status": "flagged_anomaly",
+    "reason": "изменение 350% превышает порог 150%",
+    "candidateValue": 7.2
+  },
+  {
     "secid": "INFL",
     "issue": "smartlab_no_data",
     "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
@@ -313,6 +369,20 @@
     "secid": "INGO",
     "issue": "smartlab_no_data",
     "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "IRKT",
+    "field": "netIncome",
+    "status": "flagged_anomaly",
+    "reason": "изменение 312% превышает порог 300%",
+    "candidateValue": -5350000000
+  },
+  {
+    "secid": "IRKT",
+    "field": "roe",
+    "status": "flagged_anomaly",
+    "reason": "изменение 296% превышает порог 150%",
+    "candidateValue": -4.5
   },
   {
     "secid": "JNOSP",
@@ -330,14 +400,37 @@
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/KCHEP/f/y/RSBU/"
   },
   {
-    "secid": "KFBA",
-    "issue": "smartlab_fetch_failed",
-    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/KFBA/f/y/RSBU/"
+    "secid": "KGKC",
+    "field": "operatingIncome",
+    "status": "flagged_anomaly",
+    "reason": "изменение 360% превышает порог 200%",
+    "candidateValue": -1100000000
+  },
+  {
+    "secid": "KGKC",
+    "field": "roe",
+    "status": "flagged_anomaly",
+    "reason": "изменение 237% превышает порог 150%",
+    "candidateValue": -11.8
+  },
+  {
+    "secid": "KGKC",
+    "field": "roa",
+    "status": "flagged_anomaly",
+    "reason": "изменение 268% превышает порог 150%",
+    "candidateValue": -7
   },
   {
     "secid": "KGKCP",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/KGKCP/f/y/RSBU/"
+  },
+  {
+    "secid": "KMAZ",
+    "field": "ocf",
+    "status": "flagged_anomaly",
+    "reason": "изменение 308% превышает порог 200%",
+    "candidateValue": -19400000000
   },
   {
     "secid": "KRKNP",
@@ -415,6 +508,13 @@
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/MTLRP/f/y/RSBU/"
   },
   {
+    "secid": "MVID",
+    "field": "netAssets",
+    "status": "flagged_anomaly",
+    "reason": "изменение 79% превышает порог 50%",
+    "candidateValue": -81700000000
+  },
+  {
     "secid": "NFKL",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/NFKL/f/y/RSBU/"
@@ -455,9 +555,23 @@
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/PMSBP/f/y/RSBU/"
   },
   {
+    "secid": "PRFN",
+    "field": "ocf",
+    "status": "flagged_anomaly",
+    "reason": "изменение 235% превышает порог 200%",
+    "candidateValue": 269000000
+  },
+  {
     "secid": "PRIE",
     "issue": "smartlab_no_data",
     "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "PRMD",
+    "field": "ocf",
+    "status": "flagged_anomaly",
+    "reason": "изменение 396% превышает порог 200%",
+    "candidateValue": -790000000
   },
   {
     "secid": "PSGM",
@@ -478,6 +592,13 @@
     "secid": "PSRE",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/PSRE/f/y/RSBU/"
+  },
+  {
+    "secid": "ROST",
+    "field": "roa",
+    "status": "flagged_anomaly",
+    "reason": "изменение 261% превышает порог 150%",
+    "candidateValue": -6.5
   },
   {
     "secid": "RSHU",
@@ -608,11 +729,6 @@
     "secid": "RU000A0ZYC64",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0ZYC64/f/y/RSBU/"
-  },
-  {
-    "secid": "RU000A0ZZ422",
-    "issue": "smartlab_fetch_failed",
-    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0ZZ422/f/y/RSBU/"
   },
   {
     "secid": "RU000A0ZZ5R2",
@@ -747,7 +863,7 @@
   {
     "secid": "RU000A104KU3",
     "issue": "smartlab_fetch_failed",
-    "error": "smart-lab HTTP 504 для https://smart-lab.ru/q/RU000A104KU3/f/y/RSBU/"
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A104KU3/f/y/RSBU/"
   },
   {
     "secid": "RU000A104M43",
@@ -1245,6 +1361,20 @@
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TGKBP/f/y/RSBU/"
   },
   {
+    "secid": "TGKN",
+    "field": "roe",
+    "status": "flagged_anomaly",
+    "reason": "изменение 151% превышает порог 150%",
+    "candidateValue": 9.3
+  },
+  {
+    "secid": "TGKN",
+    "field": "roa",
+    "status": "flagged_anomaly",
+    "reason": "изменение 160% превышает порог 150%",
+    "candidateValue": 2.3
+  },
+  {
     "secid": "TGLD",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TGLD/f/y/RSBU/"
@@ -1310,6 +1440,34 @@
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TUSD/f/y/RSBU/"
   },
   {
+    "secid": "UNAC",
+    "field": "ocf",
+    "status": "flagged_anomaly",
+    "reason": "изменение 606% превышает порог 200%",
+    "candidateValue": 173500000000
+  },
+  {
+    "secid": "UTAR",
+    "field": "operatingIncome",
+    "status": "flagged_anomaly",
+    "reason": "изменение 753% превышает порог 200%",
+    "candidateValue": 3140000000
+  },
+  {
+    "secid": "UTAR",
+    "field": "roe",
+    "status": "flagged_anomaly",
+    "reason": "изменение 215% превышает порог 150%",
+    "candidateValue": -6.3
+  },
+  {
+    "secid": "UTAR",
+    "field": "roa",
+    "status": "flagged_anomaly",
+    "reason": "изменение 200% превышает порог 150%",
+    "candidateValue": -1.5
+  },
+  {
     "secid": "VDOR",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/VDOR/f/y/RSBU/"
@@ -1330,9 +1488,51 @@
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/VJGZP/f/y/RSBU/"
   },
   {
+    "secid": "VLHZ",
+    "field": "ocf",
+    "status": "flagged_anomaly",
+    "reason": "изменение 399% превышает порог 200%",
+    "candidateValue": -518000000
+  },
+  {
+    "secid": "VLHZ",
+    "field": "fcf",
+    "status": "flagged_anomaly",
+    "reason": "изменение 824% превышает порог 300%",
+    "candidateValue": -514000000
+  },
+  {
+    "secid": "VLHZ",
+    "field": "roe",
+    "status": "flagged_anomaly",
+    "reason": "изменение 154% превышает порог 150%",
+    "candidateValue": 3.3
+  },
+  {
     "secid": "VRSBP",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/VRSBP/f/y/RSBU/"
+  },
+  {
+    "secid": "VSMO",
+    "field": "operatingIncome",
+    "status": "flagged_anomaly",
+    "reason": "изменение 1714% превышает порог 200%",
+    "candidateValue": -8510000000
+  },
+  {
+    "secid": "VSMO",
+    "field": "netIncome",
+    "status": "flagged_anomaly",
+    "reason": "изменение 2588% превышает порог 300%",
+    "candidateValue": 7070000000
+  },
+  {
+    "secid": "VSMO",
+    "field": "roe",
+    "status": "flagged_anomaly",
+    "reason": "изменение 220% превышает порог 150%",
+    "candidateValue": 2.3
   },
   {
     "secid": "VSYD",
@@ -1438,6 +1638,11 @@
     "secid": "XTRIUMF",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XTRIUMF/f/y/RSBU/"
+  },
+  {
+    "secid": "XWIMRD",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XWIMRD/f/y/RSBU/"
   },
   {
     "secid": "XXRONE",
