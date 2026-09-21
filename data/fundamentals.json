@@ -15,7 +15,7 @@
     "roe": 0.2,
     "roa": 0,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:03.235Z"
+    "_updatedAt": "2026-09-21T03:16:31.929Z"
   },
   "ABRD": {
     "isFinancial": false,
@@ -33,7 +33,7 @@
     "roe": 9.6,
     "roa": 4.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:03.548Z"
+    "_updatedAt": "2026-09-21T03:16:32.228Z"
   },
   "AFKS": {
     "isFinancial": false,
@@ -51,7 +51,7 @@
     "roe": 79.4,
     "roa": -5.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:03.845Z"
+    "_updatedAt": "2026-09-21T03:16:32.535Z"
   },
   "AFLT": {
     "isFinancial": false,
@@ -69,7 +69,7 @@
     "roe": 41.8,
     "roa": 1.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:04.137Z"
+    "_updatedAt": "2026-09-21T03:16:32.826Z"
   },
   "AKAI": null,
   "AKBC": null,
@@ -103,7 +103,7 @@
     "roe": 14.8,
     "roa": 7.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:13.293Z"
+    "_updatedAt": "2026-09-21T03:16:42.437Z"
   },
   "AKUP": null,
   "ALRS": {
@@ -122,7 +122,7 @@
     "roe": -3.5,
     "roa": -2.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:14.152Z"
+    "_updatedAt": "2026-09-21T03:16:43.247Z"
   },
   "AMEZ": {
     "isFinancial": false,
@@ -140,7 +140,7 @@
     "roe": -12.2,
     "roa": -3.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:14.477Z"
+    "_updatedAt": "2026-09-21T03:16:43.597Z"
   },
   "AMFL": null,
   "AMGB": null,
@@ -168,7 +168,7 @@
     "roe": 14.9,
     "roa": 1.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:20.172Z"
+    "_updatedAt": "2026-09-21T03:16:49.433Z"
   },
   "APTK": {
     "isFinancial": false,
@@ -186,7 +186,7 @@
     "roe": -7,
     "roa": 0.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:20.524Z"
+    "_updatedAt": "2026-09-21T03:16:49.717Z"
   },
   "AQUA": {
     "isFinancial": false,
@@ -204,7 +204,7 @@
     "roe": 7.6,
     "roa": 4.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:20.820Z"
+    "_updatedAt": "2026-09-21T03:16:49.999Z"
   },
   "ARSA": {
     "isFinancial": false,
@@ -222,7 +222,7 @@
     "roe": -0.5,
     "roa": -0.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:21.093Z"
+    "_updatedAt": "2026-09-21T03:16:50.306Z"
   },
   "ASSB": {
     "isFinancial": false,
@@ -240,7 +240,7 @@
     "roe": 60.3,
     "roa": 18.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:21.405Z"
+    "_updatedAt": "2026-09-21T03:16:50.633Z"
   },
   "ASTR": {
     "isFinancial": false,
@@ -258,7 +258,7 @@
     "roe": 61,
     "roa": 30.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:21.696Z"
+    "_updatedAt": "2026-09-21T03:16:50.899Z"
   },
   "AVAN": {
     "isFinancial": false,
@@ -276,7 +276,7 @@
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:21.988Z"
+    "_updatedAt": "2026-09-21T03:16:51.155Z"
   },
   "BANE": {
     "isFinancial": false,
@@ -294,7 +294,7 @@
     "roe": 11.7,
     "roa": 9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:22.272Z"
+    "_updatedAt": "2026-09-21T03:16:51.424Z"
   },
   "BANEP": null,
   "BAZA": {
@@ -313,7 +313,7 @@
     "roe": 37.1,
     "roa": 29.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:23.074Z"
+    "_updatedAt": "2026-09-21T03:16:52.259Z"
   },
   "BCSB": null,
   "BCSD": null,
@@ -337,7 +337,7 @@
     "roe": 18.3,
     "roa": 3.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:26.551Z"
+    "_updatedAt": "2026-09-21T03:16:55.948Z"
   },
   "BISVP": null,
   "BLNG": {
@@ -356,7 +356,7 @@
     "roe": -212,
     "roa": -211.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:27.336Z"
+    "_updatedAt": "2026-09-21T03:16:56.813Z"
   },
   "BNDA": null,
   "BNDB": null,
@@ -378,7 +378,7 @@
     "roe": 7.1,
     "roa": 7.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:29.801Z"
+    "_updatedAt": "2026-09-21T03:16:59.393Z"
   },
   "BSPB": {
     "isFinancial": true,
@@ -396,7 +396,7 @@
     "roe": 10.1,
     "roa": 1.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:30.110Z"
+    "_updatedAt": "2026-09-21T03:16:59.691Z"
   },
   "BSPBP": null,
   "BTBR": {
@@ -415,7 +415,7 @@
     "roe": 105.6,
     "roa": 29.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:30.896Z"
+    "_updatedAt": "2026-09-21T03:17:01.291Z"
   },
   "CARM": {
     "isFinancial": false,
@@ -433,7 +433,7 @@
     "roe": -0.3,
     "roa": -0.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:31.163Z"
+    "_updatedAt": "2026-09-21T03:17:01.580Z"
   },
   "CASH": null,
   "CBOM": {
@@ -449,10 +449,10 @@
     "amortization": null,
     "assets": 4653000000000,
     "netAssets": 388600000000,
-    "roe": 7,
-    "roa": 0.4,
+    "roe": 6.3,
+    "roa": 0.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:31.937Z"
+    "_updatedAt": "2026-09-21T03:17:02.370Z"
   },
   "CHGZ": null,
   "CHKZ": {
@@ -471,7 +471,7 @@
     "roe": 2.9,
     "roa": 0.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:32.737Z"
+    "_updatedAt": "2026-09-21T03:17:03.140Z"
   },
   "CHMF": {
     "isFinancial": false,
@@ -489,7 +489,7 @@
     "roe": -0.1,
     "roa": -0.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:33.013Z"
+    "_updatedAt": "2026-09-21T03:17:03.425Z"
   },
   "CHMK": {
     "isFinancial": false,
@@ -507,7 +507,7 @@
     "roe": -125.9,
     "roa": -11.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:33.318Z"
+    "_updatedAt": "2026-09-21T03:17:03.710Z"
   },
   "CNRU": {
     "isFinancial": false,
@@ -525,7 +525,7 @@
     "roe": 99.9,
     "roa": 45.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:33.616Z"
+    "_updatedAt": "2026-09-21T03:17:03.990Z"
   },
   "CNTL": {
     "isFinancial": false,
@@ -543,7 +543,7 @@
     "roe": -60.6,
     "roa": -41.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:33.906Z"
+    "_updatedAt": "2026-09-21T03:17:04.320Z"
   },
   "CNTLP": null,
   "CNYM": null,
@@ -564,7 +564,7 @@
     "roe": 84.7,
     "roa": 52.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:35.890Z"
+    "_updatedAt": "2026-09-21T03:17:06.927Z"
   },
   "DELI": {
     "isFinancial": false,
@@ -582,7 +582,7 @@
     "roe": -442.6,
     "roa": -8.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:36.189Z"
+    "_updatedAt": "2026-09-21T03:17:07.203Z"
   },
   "DIAS": {
     "isFinancial": false,
@@ -600,7 +600,7 @@
     "roe": 24.8,
     "roa": 15.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:36.481Z"
+    "_updatedAt": "2026-09-21T03:17:07.478Z"
   },
   "DIOD": {
     "isFinancial": false,
@@ -618,7 +618,7 @@
     "roe": -11.1,
     "roa": -7.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:36.774Z"
+    "_updatedAt": "2026-09-21T03:17:07.763Z"
   },
   "DIVD": null,
   "DOMRF": {
@@ -637,7 +637,7 @@
     "roe": 23.8,
     "roa": 1.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:37.572Z"
+    "_updatedAt": "2026-09-21T03:17:08.598Z"
   },
   "DVEC": {
     "isFinancial": false,
@@ -655,7 +655,7 @@
     "roe": 22.2,
     "roa": 6.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:37.851Z"
+    "_updatedAt": "2026-09-21T03:17:08.926Z"
   },
   "DZRD": {
     "isFinancial": false,
@@ -673,7 +673,7 @@
     "roe": -89.7,
     "roa": -51.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:38.159Z"
+    "_updatedAt": "2026-09-21T03:17:09.197Z"
   },
   "DZRDP": null,
   "EELT": {
@@ -692,7 +692,7 @@
     "roe": 26.2,
     "roa": 9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:38.947Z"
+    "_updatedAt": "2026-09-21T03:17:10.011Z"
   },
   "ELFV": {
     "isFinancial": false,
@@ -710,7 +710,7 @@
     "roe": 12,
     "roa": 6.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:39.233Z"
+    "_updatedAt": "2026-09-21T03:17:10.289Z"
   },
   "ELMT": {
     "isFinancial": false,
@@ -728,7 +728,7 @@
     "roe": -22.5,
     "roa": -6.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:39.510Z"
+    "_updatedAt": "2026-09-21T03:17:10.749Z"
   },
   "ENPG": {
     "isFinancial": false,
@@ -746,7 +746,7 @@
     "roe": 7.7,
     "roa": 2.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:39.790Z"
+    "_updatedAt": "2026-09-21T03:17:11.017Z"
   },
   "EQMX": null,
   "ESGE": null,
@@ -767,7 +767,7 @@
     "roe": -78.3,
     "roa": -6.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:41.601Z"
+    "_updatedAt": "2026-09-21T03:17:12.860Z"
   },
   "EUTR": {
     "isFinancial": false,
@@ -785,7 +785,7 @@
     "roe": -14.3,
     "roa": -2.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:41.890Z"
+    "_updatedAt": "2026-09-21T03:17:13.137Z"
   },
   "EVRZ": {
     "isFinancial": false,
@@ -803,7 +803,7 @@
     "roe": 50.2,
     "roa": 20.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:42.190Z"
+    "_updatedAt": "2026-09-21T03:17:13.444Z"
   },
   "FEES": {
     "isFinancial": false,
@@ -821,7 +821,7 @@
     "roe": 10.2,
     "roa": 4.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:42.496Z"
+    "_updatedAt": "2026-09-21T03:17:13.725Z"
   },
   "FESH": {
     "isFinancial": false,
@@ -839,7 +839,7 @@
     "roe": -2,
     "roa": -1.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:42.769Z"
+    "_updatedAt": "2026-09-21T03:17:13.990Z"
   },
   "FINC": null,
   "FIXR": {
@@ -858,7 +858,7 @@
     "roe": 18.9,
     "roa": 7.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:43.539Z"
+    "_updatedAt": "2026-09-21T03:17:14.786Z"
   },
   "FLOT": {
     "isFinancial": false,
@@ -876,7 +876,7 @@
     "roe": 1.4,
     "roa": 0.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:43.805Z"
+    "_updatedAt": "2026-09-21T03:17:15.061Z"
   },
   "FLOW": null,
   "FMBR": null,
@@ -898,7 +898,7 @@
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:46.644Z"
+    "_updatedAt": "2026-09-21T03:17:17.966Z"
   },
   "GAZAP": null,
   "GAZC": {
@@ -917,7 +917,7 @@
     "roe": 3.9,
     "roa": 3.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:47.436Z"
+    "_updatedAt": "2026-09-21T03:17:18.827Z"
   },
   "GAZP": {
     "isFinancial": false,
@@ -935,7 +935,7 @@
     "roe": 7.7,
     "roa": 4.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:47.762Z"
+    "_updatedAt": "2026-09-21T03:17:19.112Z"
   },
   "GAZS": {
     "isFinancial": false,
@@ -953,7 +953,7 @@
     "roe": 4,
     "roa": 3.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:48.026Z"
+    "_updatedAt": "2026-09-21T03:17:19.449Z"
   },
   "GAZT": {
     "isFinancial": false,
@@ -971,7 +971,7 @@
     "roe": 4,
     "roa": 3.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:48.321Z"
+    "_updatedAt": "2026-09-21T03:17:19.746Z"
   },
   "GCHE": {
     "isFinancial": false,
@@ -989,7 +989,7 @@
     "roe": 18.2,
     "roa": 7.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:48.590Z"
+    "_updatedAt": "2026-09-21T03:17:20.014Z"
   },
   "GECO": {
     "isFinancial": false,
@@ -1007,7 +1007,7 @@
     "roe": -16.5,
     "roa": -9.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:48.860Z"
+    "_updatedAt": "2026-09-21T03:17:20.342Z"
   },
   "GEMA": {
     "isFinancial": false,
@@ -1025,7 +1025,7 @@
     "roe": 81.3,
     "roa": 13,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:49.125Z"
+    "_updatedAt": "2026-09-21T03:17:20.613Z"
   },
   "GEMC": {
     "isFinancial": false,
@@ -1043,7 +1043,7 @@
     "roe": 25.2,
     "roa": 15.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:49.405Z"
+    "_updatedAt": "2026-09-21T03:17:20.883Z"
   },
   "GLRX": {
     "isFinancial": false,
@@ -1061,7 +1061,7 @@
     "roe": 27.9,
     "roa": 2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:49.678Z"
+    "_updatedAt": "2026-09-21T03:17:21.160Z"
   },
   "GMKN": {
     "isFinancial": false,
@@ -1079,7 +1079,7 @@
     "roe": 22.3,
     "roa": 8.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:49.955Z"
+    "_updatedAt": "2026-09-21T03:17:21.450Z"
   },
   "GOLD": null,
   "GOOD": null,
@@ -1100,7 +1100,7 @@
     "roe": 153.5,
     "roa": -518.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:52.461Z"
+    "_updatedAt": "2026-09-21T03:17:23.885Z"
   },
   "HEAD": {
     "isFinancial": false,
@@ -1118,7 +1118,7 @@
     "roe": -3239.7,
     "roa": 70.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:52.755Z"
+    "_updatedAt": "2026-09-21T03:17:24.153Z"
   },
   "HIMCP": null,
   "HNFG": {
@@ -1137,7 +1137,7 @@
     "roe": 18.3,
     "roa": 6.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:53.558Z"
+    "_updatedAt": "2026-09-21T03:17:25.194Z"
   },
   "HYDR": {
     "isFinancial": false,
@@ -1155,7 +1155,7 @@
     "roe": 19,
     "roa": 7.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:53.826Z"
+    "_updatedAt": "2026-09-21T03:17:25.478Z"
   },
   "IGST": {
     "isFinancial": false,
@@ -1173,7 +1173,7 @@
     "roe": -7.6,
     "roa": -2.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:54.121Z"
+    "_updatedAt": "2026-09-21T03:17:25.770Z"
   },
   "IGSTP": null,
   "INCB": {
@@ -1192,7 +1192,7 @@
     "roe": 23.5,
     "roa": 1.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:54.899Z"
+    "_updatedAt": "2026-09-21T03:17:26.778Z"
   },
   "INFL": null,
   "INGO": null,
@@ -1212,7 +1212,7 @@
     "roe": 9.9,
     "roa": 7.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:56.257Z"
+    "_updatedAt": "2026-09-21T03:17:28.050Z"
   },
   "IRKT": {
     "isFinancial": false,
@@ -1230,7 +1230,7 @@
     "roe": 2.3,
     "roa": -0.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:56.533Z"
+    "_updatedAt": "2026-09-21T03:17:28.316Z"
   },
   "IVAT": {
     "isFinancial": false,
@@ -1248,7 +1248,7 @@
     "roe": 18,
     "roa": 13.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:56.805Z"
+    "_updatedAt": "2026-09-21T03:17:28.578Z"
   },
   "JNOS": {
     "isFinancial": false,
@@ -1266,7 +1266,7 @@
     "roe": 6.3,
     "roa": 3.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:57.086Z"
+    "_updatedAt": "2026-09-21T03:17:28.847Z"
   },
   "JNOSP": null,
   "KAZT": {
@@ -1285,7 +1285,7 @@
     "roe": 7.3,
     "roa": 4.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:57.870Z"
+    "_updatedAt": "2026-09-21T03:17:29.853Z"
   },
   "KAZTP": null,
   "KBSB": {
@@ -1304,7 +1304,7 @@
     "roe": 39.8,
     "roa": 20.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:58.658Z"
+    "_updatedAt": "2026-09-21T03:17:30.902Z"
   },
   "KCHE": {
     "isFinancial": false,
@@ -1322,7 +1322,7 @@
     "roe": -0.2,
     "roa": -0.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:58.950Z"
+    "_updatedAt": "2026-09-21T03:17:31.174Z"
   },
   "KCHEP": null,
   "KFBA": {
@@ -1341,7 +1341,7 @@
     "roe": 5.4,
     "roa": 0.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:17:59.767Z"
+    "_updatedAt": "2026-09-21T03:17:32.222Z"
   },
   "KGKC": {
     "isFinancial": false,
@@ -1359,7 +1359,7 @@
     "roe": -3.5,
     "roa": -1.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:00.041Z"
+    "_updatedAt": "2026-09-21T03:17:32.558Z"
   },
   "KGKCP": null,
   "KLSB": {
@@ -1378,7 +1378,7 @@
     "roe": 5.8,
     "roa": 1.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:02.137Z"
+    "_updatedAt": "2026-09-21T03:17:33.615Z"
   },
   "KLVZ": {
     "isFinancial": false,
@@ -1396,7 +1396,7 @@
     "roe": 4.7,
     "roa": 1.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:02.397Z"
+    "_updatedAt": "2026-09-21T03:17:33.883Z"
   },
   "KMAZ": {
     "isFinancial": false,
@@ -1414,7 +1414,7 @@
     "roe": -60.3,
     "roa": -5.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:02.686Z"
+    "_updatedAt": "2026-09-21T03:17:34.164Z"
   },
   "KMEZ": {
     "isFinancial": false,
@@ -1432,7 +1432,7 @@
     "roe": 15.1,
     "roa": 10.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:02.960Z"
+    "_updatedAt": "2026-09-21T03:17:34.498Z"
   },
   "KOGK": {
     "isFinancial": false,
@@ -1450,7 +1450,7 @@
     "roe": -11.4,
     "roa": -9.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:03.273Z"
+    "_updatedAt": "2026-09-21T03:17:34.827Z"
   },
   "KRKN": {
     "isFinancial": false,
@@ -1468,7 +1468,7 @@
     "roe": 0.1,
     "roa": 0.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:03.566Z"
+    "_updatedAt": "2026-09-21T03:17:35.107Z"
   },
   "KRKNP": null,
   "KRKOP": null,
@@ -1488,7 +1488,7 @@
     "roe": 18.3,
     "roa": 9.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:05.119Z"
+    "_updatedAt": "2026-09-21T03:17:36.721Z"
   },
   "KROTP": null,
   "KRSB": {
@@ -1507,7 +1507,7 @@
     "roe": 27.5,
     "roa": 12.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:06.093Z"
+    "_updatedAt": "2026-09-21T03:17:37.733Z"
   },
   "KRSBP": null,
   "KUZB": {
@@ -1526,7 +1526,7 @@
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:06.881Z"
+    "_updatedAt": "2026-09-21T03:17:38.914Z"
   },
   "KZOS": {
     "isFinancial": false,
@@ -1544,7 +1544,7 @@
     "roe": 1.8,
     "roa": 1.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:07.208Z"
+    "_updatedAt": "2026-09-21T03:17:39.193Z"
   },
   "KZOSP": null,
   "LEAS": {
@@ -1563,7 +1563,7 @@
     "roe": 16,
     "roa": 4.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:08.010Z"
+    "_updatedAt": "2026-09-21T03:17:40.222Z"
   },
   "LENT": {
     "isFinancial": false,
@@ -1581,7 +1581,7 @@
     "roe": 18.6,
     "roa": 5.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:08.285Z"
+    "_updatedAt": "2026-09-21T03:17:40.500Z"
   },
   "LIFE": {
     "isFinancial": false,
@@ -1599,7 +1599,7 @@
     "roe": -47.5,
     "roa": -17.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:08.576Z"
+    "_updatedAt": "2026-09-21T03:17:40.830Z"
   },
   "LKOH": {
     "isFinancial": false,
@@ -1617,7 +1617,7 @@
     "roe": 12,
     "roa": 7.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:08.861Z"
+    "_updatedAt": "2026-09-21T03:17:41.119Z"
   },
   "LMBZ": {
     "isFinancial": false,
@@ -1635,7 +1635,7 @@
     "roe": 7.8,
     "roa": 5.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:09.139Z"
+    "_updatedAt": "2026-09-21T03:17:41.391Z"
   },
   "LNZL": {
     "isFinancial": false,
@@ -1653,7 +1653,7 @@
     "roe": 15.1,
     "roa": 9.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:09.440Z"
+    "_updatedAt": "2026-09-21T03:17:41.738Z"
   },
   "LNZLP": null,
   "LPSB": {
@@ -1672,7 +1672,7 @@
     "roe": 57.2,
     "roa": 42,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:10.259Z"
+    "_updatedAt": "2026-09-21T03:17:42.613Z"
   },
   "LQDT": null,
   "LSNG": {
@@ -1691,7 +1691,7 @@
     "roe": 15.9,
     "roa": 11.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:11.031Z"
+    "_updatedAt": "2026-09-21T03:17:43.366Z"
   },
   "LSNGP": null,
   "LSRG": {
@@ -1710,25 +1710,25 @@
     "roe": -60.7,
     "roa": -7.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:11.839Z"
+    "_updatedAt": "2026-09-21T03:17:44.378Z"
   },
   "LVHK": {
     "isFinancial": false,
     "shortname": "Левенгук",
-    "revenue": 1190000000,
-    "operatingIncome": 124000000,
-    "netIncome": 37000000,
-    "ocf": 24000000,
-    "capex": 81000000,
-    "fcf": -53000000,
+    "revenue": 1160000000,
+    "operatingIncome": 92000000,
+    "netIncome": 23000000,
+    "ocf": 21000000,
+    "capex": 66000000,
+    "fcf": -48000000,
     "dividendPayout": null,
     "amortization": 100000000,
-    "assets": 1450000000,
-    "netAssets": 940000000,
-    "roe": 3.9,
-    "roa": 2.5,
+    "assets": 1420000000,
+    "netAssets": 881000000,
+    "roe": 2.6,
+    "roa": 1.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:12.121Z"
+    "_updatedAt": "2026-09-21T03:17:44.705Z"
   },
   "MAGE": {
     "isFinancial": false,
@@ -1746,7 +1746,7 @@
     "roe": -28.6,
     "roa": 3.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:12.398Z"
+    "_updatedAt": "2026-09-21T03:17:44.966Z"
   },
   "MAGEP": null,
   "MAGN": {
@@ -1765,7 +1765,7 @@
     "roe": -6,
     "roa": -4.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:13.208Z"
+    "_updatedAt": "2026-09-21T03:17:45.961Z"
   },
   "MBNK": {
     "isFinancial": true,
@@ -1783,7 +1783,7 @@
     "roe": 17.6,
     "roa": 2.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:13.546Z"
+    "_updatedAt": "2026-09-21T03:17:46.231Z"
   },
   "MDMG": {
     "isFinancial": false,
@@ -1801,7 +1801,7 @@
     "roe": 28.8,
     "roa": 17.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:13.866Z"
+    "_updatedAt": "2026-09-21T03:17:46.494Z"
   },
   "MFGS": {
     "isFinancial": false,
@@ -1819,7 +1819,7 @@
     "roe": -3.5,
     "roa": -2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:14.197Z"
+    "_updatedAt": "2026-09-21T03:17:46.746Z"
   },
   "MFGSP": null,
   "MGKL": {
@@ -1838,7 +1838,7 @@
     "roe": 37.6,
     "roa": 6.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:14.991Z"
+    "_updatedAt": "2026-09-21T03:17:47.741Z"
   },
   "MGNT": {
     "isFinancial": false,
@@ -1856,7 +1856,7 @@
     "roe": -30.7,
     "roa": -1.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:15.284Z"
+    "_updatedAt": "2026-09-21T03:17:48.022Z"
   },
   "MGNZ": {
     "isFinancial": false,
@@ -1874,7 +1874,7 @@
     "roe": -192.7,
     "roa": -38.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:15.569Z"
+    "_updatedAt": "2026-09-21T03:17:48.347Z"
   },
   "MGTS": {
     "isFinancial": false,
@@ -1892,7 +1892,7 @@
     "roe": 14.1,
     "roa": 11.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:15.835Z"
+    "_updatedAt": "2026-09-21T03:17:48.617Z"
   },
   "MGTSP": null,
   "MISB": {
@@ -1911,7 +1911,7 @@
     "roe": 19.1,
     "roa": 14.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:16.594Z"
+    "_updatedAt": "2026-09-21T03:17:49.675Z"
   },
   "MISBP": null,
   "MKBD": null,
@@ -1931,7 +1931,7 @@
     "roe": 24.8,
     "roa": 0.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:17.910Z"
+    "_updatedAt": "2026-09-21T03:17:51.230Z"
   },
   "MONY": null,
   "MRKC": {
@@ -1950,7 +1950,7 @@
     "roe": 18.3,
     "roa": 8.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:18.688Z"
+    "_updatedAt": "2026-09-21T03:17:52.214Z"
   },
   "MRKK": {
     "isFinancial": false,
@@ -1968,7 +1968,7 @@
     "roe": 716,
     "roa": -30.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:18.982Z"
+    "_updatedAt": "2026-09-21T03:17:52.486Z"
   },
   "MRKP": {
     "isFinancial": false,
@@ -1986,7 +1986,7 @@
     "roe": 21.2,
     "roa": 12.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:19.253Z"
+    "_updatedAt": "2026-09-21T03:17:52.753Z"
   },
   "MRKS": {
     "isFinancial": false,
@@ -2004,7 +2004,7 @@
     "roe": 33.6,
     "roa": 6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:19.533Z"
+    "_updatedAt": "2026-09-21T03:17:53.029Z"
   },
   "MRKU": {
     "isFinancial": false,
@@ -2022,7 +2022,7 @@
     "roe": 21.9,
     "roa": 11.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:19.823Z"
+    "_updatedAt": "2026-09-21T03:17:53.295Z"
   },
   "MRKV": {
     "isFinancial": false,
@@ -2040,7 +2040,7 @@
     "roe": 24.3,
     "roa": 14,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:20.135Z"
+    "_updatedAt": "2026-09-21T03:17:53.568Z"
   },
   "MRKY": {
     "isFinancial": false,
@@ -2058,7 +2058,7 @@
     "roe": 13.3,
     "roa": 5.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:20.410Z"
+    "_updatedAt": "2026-09-21T03:17:53.825Z"
   },
   "MRKZ": {
     "isFinancial": false,
@@ -2076,7 +2076,7 @@
     "roe": 25.9,
     "roa": 8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:20.689Z"
+    "_updatedAt": "2026-09-21T03:17:54.096Z"
   },
   "MRSB": {
     "isFinancial": false,
@@ -2094,7 +2094,7 @@
     "roe": 45.7,
     "roa": 16.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:20.959Z"
+    "_updatedAt": "2026-09-21T03:17:54.403Z"
   },
   "MSNG": {
     "isFinancial": false,
@@ -2112,7 +2112,7 @@
     "roe": 1.2,
     "roa": 1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:21.234Z"
+    "_updatedAt": "2026-09-21T03:17:54.691Z"
   },
   "MSRS": {
     "isFinancial": false,
@@ -2130,7 +2130,7 @@
     "roe": 18.1,
     "roa": 8.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:21.530Z"
+    "_updatedAt": "2026-09-21T03:17:54.970Z"
   },
   "MSTT": {
     "isFinancial": false,
@@ -2148,7 +2148,7 @@
     "roe": -1.1,
     "roa": -0.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:21.799Z"
+    "_updatedAt": "2026-09-21T03:17:55.248Z"
   },
   "MTLR": {
     "isFinancial": false,
@@ -2166,7 +2166,7 @@
     "roe": 33.6,
     "roa": -42.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:22.081Z"
+    "_updatedAt": "2026-09-21T03:17:55.519Z"
   },
   "MTLRP": null,
   "MTSS": {
@@ -2185,7 +2185,7 @@
     "roe": 1313.1,
     "roa": 3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:22.862Z"
+    "_updatedAt": "2026-09-21T03:17:57.064Z"
   },
   "MVID": {
     "isFinancial": false,
@@ -2203,25 +2203,25 @@
     "roe": 91.3,
     "roa": -29.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:23.198Z"
+    "_updatedAt": "2026-09-21T03:17:57.334Z"
   },
   "NAUK": {
     "isFinancial": false,
     "shortname": "iНПОНаука",
-    "revenue": 6090000000,
-    "operatingIncome": 1550000000,
-    "netIncome": 1410000000,
-    "ocf": -964000000,
-    "capex": 621000000,
-    "fcf": -1560000000,
+    "revenue": 6400000000,
+    "operatingIncome": 1640000000,
+    "netIncome": 1230000000,
+    "ocf": -47000000,
+    "capex": 304000000,
+    "fcf": -383000000,
     "dividendPayout": null,
-    "amortization": 400000000,
-    "assets": 11600000000,
-    "netAssets": 4300000000,
-    "roe": 32.8,
-    "roa": 12.1,
+    "amortization": 500000000,
+    "assets": 12300000000,
+    "netAssets": 4720000000,
+    "roe": 26,
+    "roa": 10,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:23.460Z"
+    "_updatedAt": "2026-09-21T03:17:57.662Z"
   },
   "NFAZ": {
     "isFinancial": false,
@@ -2239,7 +2239,7 @@
     "roe": -161.3,
     "roa": -3.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:23.836Z"
+    "_updatedAt": "2026-09-21T03:17:57.994Z"
   },
   "NFKL": null,
   "NKHP": {
@@ -2258,7 +2258,7 @@
     "roe": 16.9,
     "roa": 15.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:24.678Z"
+    "_updatedAt": "2026-09-21T03:17:59.026Z"
   },
   "NKNC": {
     "isFinancial": false,
@@ -2276,7 +2276,7 @@
     "roe": 0.6,
     "roa": 0.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:24.961Z"
+    "_updatedAt": "2026-09-21T03:17:59.293Z"
   },
   "NKNCP": null,
   "NKSH": {
@@ -2295,7 +2295,7 @@
     "roe": -1.1,
     "roa": -0.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:25.746Z"
+    "_updatedAt": "2026-09-21T03:18:01.204Z"
   },
   "NLMK": {
     "isFinancial": false,
@@ -2313,7 +2313,7 @@
     "roe": 4.3,
     "roa": 3.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:26.013Z"
+    "_updatedAt": "2026-09-21T03:18:01.468Z"
   },
   "NMTP": {
     "isFinancial": false,
@@ -2331,7 +2331,7 @@
     "roe": 21.5,
     "roa": 14.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:26.345Z"
+    "_updatedAt": "2026-09-21T03:18:01.743Z"
   },
   "NNSB": {
     "isFinancial": false,
@@ -2349,7 +2349,7 @@
     "roe": 183.9,
     "roa": 21.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:26.651Z"
+    "_updatedAt": "2026-09-21T03:18:02.093Z"
   },
   "NNSBP": null,
   "NSVZ": {
@@ -2368,7 +2368,7 @@
     "roe": 3,
     "roa": 1.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:27.427Z"
+    "_updatedAt": "2026-09-21T03:18:03.154Z"
   },
   "NVTK": {
     "isFinancial": false,
@@ -2386,7 +2386,7 @@
     "roe": 6.1,
     "roa": 4.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:27.704Z"
+    "_updatedAt": "2026-09-21T03:18:03.431Z"
   },
   "OBLG": null,
   "OFZS": null,
@@ -2406,7 +2406,7 @@
     "roe": -1.5,
     "roa": -0.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:29.056Z"
+    "_updatedAt": "2026-09-21T03:18:04.947Z"
   },
   "OKEY": {
     "isFinancial": false,
@@ -2424,7 +2424,7 @@
     "roe": 53.4,
     "roa": 34.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:29.385Z"
+    "_updatedAt": "2026-09-21T03:18:05.231Z"
   },
   "OLIQ": null,
   "OMZZP": null,
@@ -2444,7 +2444,7 @@
     "roe": -13.8,
     "roa": 1.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:30.799Z"
+    "_updatedAt": "2026-09-21T03:18:06.792Z"
   },
   "OZPH": {
     "isFinancial": false,
@@ -2462,7 +2462,7 @@
     "roe": 21.4,
     "roa": 14.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:31.081Z"
+    "_updatedAt": "2026-09-21T03:18:07.054Z"
   },
   "PAZA": {
     "isFinancial": false,
@@ -2480,7 +2480,7 @@
     "roe": 7.8,
     "roa": 3.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:31.354Z"
+    "_updatedAt": "2026-09-21T03:18:07.345Z"
   },
   "PHOR": {
     "isFinancial": false,
@@ -2498,7 +2498,7 @@
     "roe": 42.9,
     "roa": 15.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:31.684Z"
+    "_updatedAt": "2026-09-21T03:18:07.609Z"
   },
   "PIKK": {
     "isFinancial": false,
@@ -2516,7 +2516,7 @@
     "roe": 16,
     "roa": 3.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:31.966Z"
+    "_updatedAt": "2026-09-21T03:18:07.871Z"
   },
   "PLZL": {
     "isFinancial": false,
@@ -2534,7 +2534,7 @@
     "roe": 80.3,
     "roa": 14.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:32.260Z"
+    "_updatedAt": "2026-09-21T03:18:08.131Z"
   },
   "PMSB": {
     "isFinancial": false,
@@ -2552,7 +2552,7 @@
     "roe": 70.4,
     "roa": 27.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:32.562Z"
+    "_updatedAt": "2026-09-21T03:18:08.462Z"
   },
   "PMSBP": null,
   "POSI": {
@@ -2571,7 +2571,7 @@
     "roe": 52.1,
     "roa": 21.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:33.349Z"
+    "_updatedAt": "2026-09-21T03:18:09.449Z"
   },
   "PRFN": {
     "isFinancial": false,
@@ -2589,7 +2589,7 @@
     "roe": 12.4,
     "roa": 4.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:33.635Z"
+    "_updatedAt": "2026-09-21T03:18:09.726Z"
   },
   "PRIE": null,
   "PRMB": {
@@ -2608,7 +2608,7 @@
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:34.365Z"
+    "_updatedAt": "2026-09-21T03:18:10.569Z"
   },
   "PRMD": {
     "isFinancial": false,
@@ -2626,7 +2626,7 @@
     "roe": 28.2,
     "roa": 9.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:34.640Z"
+    "_updatedAt": "2026-09-21T03:18:10.838Z"
   },
   "PSGM": null,
   "PSMM": null,
@@ -2648,7 +2648,7 @@
     "roe": 4.8,
     "roa": 2.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:37.041Z"
+    "_updatedAt": "2026-09-21T03:18:13.438Z"
   },
   "RASP": {
     "isFinancial": false,
@@ -2666,7 +2666,7 @@
     "roe": -34.9,
     "roa": -23,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:37.349Z"
+    "_updatedAt": "2026-09-21T03:18:13.722Z"
   },
   "RBCM": {
     "isFinancial": false,
@@ -2684,7 +2684,7 @@
     "roe": 1.5,
     "roa": 0.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:37.654Z"
+    "_updatedAt": "2026-09-21T03:18:14.033Z"
   },
   "RDRB": {
     "isFinancial": true,
@@ -2702,7 +2702,7 @@
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:37.939Z"
+    "_updatedAt": "2026-09-21T03:18:14.340Z"
   },
   "RENI": {
     "isFinancial": true,
@@ -2720,7 +2720,7 @@
     "roe": 9.3,
     "roa": 1.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:38.249Z"
+    "_updatedAt": "2026-09-21T03:18:14.601Z"
   },
   "RGSS": {
     "isFinancial": false,
@@ -2738,7 +2738,7 @@
     "roe": 8.6,
     "roa": 4.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:38.527Z"
+    "_updatedAt": "2026-09-21T03:18:14.898Z"
   },
   "RKKE": {
     "isFinancial": false,
@@ -2756,7 +2756,7 @@
     "roe": -114.5,
     "roa": 1.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:38.808Z"
+    "_updatedAt": "2026-09-21T03:18:15.192Z"
   },
   "RNFT": {
     "isFinancial": false,
@@ -2774,7 +2774,7 @@
     "roe": 18,
     "roa": 7.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:39.115Z"
+    "_updatedAt": "2026-09-21T03:18:15.452Z"
   },
   "ROLO": {
     "isFinancial": false,
@@ -2792,7 +2792,7 @@
     "roe": -109.3,
     "roa": -2.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:39.419Z"
+    "_updatedAt": "2026-09-21T03:18:15.733Z"
   },
   "ROSN": {
     "isFinancial": false,
@@ -2810,7 +2810,7 @@
     "roe": 2.7,
     "roa": 1.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:39.717Z"
+    "_updatedAt": "2026-09-21T03:18:16.014Z"
   },
   "ROST": {
     "isFinancial": false,
@@ -2828,7 +2828,7 @@
     "roe": 15.3,
     "roa": -1.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:39.996Z"
+    "_updatedAt": "2026-09-21T03:18:16.381Z"
   },
   "RSHU": null,
   "RTGZ": {
@@ -2847,7 +2847,7 @@
     "roe": 1.4,
     "roa": 0.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:40.775Z"
+    "_updatedAt": "2026-09-21T03:18:17.231Z"
   },
   "RTKM": {
     "isFinancial": false,
@@ -2865,7 +2865,7 @@
     "roe": 4.6,
     "roa": 0.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:41.039Z"
+    "_updatedAt": "2026-09-21T03:18:17.509Z"
   },
   "RTKMP": null,
   "RTSB": {
@@ -2884,7 +2884,7 @@
     "roe": 41.9,
     "roa": 21.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:18:42.580Z"
+    "_updatedAt": "2026-09-21T03:18:19.025Z"
   },
   "RTSBP": null,
   "RU0005418747": null,
@@ -3012,7 +3012,7 @@
     "roe": -3.6,
     "roa": -1.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:37.541Z"
+    "_updatedAt": "2026-09-21T03:19:22.327Z"
   },
   "RUFO": null,
   "RUSI": {
@@ -3031,7 +3031,7 @@
     "roe": -5.1,
     "roa": -4.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:38.321Z"
+    "_updatedAt": "2026-09-21T03:19:23.353Z"
   },
   "RZSB": {
     "isFinancial": false,
@@ -3049,7 +3049,7 @@
     "roe": 77.3,
     "roa": 30.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:38.610Z"
+    "_updatedAt": "2026-09-21T03:19:23.828Z"
   },
   "SAFE": null,
   "SAGO": {
@@ -3068,7 +3068,7 @@
     "roe": 19.8,
     "roa": 13.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:39.405Z"
+    "_updatedAt": "2026-09-21T03:19:24.852Z"
   },
   "SAGOP": null,
   "SARE": {
@@ -3087,7 +3087,7 @@
     "roe": 22.8,
     "roa": 11.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:40.199Z"
+    "_updatedAt": "2026-09-21T03:19:25.883Z"
   },
   "SAREP": null,
   "SBBC": null,
@@ -3111,7 +3111,7 @@
     "roe": 24,
     "roa": 3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:43.612Z"
+    "_updatedAt": "2026-09-21T03:19:29.678Z"
   },
   "SBERP": null,
   "SBFR": null,
@@ -3144,7 +3144,7 @@
     "roe": -25.3,
     "roa": -1.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:51.451Z"
+    "_updatedAt": "2026-09-21T03:19:38.328Z"
   },
   "SFIN": {
     "isFinancial": false,
@@ -3162,7 +3162,7 @@
     "roe": -6.5,
     "roa": -6.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:51.710Z"
+    "_updatedAt": "2026-09-21T03:19:38.599Z"
   },
   "SGZH": {
     "isFinancial": false,
@@ -3180,7 +3180,7 @@
     "roe": 543.7,
     "roa": -57.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:52.000Z"
+    "_updatedAt": "2026-09-21T03:19:38.864Z"
   },
   "SIBN": {
     "isFinancial": false,
@@ -3198,7 +3198,7 @@
     "roe": 12,
     "roa": 5.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:52.284Z"
+    "_updatedAt": "2026-09-21T03:19:39.128Z"
   },
   "SILA": null,
   "SIPO": null,
@@ -3218,7 +3218,7 @@
     "roe": 37.9,
     "roa": 14.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:53.589Z"
+    "_updatedAt": "2026-09-21T03:19:40.674Z"
   },
   "SMCF": null,
   "SMLT": {
@@ -3237,7 +3237,7 @@
     "roe": -267.8,
     "roa": -2.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:54.808Z"
+    "_updatedAt": "2026-09-21T03:19:41.712Z"
   },
   "SNGS": {
     "isFinancial": false,
@@ -3255,7 +3255,7 @@
     "roe": 18.7,
     "roa": 16.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:55.079Z"
+    "_updatedAt": "2026-09-21T03:19:41.986Z"
   },
   "SNGSP": null,
   "SOFL": {
@@ -3274,7 +3274,7 @@
     "roe": 14.2,
     "roa": 3.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:55.849Z"
+    "_updatedAt": "2026-09-21T03:19:42.984Z"
   },
   "SPBE": {
     "isFinancial": false,
@@ -3292,7 +3292,7 @@
     "roe": 2.4,
     "roa": 0.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:56.149Z"
+    "_updatedAt": "2026-09-21T03:19:43.431Z"
   },
   "SPRN": null,
   "STME": null,
@@ -3312,7 +3312,7 @@
     "roe": 28.6,
     "roa": 17.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:57.637Z"
+    "_updatedAt": "2026-09-21T03:19:45.026Z"
   },
   "STSBP": null,
   "SUGB": null,
@@ -3332,7 +3332,7 @@
     "roe": 6.7,
     "roa": 0.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:59.070Z"
+    "_updatedAt": "2026-09-21T03:19:46.606Z"
   },
   "SVCB": {
     "isFinancial": true,
@@ -3350,7 +3350,7 @@
     "roe": 15,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:59.349Z"
+    "_updatedAt": "2026-09-21T03:19:46.889Z"
   },
   "SVET": {
     "isFinancial": false,
@@ -3368,7 +3368,7 @@
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:19:59.637Z"
+    "_updatedAt": "2026-09-21T03:19:47.157Z"
   },
   "SVETP": null,
   "T": {
@@ -3387,7 +3387,7 @@
     "roe": 28.1,
     "roa": 2.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:01.782Z"
+    "_updatedAt": "2026-09-21T03:19:48.189Z"
   },
   "TASB": {
     "isFinancial": false,
@@ -3405,7 +3405,7 @@
     "roe": 16.2,
     "roa": 11.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:02.109Z"
+    "_updatedAt": "2026-09-21T03:19:48.516Z"
   },
   "TASBP": null,
   "TATN": {
@@ -3424,7 +3424,7 @@
     "roe": 19,
     "roa": 12.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:03.065Z"
+    "_updatedAt": "2026-09-21T03:19:49.534Z"
   },
   "TATNP": null,
   "TBEU": null,
@@ -3447,7 +3447,7 @@
     "roe": 4.4,
     "roa": 3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:06.033Z"
+    "_updatedAt": "2026-09-21T03:19:52.947Z"
   },
   "TGKB": {
     "isFinancial": false,
@@ -3465,7 +3465,7 @@
     "roe": 16.7,
     "roa": 6.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:06.345Z"
+    "_updatedAt": "2026-09-21T03:19:53.216Z"
   },
   "TGKBP": null,
   "TGKN": {
@@ -3484,7 +3484,7 @@
     "roe": 3.7,
     "roa": 0.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:07.109Z"
+    "_updatedAt": "2026-09-21T03:19:54.229Z"
   },
   "TGLD": null,
   "TITR": null,
@@ -3507,7 +3507,7 @@
     "roe": 40.6,
     "roa": 19.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:09.897Z"
+    "_updatedAt": "2026-09-21T03:19:57.239Z"
   },
   "TOFZ": null,
   "TOPS": null,
@@ -3527,7 +3527,7 @@
     "roe": 10.6,
     "roa": 7.7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:11.320Z"
+    "_updatedAt": "2026-09-21T03:19:58.849Z"
   },
   "TORSP": null,
   "TPAY": null,
@@ -3547,7 +3547,7 @@
     "roe": -631.9,
     "roa": -9.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:12.760Z"
+    "_updatedAt": "2026-09-21T03:20:01.376Z"
   },
   "TRND": null,
   "TRNFP": {
@@ -3566,7 +3566,7 @@
     "roe": 7.6,
     "roa": 5.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:13.537Z"
+    "_updatedAt": "2026-09-21T03:20:02.173Z"
   },
   "TRUR": null,
   "TSAV": null,
@@ -3586,7 +3586,7 @@
     "roe": 16,
     "roa": 12.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:14.800Z"
+    "_updatedAt": "2026-09-21T03:20:03.721Z"
   },
   "TUSD": null,
   "TUZA": {
@@ -3605,7 +3605,7 @@
     "roe": -51.1,
     "roa": -22.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:15.578Z"
+    "_updatedAt": "2026-09-21T03:20:04.924Z"
   },
   "UGLD": {
     "isFinancial": false,
@@ -3623,7 +3623,7 @@
     "roe": 30.9,
     "roa": 13.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:15.847Z"
+    "_updatedAt": "2026-09-21T03:20:05.371Z"
   },
   "UKUZ": {
     "isFinancial": false,
@@ -3641,7 +3641,7 @@
     "roe": 13.5,
     "roa": -21.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:16.146Z"
+    "_updatedAt": "2026-09-21T03:20:05.692Z"
   },
   "UNAC": {
     "isFinancial": false,
@@ -3659,7 +3659,7 @@
     "roe": 4.2,
     "roa": 0.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:16.462Z"
+    "_updatedAt": "2026-09-21T03:20:05.972Z"
   },
   "UNKL": {
     "isFinancial": false,
@@ -3677,7 +3677,7 @@
     "roe": 9.4,
     "roa": 6.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:16.739Z"
+    "_updatedAt": "2026-09-21T03:20:06.307Z"
   },
   "UPRO": {
     "isFinancial": false,
@@ -3695,7 +3695,7 @@
     "roe": 17.6,
     "roa": 16.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:17.025Z"
+    "_updatedAt": "2026-09-21T03:20:06.594Z"
   },
   "URKZ": {
     "isFinancial": false,
@@ -3713,7 +3713,7 @@
     "roe": 5.1,
     "roa": 4.4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:17.317Z"
+    "_updatedAt": "2026-09-21T03:20:06.884Z"
   },
   "USBN": {
     "isFinancial": true,
@@ -3731,7 +3731,7 @@
     "roe": null,
     "roa": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:17.639Z"
+    "_updatedAt": "2026-09-21T03:20:07.151Z"
   },
   "UTAR": {
     "isFinancial": false,
@@ -3749,7 +3749,7 @@
     "roe": 5.5,
     "roa": 1.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:17.932Z"
+    "_updatedAt": "2026-09-21T03:20:07.470Z"
   },
   "UWGN": {
     "isFinancial": false,
@@ -3767,7 +3767,7 @@
     "roe": 1.3,
     "roa": 1.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:18.226Z"
+    "_updatedAt": "2026-09-21T03:20:07.757Z"
   },
   "VDOR": null,
   "VEON-RX": null,
@@ -3787,7 +3787,7 @@
     "roe": 124.1,
     "roa": 27.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:19.670Z"
+    "_updatedAt": "2026-09-21T03:20:09.387Z"
   },
   "VGSBP": null,
   "VJGZ": {
@@ -3806,7 +3806,7 @@
     "roe": 0.5,
     "roa": 0.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:20.446Z"
+    "_updatedAt": "2026-09-21T03:20:10.392Z"
   },
   "VJGZP": null,
   "VKCO": {
@@ -3825,7 +3825,7 @@
     "roe": -9.8,
     "roa": -3.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:21.442Z"
+    "_updatedAt": "2026-09-21T03:20:11.406Z"
   },
   "VLHZ": {
     "isFinancial": false,
@@ -3843,7 +3843,7 @@
     "roe": 1.3,
     "roa": 2.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:21.736Z"
+    "_updatedAt": "2026-09-21T03:20:11.742Z"
   },
   "VRSB": {
     "isFinancial": false,
@@ -3861,7 +3861,7 @@
     "roe": 24.4,
     "roa": 16.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:22.052Z"
+    "_updatedAt": "2026-09-21T03:20:12.062Z"
   },
   "VRSBP": null,
   "VSEH": {
@@ -3880,7 +3880,7 @@
     "roe": 114.5,
     "roa": 8.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:23.031Z"
+    "_updatedAt": "2026-09-21T03:20:13.071Z"
   },
   "VSMO": {
     "isFinancial": false,
@@ -3898,7 +3898,7 @@
     "roe": 0.1,
     "roa": 1.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:23.340Z"
+    "_updatedAt": "2026-09-21T03:20:13.373Z"
   },
   "VSYD": null,
   "VSYDP": {
@@ -3917,7 +3917,7 @@
     "roe": 13.3,
     "roa": 1.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:24.138Z"
+    "_updatedAt": "2026-09-21T03:20:14.191Z"
   },
   "VTBR": {
     "isFinancial": true,
@@ -3935,7 +3935,7 @@
     "roe": 13,
     "roa": 1.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:24.413Z"
+    "_updatedAt": "2026-09-21T03:20:14.477Z"
   },
   "WILD": null,
   "WTCM": null,
@@ -3955,7 +3955,7 @@
     "roe": 8.3,
     "roa": 6.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:25.667Z"
+    "_updatedAt": "2026-09-21T03:20:16.074Z"
   },
   "WUSH": {
     "isFinancial": false,
@@ -3973,7 +3973,7 @@
     "roe": -121,
     "roa": -13.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:25.968Z"
+    "_updatedAt": "2026-09-21T03:20:16.353Z"
   },
   "X5": {
     "isFinancial": false,
@@ -3991,7 +3991,7 @@
     "roe": 126.3,
     "roa": 4.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:26.232Z"
+    "_updatedAt": "2026-09-21T03:20:16.616Z"
   },
   "XACCSK": null,
   "XAVIUM": null,
@@ -4030,7 +4030,7 @@
     "roe": 12.3,
     "roa": 7.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:37.106Z"
+    "_updatedAt": "2026-09-21T03:20:29.013Z"
   },
   "YDEX": {
     "isFinancial": false,
@@ -4048,7 +4048,7 @@
     "roe": 44.4,
     "roa": 12.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:37.398Z"
+    "_updatedAt": "2026-09-21T03:20:29.309Z"
   },
   "YKEN": {
     "isFinancial": false,
@@ -4066,7 +4066,7 @@
     "roe": 45.9,
     "roa": -17.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:37.684Z"
+    "_updatedAt": "2026-09-21T03:20:29.627Z"
   },
   "YKENP": null,
   "YRSB": {
@@ -4085,7 +4085,7 @@
     "roe": 56.3,
     "roa": 23.1,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:38.491Z"
+    "_updatedAt": "2026-09-21T03:20:30.687Z"
   },
   "YRSBP": null,
   "YUAN": null,
@@ -4105,7 +4105,7 @@
     "roe": 24.7,
     "roa": 17.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:39.811Z"
+    "_updatedAt": "2026-09-21T03:20:32.304Z"
   },
   "ZILL": {
     "isFinancial": false,
@@ -4123,7 +4123,7 @@
     "roe": 8.5,
     "roa": 3.3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:40.109Z"
+    "_updatedAt": "2026-09-21T03:20:32.576Z"
   },
   "ZVEZ": {
     "isFinancial": false,
@@ -4141,6 +4141,6 @@
     "roe": 2.1,
     "roa": -0.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-09-14T03:20:40.429Z"
+    "_updatedAt": "2026-09-21T03:20:32.847Z"
   }
 }

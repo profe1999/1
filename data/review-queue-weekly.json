@@ -1540,6 +1540,13 @@
     "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
   },
   {
+    "secid": "VTBR",
+    "field": "roa",
+    "status": "flagged_anomaly",
+    "reason": "изменение 287% превышает порог 150%",
+    "candidateValue": -3
+  },
+  {
     "secid": "WILD",
     "issue": "smartlab_no_data",
     "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
