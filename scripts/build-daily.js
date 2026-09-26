@@ -65,7 +65,6 @@ async function main() {
       : (currentAssets !== null && fund.liabilities !== undefined && fund.liabilities !== null ? currentAssets - fund.liabilities : null);
 
     const treasurySharesCount = manual.treasurySharesCount || 0;
-    const buybackSpend = manual.buybackSpend || 0;
 
     // MACD/RSI — считаем сами по свечам раз в сутки
     let indicators = { macd: null, rsi: null, rating: { label: "Н/Д", score: null } };
@@ -83,14 +82,13 @@ async function main() {
       pe: safeDiv(marketCap, fund.netIncome),
       navPct: pct(navNumerator, marketCap),
       fcfPct: fund.fcf !== undefined && fund.fcf !== null && marketCap
-        ? ((fund.fcf - buybackSpend - (fund.dividendPayout || 0)) / marketCap) * 100
+        ? ((fund.fcf - (fund.dividendPayout || 0)) / marketCap) * 100
         : null,
       profitToNcaPct: pct(fund.netIncome, nonCurrentAssets),
       opMarginPct: pct(fund.operatingIncome, fund.revenue),
       netMarginPct: pct(fund.netIncome, fund.revenue),
       amortToNcaPct: pct(fund.amortization, nonCurrentAssets),
-      buybackPct: (treasurySharesCount && sec.last && marketCap)
-        ? (treasurySharesCount * sec.last / marketCap) * 100 : (treasurySharesCount === 0 ? 0 : null),
+      buybackPct: fund.buybackPct !== undefined ? fund.buybackPct : null,
       divPct: pct(fund.dividendPayout, marketCap),
       roe: fund.roe !== undefined ? fund.roe : null,
       roa: fund.roa !== undefined ? fund.roa : null,
