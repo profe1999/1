@@ -26,13 +26,13 @@ const FIELD_MAP_DEFAULT = {
   revenue: "revenue", operatingIncome: "operating_income", netIncome: "net_income",
   ocf: "ocf", capex: "capex", fcf: "fcf", dividendPayout: "dividend_payout",
   amortization: "amortization", assets: "assets", netAssets: "net_assets",
-  roe: "roe", roa: "roa"
+  roe: "roe", roa: "roa", liabilities: "debt"
 };
 const FIELD_MAP_BANK = {
   revenue: "net_operating_income", operatingIncome: null, netIncome: "net_income",
   ocf: null, capex: null, fcf: null, dividendPayout: "dividend_payout",
   amortization: null, assets: "bank_assets", netAssets: "capital",
-  roe: "roe", roa: "roa"
+  roe: "roe", roa: "roa", liabilities: "debt"
 };
 // проценты (roe/roa) не переводим в рубли — они уже в %
 const PERCENT_FIELDS = new Set(["roe", "roa"]);
