@@ -55,8 +55,6 @@ async function main() {
     const isFinancial = !!fund.isFinancial;
 
     const marketCap = sec.marketCap;
-    const liabilities = (fund.assets !== undefined && fund.assets !== null && fund.netAssets !== undefined && fund.netAssets !== null)
-      ? fund.assets - fund.netAssets : null;
 
     const currentAssets = manual.currentAssets !== undefined ? manual.currentAssets : null;
     const nonCurrentAssets = (fund.assets !== undefined && fund.assets !== null && currentAssets !== null)
@@ -64,7 +62,7 @@ async function main() {
 
     const navNumerator = isFinancial
       ? (fund.netAssets !== undefined ? fund.netAssets : null)
-      : (currentAssets !== null && liabilities !== null ? currentAssets - liabilities : null);
+      : (currentAssets !== null && fund.liabilities !== undefined && fund.liabilities !== null ? currentAssets - fund.liabilities : null);
 
     const treasurySharesCount = manual.treasurySharesCount || 0;
     const buybackSpend = manual.buybackSpend || 0;
