@@ -1447,6 +1447,13 @@
     "candidateValue": 173500000000
   },
   {
+    "secid": "UNKL",
+    "field": "operatingIncome",
+    "status": "flagged_anomaly",
+    "reason": "изменение 1363% превышает порог 200%",
+    "candidateValue": 117000000
+  },
+  {
     "secid": "UTAR",
     "field": "operatingIncome",
     "status": "flagged_anomaly",
