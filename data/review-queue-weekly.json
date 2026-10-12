@@ -1,5 +1,10 @@
 [
   {
+    "secid": "AIIQ",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/AIIQ/f/y/RSBU/"
+  },
+  {
     "secid": "AKAI",
     "issue": "smartlab_no_data",
     "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
@@ -83,6 +88,20 @@
     "secid": "AKUP",
     "issue": "smartlab_no_data",
     "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
+  },
+  {
+    "secid": "ALRS",
+    "field": "operatingIncome",
+    "status": "flagged_anomaly",
+    "reason": "изменение 1247% превышает порог 200%",
+    "candidateValue": -11300000000
+  },
+  {
+    "secid": "ALRS",
+    "field": "ocf",
+    "status": "flagged_anomaly",
+    "reason": "изменение 320% превышает порог 200%",
+    "candidateValue": -28200000000
   },
   {
     "secid": "AMEZ",
@@ -1554,14 +1573,34 @@
     "candidateValue": -3
   },
   {
+    "secid": "WFLO",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/WFLO/f/y/RSBU/"
+  },
+  {
+    "secid": "WFUT",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/WFUT/f/y/RSBU/"
+  },
+  {
     "secid": "WILD",
     "issue": "smartlab_no_data",
     "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
   },
   {
+    "secid": "WOFZ",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/WOFZ/f/y/RSBU/"
+  },
+  {
     "secid": "WTCM",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/WTCM/f/y/RSBU/"
+  },
+  {
+    "secid": "WUSD",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/WUSD/f/y/RSBU/"
   },
   {
     "secid": "XACCSK",
@@ -1581,7 +1620,7 @@
   {
     "secid": "XEQTRU",
     "issue": "smartlab_fetch_failed",
-    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XEQTRU/f/y/RSBU/"
+    "error": "smart-lab HTTP 504 для https://smart-lab.ru/q/XEQTRU/f/y/RSBU/"
   },
   {
     "secid": "XFMAGR",
@@ -1622,6 +1661,11 @@
     "secid": "XKLUCH",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XKLUCH/f/y/RSBU/"
+  },
+  {
+    "secid": "XLAMIX",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XLAMIX/f/y/RSBU/"
   },
   {
     "secid": "XNIRUM",
@@ -1671,7 +1715,7 @@
   {
     "secid": "YKENP",
     "issue": "smartlab_fetch_failed",
-    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/YKENP/f/y/RSBU/"
+    "error": "smart-lab HTTP 504 для https://smart-lab.ru/q/YKENP/f/y/RSBU/"
   },
   {
     "secid": "YRSBP",
