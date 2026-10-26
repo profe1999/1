@@ -236,6 +236,13 @@
     "note": "Проверьте вручную тикер на smart-lab.ru — возможно, он отличается от SECID (см. config/smartlab-ticker-overrides.json)."
   },
   {
+    "secid": "CHMF",
+    "field": "netIncome",
+    "status": "flagged_anomaly",
+    "reason": "изменение 342% превышает порог 300%",
+    "candidateValue": 1540000000
+  },
+  {
     "secid": "CNTLP",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/CNTLP/f/y/RSBU/"
