@@ -346,10 +346,17 @@
   },
   {
     "secid": "INCB",
+    "field": "revenue",
+    "status": "flagged_anomaly",
+    "reason": "изменение 53% превышает порог 50%",
+    "candidateValue": 7060000000
+  },
+  {
+    "secid": "INCB",
     "field": "netIncome",
     "status": "flagged_anomaly",
-    "reason": "изменение 583% превышает порог 300%",
-    "candidateValue": 615000000
+    "reason": "изменение 813% превышает порог 300%",
+    "candidateValue": 822000000
   },
   {
     "secid": "INCB",
@@ -364,27 +371,6 @@
     "status": "flagged_anomaly",
     "reason": "изменение 145% превышает порог 100%",
     "candidateValue": 981000000
-  },
-  {
-    "secid": "INCB",
-    "field": "assets",
-    "status": "flagged_anomaly",
-    "reason": "изменение 55% превышает порог 50%",
-    "candidateValue": 8580000000
-  },
-  {
-    "secid": "INCB",
-    "field": "netAssets",
-    "status": "flagged_anomaly",
-    "reason": "изменение 416% превышает порог 50%",
-    "candidateValue": 2610000000
-  },
-  {
-    "secid": "INCB",
-    "field": "roa",
-    "status": "flagged_anomaly",
-    "reason": "изменение 350% превышает порог 150%",
-    "candidateValue": 7.2
   },
   {
     "secid": "INFL",
@@ -522,6 +508,13 @@
     "secid": "MONY",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/MONY/f/y/RSBU/"
+  },
+  {
+    "secid": "MSNG",
+    "field": "operatingIncome",
+    "status": "flagged_anomaly",
+    "reason": "изменение 332% превышает порог 200%",
+    "candidateValue": -2850000000
   },
   {
     "secid": "MTLRP",
@@ -715,11 +708,6 @@
     "secid": "RU000A0JRHC0",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JRHC0/f/y/RSBU/"
-  },
-  {
-    "secid": "RU000A0JRUQ3",
-    "issue": "smartlab_fetch_failed",
-    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A0JRUQ3/f/y/RSBU/"
   },
   {
     "secid": "RU000A0JUR61",
