@@ -166,6 +166,13 @@
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/BANEP/f/y/RSBU/"
   },
   {
+    "secid": "BAZA",
+    "field": "liabilities",
+    "status": "flagged_anomaly",
+    "reason": "изменение 1200000000% превышает порог 50%",
+    "candidateValue": 12000000
+  },
+  {
     "secid": "BCSB",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/BCSB/f/y/RSBU/"
@@ -333,6 +340,20 @@
     "secid": "GROD",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/GROD/f/y/RSBU/"
+  },
+  {
+    "secid": "HEAD",
+    "field": "netAssets",
+    "status": "flagged_anomaly",
+    "reason": "изменение 1330% превышает порог 50%",
+    "candidateValue": -9050000000
+  },
+  {
+    "secid": "HEAD",
+    "field": "liabilities",
+    "status": "flagged_anomaly",
+    "reason": "изменение 1510000000000% превышает порог 50%",
+    "candidateValue": 15100000000
   },
   {
     "secid": "HIMCP",
@@ -554,6 +575,13 @@
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/OFZS/f/y/RSBU/"
   },
   {
+    "secid": "OGKB",
+    "field": "operatingIncome",
+    "status": "flagged_anomaly",
+    "reason": "изменение 410% превышает порог 200%",
+    "candidateValue": 1350000000
+  },
+  {
     "secid": "OLIQ",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/OLIQ/f/y/RSBU/"
@@ -606,6 +634,13 @@
     "secid": "PSRE",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/PSRE/f/y/RSBU/"
+  },
+  {
+    "secid": "RENI",
+    "field": "liabilities",
+    "status": "flagged_anomaly",
+    "reason": "изменение 83% превышает порог 50%",
+    "candidateValue": 44000000
   },
   {
     "secid": "ROBL",
@@ -1035,11 +1070,6 @@
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A1099U0/f/y/RSBU/"
   },
   {
-    "secid": "RU000A109G79",
-    "issue": "smartlab_fetch_failed",
-    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A109G79/f/y/RSBU/"
-  },
-  {
     "secid": "RU000A109GQ8",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/RU000A109GQ8/f/y/RSBU/"
@@ -1360,6 +1390,11 @@
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TBRU/f/y/RSBU/"
   },
   {
+    "secid": "TCNY",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TCNY/f/y/RSBU/"
+  },
+  {
     "secid": "TDIV",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TDIV/f/y/RSBU/"
@@ -1613,6 +1648,11 @@
     "secid": "XAVIUM",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XAVIUM/f/y/RSBU/"
+  },
+  {
+    "secid": "XCARRY",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/XCARRY/f/y/RSBU/"
   },
   {
     "secid": "XCREDI",
