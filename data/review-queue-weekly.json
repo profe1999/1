@@ -236,8 +236,8 @@
     "secid": "CARM",
     "field": "netIncome",
     "status": "flagged_anomaly",
-    "reason": "изменение 393% превышает порог 300%",
-    "candidateValue": 44000000
+    "reason": "изменение 733% превышает порог 300%",
+    "candidateValue": 95000000
   },
   {
     "secid": "CASH",
@@ -541,6 +541,13 @@
     "secid": "MTLRP",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/MTLRP/f/y/RSBU/"
+  },
+  {
+    "secid": "MTSS",
+    "field": "netAssets",
+    "status": "flagged_anomaly",
+    "reason": "изменение 284% превышает порог 50%",
+    "candidateValue": 15900000000
   },
   {
     "secid": "MVID",
@@ -1325,6 +1332,20 @@
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SECR/f/y/RSBU/"
   },
   {
+    "secid": "SELG",
+    "field": "roe",
+    "status": "flagged_anomaly",
+    "reason": "изменение 168% превышает порог 150%",
+    "candidateValue": 17.1
+  },
+  {
+    "secid": "SELG",
+    "field": "roa",
+    "status": "flagged_anomaly",
+    "reason": "изменение 169% превышает порог 150%",
+    "candidateValue": 1.1
+  },
+  {
     "secid": "SILA",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/SILA/f/y/RSBU/"
@@ -1427,6 +1448,11 @@
     "secid": "TGLD",
     "issue": "smartlab_fetch_failed",
     "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TGLD/f/y/RSBU/"
+  },
+  {
+    "secid": "TIRA",
+    "issue": "smartlab_fetch_failed",
+    "error": "smart-lab HTTP 404 для https://smart-lab.ru/q/TIRA/f/y/RSBU/"
   },
   {
     "secid": "TITR",

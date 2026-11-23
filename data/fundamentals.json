@@ -17,7 +17,7 @@
     "liabilities": 826000000,
     "buybackPct": 18,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:23.949Z"
+    "_updatedAt": "2026-11-23T12:06:07.572Z"
   },
   "ABRD": {
     "isFinancial": false,
@@ -37,7 +37,7 @@
     "liabilities": 8870000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:24.470Z"
+    "_updatedAt": "2026-11-23T12:06:08.489Z"
   },
   "AFKS": {
     "isFinancial": false,
@@ -57,7 +57,7 @@
     "liabilities": 1517000000000,
     "buybackPct": 29,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:24.678Z"
+    "_updatedAt": "2026-11-23T12:06:08.944Z"
   },
   "AFLT": {
     "isFinancial": false,
@@ -77,7 +77,7 @@
     "liabilities": 574200000000,
     "buybackPct": 25,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:24.959Z"
+    "_updatedAt": "2026-11-23T12:06:09.478Z"
   },
   "AIIQ": null,
   "AKAI": null,
@@ -114,7 +114,7 @@
     "liabilities": 153000000000,
     "buybackPct": 5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:30.704Z"
+    "_updatedAt": "2026-11-23T12:06:17.490Z"
   },
   "AKUP": null,
   "ALRS": {
@@ -135,7 +135,7 @@
     "liabilities": 177500000000,
     "buybackPct": 34,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:31.363Z"
+    "_updatedAt": "2026-11-23T12:06:18.302Z"
   },
   "AMEZ": {
     "isFinancial": false,
@@ -155,7 +155,7 @@
     "liabilities": 18400000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:31.567Z"
+    "_updatedAt": "2026-11-23T12:06:18.585Z"
   },
   "AMFL": null,
   "AMGB": null,
@@ -185,7 +185,7 @@
     "liabilities": 55200000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:35.043Z"
+    "_updatedAt": "2026-11-23T12:06:24.612Z"
   },
   "APTK": {
     "isFinancial": false,
@@ -205,7 +205,7 @@
     "liabilities": 23000000000,
     "buybackPct": 17,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:35.228Z"
+    "_updatedAt": "2026-11-23T12:06:24.878Z"
   },
   "AQUA": {
     "isFinancial": false,
@@ -225,7 +225,7 @@
     "liabilities": 23200000000,
     "buybackPct": 20,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:35.430Z"
+    "_updatedAt": "2026-11-23T12:06:25.154Z"
   },
   "ARSA": {
     "isFinancial": false,
@@ -245,7 +245,7 @@
     "liabilities": 7000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:35.622Z"
+    "_updatedAt": "2026-11-23T12:06:25.508Z"
   },
   "ASSB": {
     "isFinancial": false,
@@ -265,7 +265,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:35.825Z"
+    "_updatedAt": "2026-11-23T12:06:25.879Z"
   },
   "ASTR": {
     "isFinancial": false,
@@ -285,7 +285,7 @@
     "liabilities": 4080000000,
     "buybackPct": 17,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:36.080Z"
+    "_updatedAt": "2026-11-23T12:06:26.096Z"
   },
   "AVAN": {
     "isFinancial": false,
@@ -305,7 +305,7 @@
     "liabilities": null,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:36.450Z"
+    "_updatedAt": "2026-11-23T12:06:26.400Z"
   },
   "BANE": {
     "isFinancial": false,
@@ -325,7 +325,7 @@
     "liabilities": 138100000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:36.702Z"
+    "_updatedAt": "2026-11-23T12:06:26.796Z"
   },
   "BANEP": null,
   "BAZA": {
@@ -346,7 +346,7 @@
     "liabilities": 0,
     "buybackPct": 17,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:37.273Z"
+    "_updatedAt": "2026-11-23T12:06:27.437Z"
   },
   "BCSB": null,
   "BCSD": null,
@@ -372,7 +372,7 @@
     "liabilities": 43900000000,
     "buybackPct": 24,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:39.440Z"
+    "_updatedAt": "2026-11-23T12:06:31.965Z"
   },
   "BISVP": null,
   "BLNG": {
@@ -393,7 +393,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:40.012Z"
+    "_updatedAt": "2026-11-23T12:06:32.863Z"
   },
   "BNDA": null,
   "BNDB": null,
@@ -417,27 +417,27 @@
     "liabilities": 4000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:41.575Z"
+    "_updatedAt": "2026-11-23T12:06:35.732Z"
   },
   "BSPB": {
     "isFinancial": true,
     "shortname": "БСП ао",
-    "revenue": 94300000000,
+    "revenue": 93800000000,
     "operatingIncome": 60400000000,
-    "netIncome": 29700000000,
+    "netIncome": 28500000000,
     "ocf": null,
     "capex": null,
     "fcf": null,
     "dividendPayout": null,
     "amortization": null,
-    "assets": 1354000000000,
-    "netAssets": 218400000000,
-    "roe": 10.1,
-    "roa": 1.6,
+    "assets": 1426000000000,
+    "netAssets": 225800000000,
+    "roe": 13.6,
+    "roa": 2.2,
     "liabilities": null,
-    "buybackPct": 28,
+    "buybackPct": 21,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:41.829Z"
+    "_updatedAt": "2026-11-23T12:06:36.193Z"
   },
   "BSPBP": null,
   "BTBR": {
@@ -458,7 +458,7 @@
     "liabilities": 0,
     "buybackPct": 12,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:42.395Z"
+    "_updatedAt": "2026-11-23T12:06:36.877Z"
   },
   "CARM": {
     "isFinancial": false,
@@ -466,19 +466,19 @@
     "revenue": 3330000000,
     "operatingIncome": null,
     "netIncome": -15000000,
-    "ocf": -2570000000,
-    "capex": 1200000000,
+    "ocf": -3960000000,
+    "capex": 1390000000,
     "fcf": null,
     "dividendPayout": null,
     "amortization": null,
-    "assets": 13600000000,
-    "netAssets": 5060000000,
-    "roe": 0.9,
-    "roa": 0.3,
-    "liabilities": 7510000000,
+    "assets": 15600000000,
+    "netAssets": 5180000000,
+    "roe": 1.8,
+    "roa": 0.6,
+    "liabilities": 9330000000,
     "buybackPct": 30,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:42.677Z"
+    "_updatedAt": "2026-11-23T12:06:37.187Z"
   },
   "CASH": null,
   "CBOM": {
@@ -499,7 +499,7 @@
     "liabilities": null,
     "buybackPct": 22,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:43.173Z"
+    "_updatedAt": "2026-11-23T12:06:37.878Z"
   },
   "CHGZ": null,
   "CHKZ": {
@@ -520,7 +520,7 @@
     "liabilities": 51100000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:43.671Z"
+    "_updatedAt": "2026-11-23T12:06:38.731Z"
   },
   "CHMF": {
     "isFinancial": false,
@@ -540,7 +540,7 @@
     "liabilities": 71100000000,
     "buybackPct": 23,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:43.925Z"
+    "_updatedAt": "2026-11-23T12:06:39.329Z"
   },
   "CHMK": {
     "isFinancial": false,
@@ -560,27 +560,27 @@
     "liabilities": 152200000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:44.314Z"
+    "_updatedAt": "2026-11-23T12:06:39.922Z"
   },
   "CNRU": {
     "isFinancial": false,
     "shortname": "iЦиан",
-    "revenue": 16600000000.000002,
-    "operatingIncome": 3940000000,
-    "netIncome": 3670000000,
-    "ocf": 4420000000,
-    "capex": 234000000,
-    "fcf": 4139999999.9999995,
+    "revenue": 17200000000,
+    "operatingIncome": 4260000000,
+    "netIncome": 3570000000,
+    "ocf": 4260000000,
+    "capex": 302000000,
+    "fcf": 3940000000,
     "dividendPayout": null,
     "amortization": 400000000,
-    "assets": 8060000000.000001,
-    "netAssets": 3670000000,
-    "roe": 99.9,
-    "roa": 45.5,
+    "assets": 7890000000,
+    "netAssets": 3410000000,
+    "roe": 104.7,
+    "roa": 45.3,
     "liabilities": 0,
     "buybackPct": 40,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:44.572Z"
+    "_updatedAt": "2026-11-23T12:06:40.225Z"
   },
   "CNTL": {
     "isFinancial": false,
@@ -600,7 +600,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:44.756Z"
+    "_updatedAt": "2026-11-23T12:06:40.778Z"
   },
   "CNTLP": null,
   "CNYM": null,
@@ -623,7 +623,7 @@
     "liabilities": 73000000,
     "buybackPct": 31,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:45.931Z"
+    "_updatedAt": "2026-11-23T12:06:42.944Z"
   },
   "DELI": {
     "isFinancial": false,
@@ -643,7 +643,7 @@
     "liabilities": 36000000000,
     "buybackPct": 9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:46.310Z"
+    "_updatedAt": "2026-11-23T12:06:43.368Z"
   },
   "DIAS": {
     "isFinancial": false,
@@ -663,7 +663,7 @@
     "liabilities": 461000000,
     "buybackPct": 15,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:46.572Z"
+    "_updatedAt": "2026-11-23T12:06:43.583Z"
   },
   "DIOD": {
     "isFinancial": false,
@@ -683,7 +683,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:46.749Z"
+    "_updatedAt": "2026-11-23T12:06:43.827Z"
   },
   "DIVD": null,
   "DOMRF": {
@@ -704,7 +704,7 @@
     "liabilities": null,
     "buybackPct": 10,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:47.200Z"
+    "_updatedAt": "2026-11-23T12:06:44.509Z"
   },
   "DVEC": {
     "isFinancial": false,
@@ -724,7 +724,7 @@
     "liabilities": 19600000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:47.379Z"
+    "_updatedAt": "2026-11-23T12:06:44.813Z"
   },
   "DZRD": {
     "isFinancial": false,
@@ -744,7 +744,7 @@
     "liabilities": 639000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:47.595Z"
+    "_updatedAt": "2026-11-23T12:06:45.233Z"
   },
   "DZRDP": null,
   "EELT": {
@@ -765,7 +765,7 @@
     "liabilities": 2140000000.0000002,
     "buybackPct": 5.48,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:48.705Z"
+    "_updatedAt": "2026-11-23T12:06:46.477Z"
   },
   "ELFV": {
     "isFinancial": false,
@@ -785,7 +785,7 @@
     "liabilities": 40700000000,
     "buybackPct": 18,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:49.076Z"
+    "_updatedAt": "2026-11-23T12:06:46.771Z"
   },
   "ELMT": {
     "isFinancial": false,
@@ -805,7 +805,7 @@
     "liabilities": 20500000000,
     "buybackPct": 11.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:49.385Z"
+    "_updatedAt": "2026-11-23T12:06:47.213Z"
   },
   "ENPG": {
     "isFinancial": false,
@@ -825,7 +825,7 @@
     "liabilities": 1057000000000,
     "buybackPct": 19,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:49.566Z"
+    "_updatedAt": "2026-11-23T12:06:47.417Z"
   },
   "EQMX": null,
   "ESGE": null,
@@ -848,7 +848,7 @@
     "liabilities": 196300000000,
     "buybackPct": 21,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:50.916Z"
+    "_updatedAt": "2026-11-23T12:06:50.887Z"
   },
   "EUTR": {
     "isFinancial": false,
@@ -868,7 +868,7 @@
     "liabilities": 75500000000,
     "buybackPct": 32,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:51.288Z"
+    "_updatedAt": "2026-11-23T12:06:51.723Z"
   },
   "EVRZ": {
     "isFinancial": false,
@@ -888,7 +888,7 @@
     "liabilities": 196700000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:51.561Z"
+    "_updatedAt": "2026-11-23T12:06:52.278Z"
   },
   "FEES": {
     "isFinancial": false,
@@ -908,7 +908,7 @@
     "liabilities": 775700000000,
     "buybackPct": 16,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:51.740Z"
+    "_updatedAt": "2026-11-23T12:06:52.489Z"
   },
   "FESH": {
     "isFinancial": false,
@@ -928,7 +928,7 @@
     "liabilities": 23000000000,
     "buybackPct": 7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:51.878Z"
+    "_updatedAt": "2026-11-23T12:06:52.695Z"
   },
   "FINC": null,
   "FIXR": {
@@ -949,27 +949,27 @@
     "liabilities": 8990000000,
     "buybackPct": 17,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:52.388Z"
+    "_updatedAt": "2026-11-23T12:06:53.382Z"
   },
   "FLOT": {
     "isFinancial": false,
     "shortname": "Совкомфлот",
-    "revenue": 104800000000,
-    "operatingIncome": 9810000000,
-    "netIncome": 5060000000,
-    "ocf": 74000000000,
-    "capex": 81200000000,
-    "fcf": 7650000000,
+    "revenue": 120700000000,
+    "operatingIncome": 22900000000,
+    "netIncome": 12100000000,
+    "ocf": 84100000000,
+    "capex": 87600000000,
+    "fcf": 10200000000,
     "dividendPayout": null,
-    "amortization": 52300000000,
-    "assets": 577700000000,
-    "netAssets": 364700000000,
-    "roe": 1.4,
-    "roa": 0.9,
-    "liabilities": 153300000000,
+    "amortization": 53300000000,
+    "assets": 620300000000,
+    "netAssets": 405900000000,
+    "roe": 3,
+    "roa": 1.9,
+    "liabilities": 164700000000,
     "buybackPct": 16,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:52.587Z"
+    "_updatedAt": "2026-11-23T12:06:53.678Z"
   },
   "FLOW": null,
   "FMBR": null,
@@ -993,7 +993,7 @@
     "liabilities": null,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:54.143Z"
+    "_updatedAt": "2026-11-23T12:06:55.939Z"
   },
   "GAZAP": null,
   "GAZC": {
@@ -1014,7 +1014,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:54.623Z"
+    "_updatedAt": "2026-11-23T12:06:56.648Z"
   },
   "GAZP": {
     "isFinancial": false,
@@ -1034,7 +1034,7 @@
     "liabilities": 6855000000000,
     "buybackPct": 47,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:55.046Z"
+    "_updatedAt": "2026-11-23T12:06:57.347Z"
   },
   "GAZS": {
     "isFinancial": false,
@@ -1054,7 +1054,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:55.227Z"
+    "_updatedAt": "2026-11-23T12:06:57.606Z"
   },
   "GAZT": {
     "isFinancial": false,
@@ -1074,27 +1074,27 @@
     "liabilities": null,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:55.430Z"
+    "_updatedAt": "2026-11-23T12:06:57.841Z"
   },
   "GCHE": {
     "isFinancial": false,
     "shortname": "ЧеркизГ-ао",
-    "revenue": 293400000000,
-    "operatingIncome": 55100000000,
-    "netIncome": 28200000000,
-    "ocf": 43900000000,
-    "capex": 22800000000,
-    "fcf": 18900000000,
+    "revenue": 302100000000,
+    "operatingIncome": 51500000000,
+    "netIncome": 33400000000,
+    "ocf": 28800000000,
+    "capex": 22700000000,
+    "fcf": 20700000000,
     "dividendPayout": null,
     "amortization": 18200000000,
-    "assets": 359400000000,
-    "netAssets": 154900000000,
-    "roe": 18.2,
-    "roa": 7.8,
-    "liabilities": 149200000000,
+    "assets": 360700000000,
+    "netAssets": 150500000000,
+    "roe": 13,
+    "roa": 5.4,
+    "liabilities": 156500000000,
     "buybackPct": 2.5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:55.609Z"
+    "_updatedAt": "2026-11-23T12:06:58.426Z"
   },
   "GECO": {
     "isFinancial": false,
@@ -1114,7 +1114,7 @@
     "liabilities": 223000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:55.864Z"
+    "_updatedAt": "2026-11-23T12:06:58.728Z"
   },
   "GEMA": {
     "isFinancial": false,
@@ -1134,7 +1134,7 @@
     "liabilities": 225000000,
     "buybackPct": 13,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:56.231Z"
+    "_updatedAt": "2026-11-23T12:06:59.255Z"
   },
   "GEMC": {
     "isFinancial": false,
@@ -1154,7 +1154,7 @@
     "liabilities": 3240000000,
     "buybackPct": 27,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:56.494Z"
+    "_updatedAt": "2026-11-23T12:06:59.558Z"
   },
   "GLRX": {
     "isFinancial": false,
@@ -1174,7 +1174,7 @@
     "liabilities": 81400000000,
     "buybackPct": 17.9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:56.672Z"
+    "_updatedAt": "2026-11-23T12:06:59.805Z"
   },
   "GMKN": {
     "isFinancial": false,
@@ -1194,7 +1194,7 @@
     "liabilities": 812400000000,
     "buybackPct": 33,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:56.857Z"
+    "_updatedAt": "2026-11-23T12:07:00.024Z"
   },
   "GOLD": null,
   "GOOD": null,
@@ -1217,7 +1217,7 @@
     "liabilities": 2860000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:57.983Z"
+    "_updatedAt": "2026-11-23T12:07:03.140Z"
   },
   "HEAD": {
     "isFinancial": false,
@@ -1237,7 +1237,7 @@
     "liabilities": 0,
     "buybackPct": 53,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:58.403Z"
+    "_updatedAt": "2026-11-23T12:07:03.670Z"
   },
   "HIMCP": null,
   "HNFG": {
@@ -1258,7 +1258,7 @@
     "liabilities": 4520000000,
     "buybackPct": 12,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:59.114Z"
+    "_updatedAt": "2026-11-23T12:07:04.506Z"
   },
   "HYDR": {
     "isFinancial": false,
@@ -1278,7 +1278,7 @@
     "liabilities": 842300000000,
     "buybackPct": 15,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:59.304Z"
+    "_updatedAt": "2026-11-23T12:07:04.757Z"
   },
   "IGST": {
     "isFinancial": false,
@@ -1298,7 +1298,7 @@
     "liabilities": 8890000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:53:59.561Z"
+    "_updatedAt": "2026-11-23T12:07:04.991Z"
   },
   "IGSTP": null,
   "INCB": {
@@ -1319,7 +1319,7 @@
     "liabilities": 2320000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:00.060Z"
+    "_updatedAt": "2026-11-23T12:07:05.686Z"
   },
   "INFL": null,
   "INGO": null,
@@ -1341,7 +1341,7 @@
     "liabilities": 7920000000,
     "buybackPct": 32,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:01.016Z"
+    "_updatedAt": "2026-11-23T12:07:06.933Z"
   },
   "IRKT": {
     "isFinancial": false,
@@ -1361,7 +1361,7 @@
     "liabilities": 142800000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:01.275Z"
+    "_updatedAt": "2026-11-23T12:07:07.227Z"
   },
   "IVAT": {
     "isFinancial": false,
@@ -1381,7 +1381,7 @@
     "liabilities": 936000000,
     "buybackPct": 11,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:01.660Z"
+    "_updatedAt": "2026-11-23T12:07:07.887Z"
   },
   "JNOS": {
     "isFinancial": false,
@@ -1401,7 +1401,7 @@
     "liabilities": null,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:01.913Z"
+    "_updatedAt": "2026-11-23T12:07:08.119Z"
   },
   "JNOSP": null,
   "KAZT": {
@@ -1422,7 +1422,7 @@
     "liabilities": 40900000000,
     "buybackPct": 35,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:02.424Z"
+    "_updatedAt": "2026-11-23T12:07:09.314Z"
   },
   "KAZTP": null,
   "KBSB": {
@@ -1443,7 +1443,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:03.008Z"
+    "_updatedAt": "2026-11-23T12:07:10.525Z"
   },
   "KCHE": {
     "isFinancial": false,
@@ -1463,7 +1463,7 @@
     "liabilities": 20500000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:03.311Z"
+    "_updatedAt": "2026-11-23T12:07:10.935Z"
   },
   "KCHEP": null,
   "KFBA": {
@@ -1484,7 +1484,7 @@
     "liabilities": 109800000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:04.510Z"
+    "_updatedAt": "2026-11-23T12:07:11.934Z"
   },
   "KGKC": {
     "isFinancial": false,
@@ -1504,7 +1504,7 @@
     "liabilities": 1400000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:04.814Z"
+    "_updatedAt": "2026-11-23T12:07:12.171Z"
   },
   "KGKCP": null,
   "KLSB": {
@@ -1525,7 +1525,7 @@
     "liabilities": 2450000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:05.346Z"
+    "_updatedAt": "2026-11-23T12:07:13.413Z"
   },
   "KLVZ": {
     "isFinancial": false,
@@ -1545,7 +1545,7 @@
     "liabilities": 1330000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:05.607Z"
+    "_updatedAt": "2026-11-23T12:07:13.956Z"
   },
   "KMAZ": {
     "isFinancial": false,
@@ -1565,7 +1565,7 @@
     "liabilities": 289000000000,
     "buybackPct": 5,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:05.975Z"
+    "_updatedAt": "2026-11-23T12:07:14.255Z"
   },
   "KMEZ": {
     "isFinancial": false,
@@ -1585,7 +1585,7 @@
     "liabilities": 672000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:06.236Z"
+    "_updatedAt": "2026-11-23T12:07:14.451Z"
   },
   "KOGK": {
     "isFinancial": false,
@@ -1605,7 +1605,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:06.423Z"
+    "_updatedAt": "2026-11-23T12:07:14.624Z"
   },
   "KRKN": {
     "isFinancial": false,
@@ -1625,7 +1625,7 @@
     "liabilities": 3470000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:06.690Z"
+    "_updatedAt": "2026-11-23T12:07:14.804Z"
   },
   "KRKNP": null,
   "KRKOP": null,
@@ -1647,7 +1647,7 @@
     "liabilities": 3080000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:07.601Z"
+    "_updatedAt": "2026-11-23T12:07:16.546Z"
   },
   "KROTP": null,
   "KRSB": {
@@ -1668,7 +1668,7 @@
     "liabilities": 0,
     "buybackPct": 8.72,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:08.078Z"
+    "_updatedAt": "2026-11-23T12:07:17.246Z"
   },
   "KRSBP": null,
   "KUZB": {
@@ -1689,7 +1689,7 @@
     "liabilities": null,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:08.641Z"
+    "_updatedAt": "2026-11-23T12:07:17.996Z"
   },
   "KZOS": {
     "isFinancial": false,
@@ -1709,7 +1709,7 @@
     "liabilities": 37900000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:09.027Z"
+    "_updatedAt": "2026-11-23T12:07:18.482Z"
   },
   "KZOSP": null,
   "LEAS": {
@@ -1717,7 +1717,7 @@
     "shortname": "Европлан",
     "revenue": null,
     "operatingIncome": null,
-    "netIncome": 7570000000,
+    "netIncome": 9280000000,
     "ocf": null,
     "capex": null,
     "fcf": null,
@@ -1725,12 +1725,12 @@
     "amortization": null,
     "assets": null,
     "netAssets": null,
-    "roe": 16,
-    "roa": 4.4,
-    "liabilities": 100600000000,
+    "roe": 18.4,
+    "roa": 5.5,
+    "liabilities": 92900000000,
     "buybackPct": 4,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:09.528Z"
+    "_updatedAt": "2026-11-23T12:07:19.239Z"
   },
   "LENT": {
     "isFinancial": false,
@@ -1750,7 +1750,7 @@
     "liabilities": 143400000000,
     "buybackPct": 21,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:09.782Z"
+    "_updatedAt": "2026-11-23T12:07:19.747Z"
   },
   "LIFE": {
     "isFinancial": false,
@@ -1770,7 +1770,7 @@
     "liabilities": 470000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:10.043Z"
+    "_updatedAt": "2026-11-23T12:07:20.113Z"
   },
   "LKOH": {
     "isFinancial": false,
@@ -1790,7 +1790,7 @@
     "liabilities": 318700000000,
     "buybackPct": 55,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:10.296Z"
+    "_updatedAt": "2026-11-23T12:07:20.349Z"
   },
   "LMBZ": {
     "isFinancial": false,
@@ -1810,7 +1810,7 @@
     "liabilities": 355000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:10.555Z"
+    "_updatedAt": "2026-11-23T12:07:20.579Z"
   },
   "LPSB": {
     "isFinancial": false,
@@ -1830,7 +1830,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:10.730Z"
+    "_updatedAt": "2026-11-23T12:07:20.826Z"
   },
   "LQDT": null,
   "LSNG": {
@@ -1851,7 +1851,7 @@
     "liabilities": 12200000000,
     "buybackPct": 1.04,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:11.309Z"
+    "_updatedAt": "2026-11-23T12:07:21.841Z"
   },
   "LSNGP": null,
   "LSRG": {
@@ -1872,7 +1872,7 @@
     "liabilities": 363600000000,
     "buybackPct": 15,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:11.919Z"
+    "_updatedAt": "2026-11-23T12:07:22.830Z"
   },
   "LVHK": {
     "isFinancial": false,
@@ -1892,7 +1892,7 @@
     "liabilities": 348000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:12.055Z"
+    "_updatedAt": "2026-11-23T12:07:23.239Z"
   },
   "MAGE": {
     "isFinancial": false,
@@ -1912,7 +1912,7 @@
     "liabilities": 13900000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:12.254Z"
+    "_updatedAt": "2026-11-23T12:07:23.465Z"
   },
   "MAGEP": null,
   "MAGN": {
@@ -1933,27 +1933,27 @@
     "liabilities": 52600000000,
     "buybackPct": 20,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:12.821Z"
+    "_updatedAt": "2026-11-23T12:07:24.263Z"
   },
   "MBNK": {
     "isFinancial": true,
     "shortname": "МТС Банк",
-    "revenue": 80200000000,
-    "operatingIncome": 52200000000,
-    "netIncome": 18200000000,
+    "revenue": 82200000000,
+    "operatingIncome": 52700000000,
+    "netIncome": 17100000000.000002,
     "ocf": 0,
     "capex": null,
     "fcf": null,
     "dividendPayout": null,
     "amortization": 3000000000,
-    "assets": 692800000000,
-    "netAssets": 126200000000,
-    "roe": 17.6,
-    "roa": 2.6,
+    "assets": 752600000000,
+    "netAssets": 129300000000.00002,
+    "roe": 18.1,
+    "roa": 2.7,
     "liabilities": null,
     "buybackPct": 12,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:13.219Z"
+    "_updatedAt": "2026-11-23T12:07:24.511Z"
   },
   "MDMG": {
     "isFinancial": false,
@@ -1973,7 +1973,7 @@
     "liabilities": 10900000000,
     "buybackPct": 27,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:13.352Z"
+    "_updatedAt": "2026-11-23T12:07:24.755Z"
   },
   "MFGS": {
     "isFinancial": false,
@@ -1993,7 +1993,7 @@
     "liabilities": 43600000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:13.499Z"
+    "_updatedAt": "2026-11-23T12:07:24.998Z"
   },
   "MFGSP": null,
   "MGKL": {
@@ -2014,7 +2014,7 @@
     "liabilities": 6930000000,
     "buybackPct": 35.2,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:13.954Z"
+    "_updatedAt": "2026-11-23T12:07:25.823Z"
   },
   "MGNT": {
     "isFinancial": false,
@@ -2034,7 +2034,7 @@
     "liabilities": 922200000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:14.205Z"
+    "_updatedAt": "2026-11-23T12:07:26.394Z"
   },
   "MGNZ": {
     "isFinancial": false,
@@ -2054,7 +2054,7 @@
     "liabilities": 5250000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:14.396Z"
+    "_updatedAt": "2026-11-23T12:07:26.832Z"
   },
   "MGTS": {
     "isFinancial": false,
@@ -2074,7 +2074,7 @@
     "liabilities": 858000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:14.538Z"
+    "_updatedAt": "2026-11-23T12:07:27.404Z"
   },
   "MGTSP": null,
   "MISB": {
@@ -2095,7 +2095,7 @@
     "liabilities": 17000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:15.515Z"
+    "_updatedAt": "2026-11-23T12:07:28.372Z"
   },
   "MISBP": null,
   "MKBD": null,
@@ -2117,7 +2117,7 @@
     "liabilities": 0,
     "buybackPct": 61,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:17.027Z"
+    "_updatedAt": "2026-11-23T12:07:29.939Z"
   },
   "MONY": null,
   "MRKC": {
@@ -2138,7 +2138,7 @@
     "liabilities": 43800000000,
     "buybackPct": 25,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:17.655Z"
+    "_updatedAt": "2026-11-23T12:07:30.744Z"
   },
   "MRKK": {
     "isFinancial": false,
@@ -2158,7 +2158,7 @@
     "liabilities": 11800000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:18.029Z"
+    "_updatedAt": "2026-11-23T12:07:31.607Z"
   },
   "MRKP": {
     "isFinancial": false,
@@ -2178,7 +2178,7 @@
     "liabilities": 30200000000,
     "buybackPct": 24,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:18.402Z"
+    "_updatedAt": "2026-11-23T12:07:31.831Z"
   },
   "MRKS": {
     "isFinancial": false,
@@ -2198,7 +2198,7 @@
     "liabilities": 49900000000,
     "buybackPct": 3,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:18.657Z"
+    "_updatedAt": "2026-11-23T12:07:32.073Z"
   },
   "MRKU": {
     "isFinancial": false,
@@ -2218,7 +2218,7 @@
     "liabilities": 28100000000,
     "buybackPct": 13,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:18.834Z"
+    "_updatedAt": "2026-11-23T12:07:32.518Z"
   },
   "MRKV": {
     "isFinancial": false,
@@ -2238,7 +2238,7 @@
     "liabilities": 8109999999.999999,
     "buybackPct": 20,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:19.024Z"
+    "_updatedAt": "2026-11-23T12:07:32.922Z"
   },
   "MRKY": {
     "isFinancial": false,
@@ -2258,7 +2258,7 @@
     "liabilities": 58000000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:19.205Z"
+    "_updatedAt": "2026-11-23T12:07:33.500Z"
   },
   "MRKZ": {
     "isFinancial": false,
@@ -2278,7 +2278,7 @@
     "liabilities": 17700000000,
     "buybackPct": 30,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:19.392Z"
+    "_updatedAt": "2026-11-23T12:07:33.910Z"
   },
   "MRSB": {
     "isFinancial": false,
@@ -2298,7 +2298,7 @@
     "liabilities": 1000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:19.575Z"
+    "_updatedAt": "2026-11-23T12:07:34.162Z"
   },
   "MSNG": {
     "isFinancial": false,
@@ -2318,7 +2318,7 @@
     "liabilities": 0,
     "buybackPct": 15,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:19.833Z"
+    "_updatedAt": "2026-11-23T12:07:34.390Z"
   },
   "MSRS": {
     "isFinancial": false,
@@ -2338,7 +2338,7 @@
     "liabilities": 82100000000,
     "buybackPct": 11,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:20.224Z"
+    "_updatedAt": "2026-11-23T12:07:34.638Z"
   },
   "MSTT": {
     "isFinancial": false,
@@ -2358,7 +2358,7 @@
     "liabilities": 260000000,
     "buybackPct": 3.03,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:20.480Z"
+    "_updatedAt": "2026-11-23T12:07:34.874Z"
   },
   "MTLR": {
     "isFinancial": false,
@@ -2378,28 +2378,28 @@
     "liabilities": 251900000000,
     "buybackPct": 44,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:20.742Z"
+    "_updatedAt": "2026-11-23T12:07:35.302Z"
   },
   "MTLRP": null,
   "MTSS": {
     "isFinancial": false,
     "shortname": "МТС-ао",
-    "revenue": 851100000000,
-    "operatingIncome": 172600000000,
-    "netIncome": 54400000000,
-    "ocf": 194100000000,
-    "capex": 134100000000,
-    "fcf": 38700000000,
+    "revenue": 869800000000,
+    "operatingIncome": 176400000000,
+    "netIncome": 59600000000,
+    "ocf": 160500000000,
+    "capex": 150600000000,
+    "fcf": -13600000000,
     "dividendPayout": null,
-    "amortization": 130400000000,
-    "assets": 1836000000000,
+    "amortization": 133400000000,
+    "assets": 1860000000000,
     "netAssets": 4139999999.9999995,
-    "roe": 1313.1,
-    "roa": 3,
-    "liabilities": 1262000000000,
+    "roe": 374.3,
+    "roa": 3.2,
+    "liabilities": 1341000000000,
     "buybackPct": 41,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:21.329Z"
+    "_updatedAt": "2026-11-23T12:07:36.301Z"
   },
   "MVID": {
     "isFinancial": false,
@@ -2419,7 +2419,7 @@
     "liabilities": 159200000000,
     "buybackPct": 20,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:21.508Z"
+    "_updatedAt": "2026-11-23T12:07:36.878Z"
   },
   "NAUK": {
     "isFinancial": false,
@@ -2439,7 +2439,7 @@
     "liabilities": 678000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:21.691Z"
+    "_updatedAt": "2026-11-23T12:07:37.138Z"
   },
   "NFAZ": {
     "isFinancial": false,
@@ -2459,7 +2459,7 @@
     "liabilities": 2470000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:21.876Z"
+    "_updatedAt": "2026-11-23T12:07:37.367Z"
   },
   "NFKL": null,
   "NKHP": {
@@ -2480,7 +2480,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:22.409Z"
+    "_updatedAt": "2026-11-23T12:07:38.227Z"
   },
   "NKNC": {
     "isFinancial": false,
@@ -2500,7 +2500,7 @@
     "liabilities": 195400000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:22.606Z"
+    "_updatedAt": "2026-11-23T12:07:38.648Z"
   },
   "NKNCP": null,
   "NKSH": {
@@ -2521,7 +2521,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:23.191Z"
+    "_updatedAt": "2026-11-23T12:07:39.434Z"
   },
   "NLMK": {
     "isFinancial": false,
@@ -2541,7 +2541,7 @@
     "liabilities": 39700000000,
     "buybackPct": 21,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:23.580Z"
+    "_updatedAt": "2026-11-23T12:07:39.833Z"
   },
   "NMTP": {
     "isFinancial": false,
@@ -2561,7 +2561,7 @@
     "liabilities": 39100000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:23.769Z"
+    "_updatedAt": "2026-11-23T12:07:40.686Z"
   },
   "NNSB": {
     "isFinancial": false,
@@ -2581,7 +2581,7 @@
     "liabilities": 10000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:24.028Z"
+    "_updatedAt": "2026-11-23T12:07:40.984Z"
   },
   "NNSBP": null,
   "NSVZ": {
@@ -2602,7 +2602,7 @@
     "liabilities": 4970000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:24.623Z"
+    "_updatedAt": "2026-11-23T12:07:41.842Z"
   },
   "NVTK": {
     "isFinancial": false,
@@ -2622,7 +2622,7 @@
     "liabilities": 268200000000,
     "buybackPct": 21,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:24.810Z"
+    "_updatedAt": "2026-11-23T12:07:42.071Z"
   },
   "OBLG": null,
   "OFZS": null,
@@ -2644,7 +2644,7 @@
     "liabilities": 58300000000,
     "buybackPct": 15,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:25.718Z"
+    "_updatedAt": "2026-11-23T12:07:44.068Z"
   },
   "OKEY": {
     "isFinancial": false,
@@ -2664,7 +2664,7 @@
     "liabilities": 0,
     "buybackPct": 26.8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:26.069Z"
+    "_updatedAt": "2026-11-23T12:07:44.515Z"
   },
   "OLIQ": null,
   "OMZZP": null,
@@ -2686,7 +2686,7 @@
     "liabilities": 1517000000000,
     "buybackPct": 26,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:27.077Z"
+    "_updatedAt": "2026-11-23T12:07:46.027Z"
   },
   "OZPH": {
     "isFinancial": false,
@@ -2706,7 +2706,7 @@
     "liabilities": 7770000000,
     "buybackPct": 20,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:27.263Z"
+    "_updatedAt": "2026-11-23T12:07:46.412Z"
   },
   "PAZA": {
     "isFinancial": false,
@@ -2726,7 +2726,7 @@
     "liabilities": 6460000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:27.409Z"
+    "_updatedAt": "2026-11-23T12:07:46.650Z"
   },
   "PHOR": {
     "isFinancial": false,
@@ -2746,7 +2746,7 @@
     "liabilities": 364600000000,
     "buybackPct": 29,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:27.590Z"
+    "_updatedAt": "2026-11-23T12:07:46.949Z"
   },
   "PIKK": {
     "isFinancial": false,
@@ -2766,7 +2766,7 @@
     "liabilities": 874900000000,
     "buybackPct": 15,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:27.747Z"
+    "_updatedAt": "2026-11-23T12:07:47.392Z"
   },
   "PLZL": {
     "isFinancial": false,
@@ -2786,7 +2786,7 @@
     "liabilities": 912900000000,
     "buybackPct": 22,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:28.001Z"
+    "_updatedAt": "2026-11-23T12:07:47.607Z"
   },
   "PMSB": {
     "isFinancial": false,
@@ -2806,7 +2806,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:28.272Z"
+    "_updatedAt": "2026-11-23T12:07:47.840Z"
   },
   "PMSBP": null,
   "POSI": {
@@ -2827,7 +2827,7 @@
     "liabilities": 25500000000,
     "buybackPct": 27,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:28.835Z"
+    "_updatedAt": "2026-11-23T12:07:48.586Z"
   },
   "PRFN": {
     "isFinancial": false,
@@ -2847,7 +2847,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:29.096Z"
+    "_updatedAt": "2026-11-23T12:07:49.137Z"
   },
   "PRIE": null,
   "PRMB": {
@@ -2868,7 +2868,7 @@
     "liabilities": null,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:29.897Z"
+    "_updatedAt": "2026-11-23T12:07:49.867Z"
   },
   "PRMD": {
     "isFinancial": false,
@@ -2888,7 +2888,7 @@
     "liabilities": 32200000000.000004,
     "buybackPct": 9,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:30.073Z"
+    "_updatedAt": "2026-11-23T12:07:50.387Z"
   },
   "PSGM": null,
   "PSMM": null,
@@ -2912,7 +2912,7 @@
     "liabilities": 196200000000,
     "buybackPct": 20,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:31.780Z"
+    "_updatedAt": "2026-11-23T12:07:52.501Z"
   },
   "RASP": {
     "isFinancial": false,
@@ -2932,7 +2932,7 @@
     "liabilities": 61000000,
     "buybackPct": 7,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:32.159Z"
+    "_updatedAt": "2026-11-23T12:07:52.942Z"
   },
   "RBCM": {
     "isFinancial": false,
@@ -2952,7 +2952,7 @@
     "liabilities": 5270000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:32.338Z"
+    "_updatedAt": "2026-11-23T12:07:53.354Z"
   },
   "RDRB": {
     "isFinancial": true,
@@ -2972,7 +2972,7 @@
     "liabilities": null,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:32.598Z"
+    "_updatedAt": "2026-11-23T12:07:54.140Z"
   },
   "RENI": {
     "isFinancial": true,
@@ -2992,7 +2992,7 @@
     "liabilities": 258000000,
     "buybackPct": 32,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:32.846Z"
+    "_updatedAt": "2026-11-23T12:07:54.569Z"
   },
   "RGSS": {
     "isFinancial": false,
@@ -3012,7 +3012,7 @@
     "liabilities": null,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:33.032Z"
+    "_updatedAt": "2026-11-23T12:07:54.973Z"
   },
   "RKKE": {
     "isFinancial": false,
@@ -3032,7 +3032,7 @@
     "liabilities": 26100000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:33.211Z"
+    "_updatedAt": "2026-11-23T12:07:55.209Z"
   },
   "RNFT": {
     "isFinancial": false,
@@ -3052,7 +3052,7 @@
     "liabilities": 114500000000,
     "buybackPct": 26,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:33.409Z"
+    "_updatedAt": "2026-11-23T12:07:55.668Z"
   },
   "ROBL": null,
   "ROLO": {
@@ -3073,7 +3073,7 @@
     "liabilities": 24000000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:33.907Z"
+    "_updatedAt": "2026-11-23T12:07:56.919Z"
   },
   "ROSN": {
     "isFinancial": false,
@@ -3093,7 +3093,7 @@
     "liabilities": 3635000000000,
     "buybackPct": 11,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:34.168Z"
+    "_updatedAt": "2026-11-23T12:07:57.390Z"
   },
   "ROST": {
     "isFinancial": false,
@@ -3113,7 +3113,7 @@
     "liabilities": 6750000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:34.474Z"
+    "_updatedAt": "2026-11-23T12:07:57.795Z"
   },
   "RSHU": null,
   "RTGZ": {
@@ -3134,7 +3134,7 @@
     "liabilities": 80000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:34.981Z"
+    "_updatedAt": "2026-11-23T12:07:58.802Z"
   },
   "RTKM": {
     "isFinancial": false,
@@ -3154,7 +3154,7 @@
     "liabilities": 618700000000,
     "buybackPct": 29,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:35.176Z"
+    "_updatedAt": "2026-11-23T12:07:59.268Z"
   },
   "RTKMP": null,
   "RTSB": {
@@ -3175,7 +3175,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:54:35.926Z"
+    "_updatedAt": "2026-11-23T12:08:00.543Z"
   },
   "RTSBP": null,
   "RU0005418747": null,
@@ -3302,7 +3302,7 @@
     "liabilities": 772800000000,
     "buybackPct": 18,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:11.909Z"
+    "_updatedAt": "2026-11-23T12:08:55.920Z"
   },
   "RUFO": null,
   "RUSI": {
@@ -3323,7 +3323,7 @@
     "liabilities": null,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:12.424Z"
+    "_updatedAt": "2026-11-23T12:08:56.979Z"
   },
   "RZSB": {
     "isFinancial": false,
@@ -3343,7 +3343,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:12.618Z"
+    "_updatedAt": "2026-11-23T12:08:57.538Z"
   },
   "SAFE": null,
   "SAGO": {
@@ -3364,7 +3364,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:13.205Z"
+    "_updatedAt": "2026-11-23T12:08:59.266Z"
   },
   "SAGOP": null,
   "SARE": {
@@ -3385,7 +3385,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:13.851Z"
+    "_updatedAt": "2026-11-23T12:09:00.238Z"
   },
   "SAREP": null,
   "SBBC": null,
@@ -3411,7 +3411,7 @@
     "liabilities": null,
     "buybackPct": 48,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:16.433Z"
+    "_updatedAt": "2026-11-23T12:09:03.242Z"
   },
   "SBERP": null,
   "SBFR": null,
@@ -3432,22 +3432,22 @@
   "SELG": {
     "isFinancial": false,
     "shortname": "Селигдар",
-    "revenue": 99300000000,
-    "operatingIncome": 27200000000,
-    "netIncome": -3600000000,
-    "ocf": -19100000000,
-    "capex": 22200000000,
-    "fcf": -41000000000,
+    "revenue": 103300000000,
+    "operatingIncome": 28500000000,
+    "netIncome": 2700000000,
+    "ocf": -15300000000,
+    "capex": 26600000000,
+    "fcf": -42600000000,
     "dividendPayout": null,
-    "amortization": 10200000000,
-    "assets": 231200000000,
-    "netAssets": 14200000000,
+    "amortization": 11900000000,
+    "assets": 246800000000,
+    "netAssets": 15800000000,
     "roe": -25.3,
     "roa": -1.6,
-    "liabilities": 162200000000,
+    "liabilities": 177200000000,
     "buybackPct": 25,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:21.896Z"
+    "_updatedAt": "2026-11-23T12:09:10.561Z"
   },
   "SFIN": {
     "isFinancial": false,
@@ -3467,7 +3467,7 @@
     "liabilities": 0,
     "buybackPct": 8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:22.222Z"
+    "_updatedAt": "2026-11-23T12:09:10.975Z"
   },
   "SGZH": {
     "isFinancial": false,
@@ -3487,7 +3487,7 @@
     "liabilities": 78500000000,
     "buybackPct": 8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:22.421Z"
+    "_updatedAt": "2026-11-23T12:09:11.552Z"
   },
   "SIBN": {
     "isFinancial": false,
@@ -3507,7 +3507,7 @@
     "liabilities": 1707000000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:22.602Z"
+    "_updatedAt": "2026-11-23T12:09:11.770Z"
   },
   "SILA": null,
   "SIPO": null,
@@ -3529,7 +3529,7 @@
     "liabilities": 17000000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:23.433Z"
+    "_updatedAt": "2026-11-23T12:09:12.972Z"
   },
   "SMCF": null,
   "SMLT": {
@@ -3550,7 +3550,7 @@
     "liabilities": 773300000000,
     "buybackPct": 33,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:24.003Z"
+    "_updatedAt": "2026-11-23T12:09:13.706Z"
   },
   "SNGS": {
     "isFinancial": false,
@@ -3570,28 +3570,28 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:24.375Z"
+    "_updatedAt": "2026-11-23T12:09:14.055Z"
   },
   "SNGSP": null,
   "SOFL": {
     "isFinancial": false,
     "shortname": "iСофтлайн",
     "revenue": 100700000000,
-    "operatingIncome": 3930000000,
-    "netIncome": 3380000000,
+    "operatingIncome": 5050000000,
+    "netIncome": 4179999999.9999995,
     "ocf": -6880000000,
     "capex": 4540000000,
     "fcf": -15700000000,
     "dividendPayout": null,
     "amortization": 4400000000,
-    "assets": 103200000000,
-    "netAssets": 23800000000,
-    "roe": 14.2,
-    "roa": 3.3,
-    "liabilities": 32900000000,
+    "assets": 117700000000,
+    "netAssets": 22100000000,
+    "roe": 8.3,
+    "roa": 1.6,
+    "liabilities": 27900000000,
     "buybackPct": 19,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:24.875Z"
+    "_updatedAt": "2026-11-23T12:09:14.862Z"
   },
   "SPBE": {
     "isFinancial": false,
@@ -3611,7 +3611,7 @@
     "liabilities": null,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:25.061Z"
+    "_updatedAt": "2026-11-23T12:09:15.227Z"
   },
   "SPRN": null,
   "STME": null,
@@ -3633,7 +3633,7 @@
     "liabilities": 0,
     "buybackPct": 6.25,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:26.034Z"
+    "_updatedAt": "2026-11-23T12:09:16.372Z"
   },
   "STSBP": null,
   "SUGB": null,
@@ -3655,7 +3655,7 @@
     "liabilities": 16600000000.000002,
     "buybackPct": 20,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:27.153Z"
+    "_updatedAt": "2026-11-23T12:09:17.597Z"
   },
   "SVCB": {
     "isFinancial": true,
@@ -3675,7 +3675,7 @@
     "liabilities": null,
     "buybackPct": 17,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:27.406Z"
+    "_updatedAt": "2026-11-23T12:09:17.997Z"
   },
   "SVET": {
     "isFinancial": false,
@@ -3695,7 +3695,7 @@
     "liabilities": null,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:27.594Z"
+    "_updatedAt": "2026-11-23T12:09:18.224Z"
   },
   "SVETP": null,
   "T": {
@@ -3716,7 +3716,7 @@
     "liabilities": null,
     "buybackPct": 51,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:28.092Z"
+    "_updatedAt": "2026-11-23T12:09:19.048Z"
   },
   "TASB": {
     "isFinancial": false,
@@ -3736,7 +3736,7 @@
     "liabilities": 62000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:28.285Z"
+    "_updatedAt": "2026-11-23T12:09:19.655Z"
   },
   "TASBP": null,
   "TATN": {
@@ -3757,7 +3757,7 @@
     "liabilities": 10800000000,
     "buybackPct": 32,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:28.864Z"
+    "_updatedAt": "2026-11-23T12:09:20.488Z"
   },
   "TATNP": null,
   "TBEU": null,
@@ -3783,7 +3783,7 @@
     "liabilities": 38400000000,
     "buybackPct": 17,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:31.313Z"
+    "_updatedAt": "2026-11-23T12:09:23.286Z"
   },
   "TGKB": {
     "isFinancial": false,
@@ -3803,7 +3803,7 @@
     "liabilities": 11900000000,
     "buybackPct": 16.6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:31.636Z"
+    "_updatedAt": "2026-11-23T12:09:23.653Z"
   },
   "TGKBP": null,
   "TGKN": {
@@ -3824,9 +3824,10 @@
     "liabilities": 14600000000,
     "buybackPct": 16,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:32.253Z"
+    "_updatedAt": "2026-11-23T12:09:24.417Z"
   },
   "TGLD": null,
+  "TIRA": null,
   "TITR": null,
   "TLCB": null,
   "TMON": null,
@@ -3849,7 +3850,7 @@
     "liabilities": 249000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:34.220Z"
+    "_updatedAt": "2026-11-23T12:09:27.263Z"
   },
   "TOFZ": null,
   "TOPS": null,
@@ -3857,21 +3858,21 @@
     "isFinancial": false,
     "shortname": "РСТомск ао",
     "revenue": 12700000000,
-    "operatingIncome": 679000000,
-    "netIncome": 485000000,
-    "ocf": 957000000,
-    "capex": 1110000000,
-    "fcf": -166000000,
+    "operatingIncome": 585000000,
+    "netIncome": 412000000,
+    "ocf": 908000000,
+    "capex": 1060000000,
+    "fcf": -168000000,
     "dividendPayout": null,
     "amortization": 600000000,
     "assets": 6330000000,
-    "netAssets": 4560000000,
-    "roe": 10.6,
-    "roa": 7.7,
-    "liabilities": 355000000,
+    "netAssets": 4570000000,
+    "roe": 9,
+    "roa": 6.5,
+    "liabilities": 294000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:35.161Z"
+    "_updatedAt": "2026-11-23T12:09:28.509Z"
   },
   "TORSP": null,
   "TPAY": null,
@@ -3893,7 +3894,7 @@
     "liabilities": 393100000000,
     "buybackPct": 8,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:36.096Z"
+    "_updatedAt": "2026-11-23T12:09:29.683Z"
   },
   "TRND": null,
   "TRNFP": {
@@ -3914,7 +3915,7 @@
     "liabilities": 157400000000,
     "buybackPct": 37,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:36.594Z"
+    "_updatedAt": "2026-11-23T12:09:30.388Z"
   },
   "TRUR": null,
   "TSAV": null,
@@ -3936,7 +3937,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:37.479Z"
+    "_updatedAt": "2026-11-23T12:09:31.639Z"
   },
   "TUSD": null,
   "TUZA": {
@@ -3957,7 +3958,7 @@
     "liabilities": 398000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:38.108Z"
+    "_updatedAt": "2026-11-23T12:09:32.471Z"
   },
   "UGLD": {
     "isFinancial": false,
@@ -3977,7 +3978,7 @@
     "liabilities": 68900000000,
     "buybackPct": 11,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:38.376Z"
+    "_updatedAt": "2026-11-23T12:09:32.890Z"
   },
   "UKUZ": {
     "isFinancial": false,
@@ -3997,7 +3998,7 @@
     "liabilities": 51200000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:38.762Z"
+    "_updatedAt": "2026-11-23T12:09:33.143Z"
   },
   "UNAC": {
     "isFinancial": false,
@@ -4017,7 +4018,7 @@
     "liabilities": 734800000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:38.959Z"
+    "_updatedAt": "2026-11-23T12:09:33.382Z"
   },
   "UNKL": {
     "isFinancial": false,
@@ -4037,7 +4038,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:39.146Z"
+    "_updatedAt": "2026-11-23T12:09:33.612Z"
   },
   "UPRO": {
     "isFinancial": false,
@@ -4057,7 +4058,7 @@
     "liabilities": 0,
     "buybackPct": 16,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:39.404Z"
+    "_updatedAt": "2026-11-23T12:09:33.900Z"
   },
   "URKZ": {
     "isFinancial": false,
@@ -4077,7 +4078,7 @@
     "liabilities": 4269999999.9999995,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:39.785Z"
+    "_updatedAt": "2026-11-23T12:09:34.323Z"
   },
   "USBN": {
     "isFinancial": true,
@@ -4097,7 +4098,7 @@
     "liabilities": null,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:40.040Z"
+    "_updatedAt": "2026-11-23T12:09:34.609Z"
   },
   "UTAR": {
     "isFinancial": false,
@@ -4117,7 +4118,7 @@
     "liabilities": 28500000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:40.234Z"
+    "_updatedAt": "2026-11-23T12:09:34.883Z"
   },
   "UWGN": {
     "isFinancial": false,
@@ -4137,7 +4138,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:40.374Z"
+    "_updatedAt": "2026-11-23T12:09:35.170Z"
   },
   "VDOR": null,
   "VEON-RX": null,
@@ -4159,7 +4160,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:41.307Z"
+    "_updatedAt": "2026-11-23T12:09:36.347Z"
   },
   "VGSBP": null,
   "VJGZ": {
@@ -4180,7 +4181,7 @@
     "liabilities": 22600000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:41.934Z"
+    "_updatedAt": "2026-11-23T12:09:37.133Z"
   },
   "VJGZP": null,
   "VKCO": {
@@ -4201,7 +4202,7 @@
     "liabilities": 110900000000,
     "buybackPct": 20,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:42.543Z"
+    "_updatedAt": "2026-11-23T12:09:37.949Z"
   },
   "VLHZ": {
     "isFinancial": false,
@@ -4221,7 +4222,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:42.929Z"
+    "_updatedAt": "2026-11-23T12:09:38.354Z"
   },
   "VRSB": {
     "isFinancial": false,
@@ -4241,28 +4242,28 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:43.184Z"
+    "_updatedAt": "2026-11-23T12:09:38.642Z"
   },
   "VRSBP": null,
   "VSEH": {
     "isFinancial": false,
     "shortname": "ВИ.ру",
-    "revenue": 185700000000,
-    "operatingIncome": 12100000000,
-    "netIncome": 6460000000,
-    "ocf": 19400000000,
-    "capex": 914000000,
-    "fcf": 16300000000,
+    "revenue": 190700000000,
+    "operatingIncome": 12900000000,
+    "netIncome": 7310000000,
+    "ocf": 16700000000,
+    "capex": 654000000,
+    "fcf": 13900000000,
     "dividendPayout": null,
-    "amortization": 6200000000,
-    "assets": 76100000000,
-    "netAssets": 5640000000,
-    "roe": 114.5,
-    "roa": 8.5,
-    "liabilities": 9210000000,
+    "amortization": 6300000000,
+    "assets": 78900000000,
+    "netAssets": 7890000000,
+    "roe": 92.7,
+    "roa": 9.3,
+    "liabilities": 6050000000,
     "buybackPct": 13,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:43.693Z"
+    "_updatedAt": "2026-11-23T12:09:39.308Z"
   },
   "VSMO": {
     "isFinancial": false,
@@ -4282,7 +4283,7 @@
     "liabilities": 65900000000.00001,
     "buybackPct": 6,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:43.877Z"
+    "_updatedAt": "2026-11-23T12:09:39.725Z"
   },
   "VSYD": null,
   "VSYDP": {
@@ -4303,7 +4304,7 @@
     "liabilities": 3670000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:44.477Z"
+    "_updatedAt": "2026-11-23T12:09:40.998Z"
   },
   "VTBR": {
     "isFinancial": true,
@@ -4323,7 +4324,7 @@
     "liabilities": null,
     "buybackPct": 20,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:44.782Z"
+    "_updatedAt": "2026-11-23T12:09:41.273Z"
   },
   "WFLO": null,
   "WFUT": null,
@@ -4348,7 +4349,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:46.671Z"
+    "_updatedAt": "2026-11-23T12:09:43.674Z"
   },
   "WUSD": null,
   "WUSH": {
@@ -4369,7 +4370,7 @@
     "liabilities": 16500000000,
     "buybackPct": 40,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:47.281Z"
+    "_updatedAt": "2026-11-23T12:09:44.406Z"
   },
   "X5": {
     "isFinancial": false,
@@ -4389,7 +4390,7 @@
     "liabilities": 430600000000,
     "buybackPct": 29,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:47.536Z"
+    "_updatedAt": "2026-11-23T12:09:44.554Z"
   },
   "XACCSK": null,
   "XAVIUM": null,
@@ -4432,7 +4433,7 @@
     "liabilities": 8400000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:55.588Z"
+    "_updatedAt": "2026-11-23T12:09:54.571Z"
   },
   "YDEX": {
     "isFinancial": false,
@@ -4452,7 +4453,7 @@
     "liabilities": 730100000000,
     "buybackPct": 26,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:55.899Z"
+    "_updatedAt": "2026-11-23T12:09:54.850Z"
   },
   "YKEN": {
     "isFinancial": false,
@@ -4472,7 +4473,7 @@
     "liabilities": 90400000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:56.094Z"
+    "_updatedAt": "2026-11-23T12:09:55.216Z"
   },
   "YKENP": null,
   "YRSB": {
@@ -4493,7 +4494,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:56.672Z"
+    "_updatedAt": "2026-11-23T12:09:56.020Z"
   },
   "YRSBP": null,
   "YUAN": null,
@@ -4515,7 +4516,7 @@
     "liabilities": 6000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:57.666Z"
+    "_updatedAt": "2026-11-23T12:09:57.118Z"
   },
   "ZILL": {
     "isFinancial": false,
@@ -4535,7 +4536,7 @@
     "liabilities": 0,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:57.920Z"
+    "_updatedAt": "2026-11-23T12:09:57.529Z"
   },
   "ZVEZ": {
     "isFinancial": false,
@@ -4555,6 +4556,6 @@
     "liabilities": 4690000000,
     "buybackPct": null,
     "_reportType": "MSFO",
-    "_updatedAt": "2026-11-16T10:55:58.172Z"
+    "_updatedAt": "2026-11-23T12:09:57.942Z"
   }
 }
